@@ -1,1220 +1,1753 @@
 property,count
-developerId=xitianci;free=1;genre=Art & Design;,26
-developerId=bakasdo;free=1;genre=Art & Design;,35
-developerId=muinApp;free=1;genre=Art & Design;,36
-developerId=Dantebus.com;free=1;genre=Art & Design;,106
-developerId=xitianci;free=1;price=0.0;,26
-developerId=bakasdo;free=1;price=0.0;,35
-developerId=muinApp;free=1;price=0.0;,36
-developerId=Dantebus.com;free=1;price=0.0;,106
-developerId=bakasdo;free=1;ratings=0;,24
-developerId=muinApp;free=1;ratings=0;,35
-developerId=Dantebus.com;free=1;ratings=0;,106
-developerId=xitianci;free=1;releasedYear=2019;,26
-developerId=bakasdo;free=1;releasedYear=2019;,35
-developerId=muinApp;free=1;releasedYear=2020;,36
-developerId=Dantebus.com;free=1;releasedYear=2022;,104
-developerId=xitianci;free=1;adSupported=1;,26
-developerId=bakasdo;free=1;adSupported=1;,35
-developerId=muinApp;free=1;adSupported=1;,36
-developerId=Dantebus.com;free=1;adSupported=0;,106
-developerId=xitianci;free=1;containsAds=1;,26
-developerId=bakasdo;free=1;containsAds=1;,35
-developerId=muinApp;free=1;containsAds=1;,36
-developerId=Dantebus.com;free=1;containsAds=0;,106
-developerId=bakasdo;free=1;reviews=0;,24
-developerId=muinApp;free=1;reviews=0;,36
-developerId=Dantebus.com;free=1;reviews=0;,106
-developerId=bakasdo;free=1;score=0.0;,24
-developerId=muinApp;free=1;score=0.0;,35
-developerId=Dantebus.com;free=1;score=0.0;,106
-developerId=xitianci;free=1;year_bucket_range=[2019-2020];,26
-developerId=bakasdo;free=1;year_bucket_range=[2019-2020];,35
-developerId=muinApp;free=1;year_bucket_range=[2019-2020];,36
-developerId=Dantebus.com;free=1;year_bucket_range=[2021-2022];,106
-developerId=xitianci;free=1;install_bucket_range=[0-100000];,26
-developerId=bakasdo;free=1;install_bucket_range=[0-100000];,33
-developerId=muinApp;free=1;install_bucket_range=[0-100000];,36
-developerId=Dantebus.com;free=1;install_bucket_range=[0-100000];,106
-developerId=xitianci;free=1;price_bucket_range=[0-5];,26
-developerId=bakasdo;free=1;price_bucket_range=[0-5];,35
-developerId=muinApp;free=1;price_bucket_range=[0-5];,36
-developerId=Dantebus.com;free=1;price_bucket_range=[0-5];,106
-developerId=xitianci;genre=Art & Design;price=0.0;,26
-developerId=bakasdo;genre=Art & Design;price=0.0;,35
-developerId=muinApp;genre=Art & Design;price=0.0;,36
-developerId=Dantebus.com;genre=Art & Design;price=0.0;,106
-developerId=bakasdo;genre=Art & Design;ratings=0;,24
-developerId=muinApp;genre=Art & Design;ratings=0;,35
-developerId=2crewmans;genre=Art & Design;ratings=0;,21
-developerId=Dantebus.com;genre=Art & Design;ratings=0;,106
-developerId=xitianci;genre=Art & Design;releasedYear=2019;,26
-developerId=bakasdo;genre=Art & Design;releasedYear=2019;,35
-developerId=muinApp;genre=Art & Design;releasedYear=2020;,36
-developerId=2crewmans;genre=Art & Design;releasedYear=2020;,21
-developerId=Dantebus.com;genre=Art & Design;releasedYear=2022;,104
-developerId=xitianci;genre=Art & Design;adSupported=1;,26
-developerId=bakasdo;genre=Art & Design;adSupported=1;,35
-developerId=muinApp;genre=Art & Design;adSupported=1;,36
-developerId=2crewmans;genre=Art & Design;adSupported=0;,21
-developerId=Dantebus.com;genre=Art & Design;adSupported=0;,106
-developerId=xitianci;genre=Art & Design;containsAds=1;,26
-developerId=bakasdo;genre=Art & Design;containsAds=1;,35
-developerId=muinApp;genre=Art & Design;containsAds=1;,36
-developerId=2crewmans;genre=Art & Design;containsAds=0;,21
-developerId=Dantebus.com;genre=Art & Design;containsAds=0;,106
-developerId=bakasdo;genre=Art & Design;reviews=0;,24
-developerId=muinApp;genre=Art & Design;reviews=0;,36
-developerId=2crewmans;genre=Art & Design;reviews=0;,21
-developerId=Dantebus.com;genre=Art & Design;reviews=0;,106
-developerId=bakasdo;genre=Art & Design;score=0.0;,24
-developerId=muinApp;genre=Art & Design;score=0.0;,35
-developerId=2crewmans;genre=Art & Design;score=0.0;,21
-developerId=Dantebus.com;genre=Art & Design;score=0.0;,106
-developerId=xitianci;genre=Art & Design;year_bucket_range=[2019-2020];,26
-developerId=bakasdo;genre=Art & Design;year_bucket_range=[2019-2020];,35
-developerId=muinApp;genre=Art & Design;year_bucket_range=[2019-2020];,36
-developerId=2crewmans;genre=Art & Design;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;genre=Art & Design;year_bucket_range=[2021-2022];,106
-developerId=xitianci;genre=Art & Design;install_bucket_range=[0-100000];,26
-developerId=bakasdo;genre=Art & Design;install_bucket_range=[0-100000];,33
-developerId=muinApp;genre=Art & Design;install_bucket_range=[0-100000];,36
-developerId=2crewmans;genre=Art & Design;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;genre=Art & Design;install_bucket_range=[0-100000];,106
-developerId=xitianci;genre=Art & Design;price_bucket_range=[0-5];,26
-developerId=bakasdo;genre=Art & Design;price_bucket_range=[0-5];,35
-developerId=muinApp;genre=Art & Design;price_bucket_range=[0-5];,36
-developerId=2crewmans;genre=Art & Design;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;genre=Art & Design;price_bucket_range=[0-5];,106
-developerId=bakasdo;price=0.0;ratings=0;,24
-developerId=muinApp;price=0.0;ratings=0;,35
-developerId=Dantebus.com;price=0.0;ratings=0;,106
-developerId=xitianci;price=0.0;releasedYear=2019;,26
-developerId=bakasdo;price=0.0;releasedYear=2019;,35
-developerId=muinApp;price=0.0;releasedYear=2020;,36
-developerId=Dantebus.com;price=0.0;releasedYear=2022;,104
-developerId=xitianci;price=0.0;adSupported=1;,26
-developerId=bakasdo;price=0.0;adSupported=1;,35
-developerId=muinApp;price=0.0;adSupported=1;,36
-developerId=Dantebus.com;price=0.0;adSupported=0;,106
-developerId=xitianci;price=0.0;containsAds=1;,26
-developerId=bakasdo;price=0.0;containsAds=1;,35
-developerId=muinApp;price=0.0;containsAds=1;,36
-developerId=Dantebus.com;price=0.0;containsAds=0;,106
-developerId=bakasdo;price=0.0;reviews=0;,24
-developerId=muinApp;price=0.0;reviews=0;,36
-developerId=Dantebus.com;price=0.0;reviews=0;,106
-developerId=bakasdo;price=0.0;score=0.0;,24
-developerId=muinApp;price=0.0;score=0.0;,35
-developerId=Dantebus.com;price=0.0;score=0.0;,106
-developerId=xitianci;price=0.0;year_bucket_range=[2019-2020];,26
-developerId=bakasdo;price=0.0;year_bucket_range=[2019-2020];,35
-developerId=muinApp;price=0.0;year_bucket_range=[2019-2020];,36
-developerId=Dantebus.com;price=0.0;year_bucket_range=[2021-2022];,106
-developerId=xitianci;price=0.0;install_bucket_range=[0-100000];,26
-developerId=bakasdo;price=0.0;install_bucket_range=[0-100000];,33
-developerId=muinApp;price=0.0;install_bucket_range=[0-100000];,36
-developerId=Dantebus.com;price=0.0;install_bucket_range=[0-100000];,106
-developerId=xitianci;price=0.0;price_bucket_range=[0-5];,26
-developerId=bakasdo;price=0.0;price_bucket_range=[0-5];,35
-developerId=muinApp;price=0.0;price_bucket_range=[0-5];,36
-developerId=Dantebus.com;price=0.0;price_bucket_range=[0-5];,106
-developerId=bakasdo;ratings=0;releasedYear=2019;,24
-developerId=muinApp;ratings=0;releasedYear=2020;,35
-developerId=2crewmans;ratings=0;releasedYear=2020;,21
-developerId=Dantebus.com;ratings=0;releasedYear=2022;,104
-developerId=bakasdo;ratings=0;adSupported=1;,24
-developerId=muinApp;ratings=0;adSupported=1;,35
-developerId=2crewmans;ratings=0;adSupported=0;,21
-developerId=Dantebus.com;ratings=0;adSupported=0;,106
-developerId=bakasdo;ratings=0;containsAds=1;,24
-developerId=muinApp;ratings=0;containsAds=1;,35
-developerId=2crewmans;ratings=0;containsAds=0;,21
-developerId=Dantebus.com;ratings=0;containsAds=0;,106
-developerId=bakasdo;ratings=0;reviews=0;,24
-developerId=muinApp;ratings=0;reviews=0;,35
-developerId=2crewmans;ratings=0;reviews=0;,21
-developerId=Dantebus.com;ratings=0;reviews=0;,106
-developerId=bakasdo;ratings=0;score=0.0;,24
-developerId=muinApp;ratings=0;score=0.0;,35
-developerId=2crewmans;ratings=0;score=0.0;,21
-developerId=Dantebus.com;ratings=0;score=0.0;,106
-developerId=bakasdo;ratings=0;year_bucket_range=[2019-2020];,24
-developerId=muinApp;ratings=0;year_bucket_range=[2019-2020];,35
-developerId=2crewmans;ratings=0;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;ratings=0;year_bucket_range=[2021-2022];,106
-developerId=bakasdo;ratings=0;install_bucket_range=[0-100000];,24
-developerId=muinApp;ratings=0;install_bucket_range=[0-100000];,35
-developerId=2crewmans;ratings=0;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;ratings=0;install_bucket_range=[0-100000];,106
-developerId=bakasdo;ratings=0;price_bucket_range=[0-5];,24
-developerId=muinApp;ratings=0;price_bucket_range=[0-5];,35
-developerId=2crewmans;ratings=0;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;ratings=0;price_bucket_range=[0-5];,106
-developerId=xitianci;releasedYear=2019;adSupported=1;,26
-developerId=bakasdo;releasedYear=2019;adSupported=1;,35
-developerId=muinApp;releasedYear=2020;adSupported=1;,36
-developerId=2crewmans;releasedYear=2020;adSupported=0;,21
-developerId=Dantebus.com;releasedYear=2022;adSupported=0;,104
-developerId=xitianci;releasedYear=2019;containsAds=1;,26
-developerId=bakasdo;releasedYear=2019;containsAds=1;,35
-developerId=muinApp;releasedYear=2020;containsAds=1;,36
-developerId=2crewmans;releasedYear=2020;containsAds=0;,21
-developerId=Dantebus.com;releasedYear=2022;containsAds=0;,104
-developerId=bakasdo;releasedYear=2019;reviews=0;,24
-developerId=muinApp;releasedYear=2020;reviews=0;,36
-developerId=2crewmans;releasedYear=2020;reviews=0;,21
-developerId=Dantebus.com;releasedYear=2022;reviews=0;,104
-developerId=bakasdo;releasedYear=2019;score=0.0;,24
-developerId=muinApp;releasedYear=2020;score=0.0;,35
-developerId=2crewmans;releasedYear=2020;score=0.0;,21
-developerId=Dantebus.com;releasedYear=2022;score=0.0;,104
-developerId=xitianci;releasedYear=2019;year_bucket_range=[2019-2020];,26
-developerId=bakasdo;releasedYear=2019;year_bucket_range=[2019-2020];,35
-developerId=muinApp;releasedYear=2020;year_bucket_range=[2019-2020];,36
-developerId=2crewmans;releasedYear=2020;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;releasedYear=2022;year_bucket_range=[2021-2022];,104
-developerId=xitianci;releasedYear=2019;install_bucket_range=[0-100000];,26
-developerId=bakasdo;releasedYear=2019;install_bucket_range=[0-100000];,33
-developerId=muinApp;releasedYear=2020;install_bucket_range=[0-100000];,36
-developerId=2crewmans;releasedYear=2020;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;releasedYear=2022;install_bucket_range=[0-100000];,104
-developerId=xitianci;releasedYear=2019;price_bucket_range=[0-5];,26
-developerId=bakasdo;releasedYear=2019;price_bucket_range=[0-5];,35
-developerId=muinApp;releasedYear=2020;price_bucket_range=[0-5];,36
-developerId=2crewmans;releasedYear=2020;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;releasedYear=2022;price_bucket_range=[0-5];,104
-developerId=xitianci;adSupported=1;containsAds=1;,26
-developerId=bakasdo;adSupported=1;containsAds=1;,35
-developerId=muinApp;adSupported=1;containsAds=1;,36
-developerId=2crewmans;adSupported=0;containsAds=0;,21
-developerId=Dantebus.com;adSupported=0;containsAds=0;,106
-developerId=bakasdo;adSupported=1;reviews=0;,24
-developerId=muinApp;adSupported=1;reviews=0;,36
-developerId=2crewmans;adSupported=0;reviews=0;,21
-developerId=Dantebus.com;adSupported=0;reviews=0;,106
-developerId=bakasdo;adSupported=1;score=0.0;,24
-developerId=muinApp;adSupported=1;score=0.0;,35
-developerId=2crewmans;adSupported=0;score=0.0;,21
-developerId=Dantebus.com;adSupported=0;score=0.0;,106
-developerId=xitianci;adSupported=1;year_bucket_range=[2019-2020];,26
-developerId=bakasdo;adSupported=1;year_bucket_range=[2019-2020];,35
-developerId=muinApp;adSupported=1;year_bucket_range=[2019-2020];,36
-developerId=2crewmans;adSupported=0;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;adSupported=0;year_bucket_range=[2021-2022];,106
-developerId=xitianci;adSupported=1;install_bucket_range=[0-100000];,26
-developerId=bakasdo;adSupported=1;install_bucket_range=[0-100000];,33
-developerId=muinApp;adSupported=1;install_bucket_range=[0-100000];,36
-developerId=2crewmans;adSupported=0;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;adSupported=0;install_bucket_range=[0-100000];,106
-developerId=xitianci;adSupported=1;price_bucket_range=[0-5];,26
-developerId=bakasdo;adSupported=1;price_bucket_range=[0-5];,35
-developerId=muinApp;adSupported=1;price_bucket_range=[0-5];,36
-developerId=2crewmans;adSupported=0;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;adSupported=0;price_bucket_range=[0-5];,106
-developerId=bakasdo;containsAds=1;reviews=0;,24
-developerId=muinApp;containsAds=1;reviews=0;,36
-developerId=2crewmans;containsAds=0;reviews=0;,21
-developerId=Dantebus.com;containsAds=0;reviews=0;,106
-developerId=bakasdo;containsAds=1;score=0.0;,24
-developerId=muinApp;containsAds=1;score=0.0;,35
-developerId=2crewmans;containsAds=0;score=0.0;,21
-developerId=Dantebus.com;containsAds=0;score=0.0;,106
-developerId=xitianci;containsAds=1;year_bucket_range=[2019-2020];,26
-developerId=bakasdo;containsAds=1;year_bucket_range=[2019-2020];,35
-developerId=muinApp;containsAds=1;year_bucket_range=[2019-2020];,36
-developerId=2crewmans;containsAds=0;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;containsAds=0;year_bucket_range=[2021-2022];,106
-developerId=xitianci;containsAds=1;install_bucket_range=[0-100000];,26
-developerId=bakasdo;containsAds=1;install_bucket_range=[0-100000];,33
-developerId=muinApp;containsAds=1;install_bucket_range=[0-100000];,36
-developerId=2crewmans;containsAds=0;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;containsAds=0;install_bucket_range=[0-100000];,106
-developerId=xitianci;containsAds=1;price_bucket_range=[0-5];,26
-developerId=bakasdo;containsAds=1;price_bucket_range=[0-5];,35
-developerId=muinApp;containsAds=1;price_bucket_range=[0-5];,36
-developerId=2crewmans;containsAds=0;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;containsAds=0;price_bucket_range=[0-5];,106
-developerId=bakasdo;reviews=0;score=0.0;,24
-developerId=muinApp;reviews=0;score=0.0;,35
-developerId=2crewmans;reviews=0;score=0.0;,21
-developerId=Dantebus.com;reviews=0;score=0.0;,106
-developerId=bakasdo;reviews=0;year_bucket_range=[2019-2020];,24
-developerId=muinApp;reviews=0;year_bucket_range=[2019-2020];,36
-developerId=2crewmans;reviews=0;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;reviews=0;year_bucket_range=[2021-2022];,106
-developerId=bakasdo;reviews=0;install_bucket_range=[0-100000];,24
-developerId=muinApp;reviews=0;install_bucket_range=[0-100000];,36
-developerId=2crewmans;reviews=0;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;reviews=0;install_bucket_range=[0-100000];,106
-developerId=bakasdo;reviews=0;price_bucket_range=[0-5];,24
-developerId=muinApp;reviews=0;price_bucket_range=[0-5];,36
-developerId=2crewmans;reviews=0;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;reviews=0;price_bucket_range=[0-5];,106
-developerId=bakasdo;score=0.0;year_bucket_range=[2019-2020];,24
-developerId=muinApp;score=0.0;year_bucket_range=[2019-2020];,35
-developerId=2crewmans;score=0.0;year_bucket_range=[2019-2020];,21
-developerId=Dantebus.com;score=0.0;year_bucket_range=[2021-2022];,106
-developerId=bakasdo;score=0.0;install_bucket_range=[0-100000];,24
-developerId=muinApp;score=0.0;install_bucket_range=[0-100000];,35
-developerId=2crewmans;score=0.0;install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;score=0.0;install_bucket_range=[0-100000];,106
-developerId=bakasdo;score=0.0;price_bucket_range=[0-5];,24
-developerId=muinApp;score=0.0;price_bucket_range=[0-5];,35
-developerId=2crewmans;score=0.0;price_bucket_range=[0-5];,21
-developerId=Dantebus.com;score=0.0;price_bucket_range=[0-5];,106
-developerId=xitianci;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,26
-developerId=bakasdo;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,33
-developerId=muinApp;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,36
-developerId=2crewmans;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,21
-developerId=Dantebus.com;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,106
-developerId=xitianci;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,26
-developerId=bakasdo;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,35
-developerId=muinApp;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,36
-developerId=2crewmans;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,21
-developerId=Dantebus.com;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,106
-developerId=xitianci;install_bucket_range=[0-100000];price_bucket_range=[0-5];,26
-developerId=bakasdo;install_bucket_range=[0-100000];price_bucket_range=[0-5];,33
-developerId=muinApp;install_bucket_range=[0-100000];price_bucket_range=[0-5];,36
-developerId=2crewmans;install_bucket_range=[0-100000];price_bucket_range=[0-5];,21
-developerId=Dantebus.com;install_bucket_range=[0-100000];price_bucket_range=[0-5];,106
-free=1;genre=Art & Design;price=0.0;,1905
-free=0;genre=Art & Design;price=0.99;,33
-free=0;genre=Art & Design;ratings=0;,62
-free=1;genre=Art & Design;ratings=0;,1724
-free=1;genre=Art & Design;releasedYear=2017;,63
-free=1;genre=Art & Design;releasedYear=2019;,395
-free=1;genre=Art & Design;releasedYear=2018;,123
-free=1;genre=Art & Design;releasedYear=2020;,229
-free=0;genre=Art & Design;releasedYear=2020;,26
-free=1;genre=Art & Design;releasedYear=2021;,191
-free=1;genre=Art & Design;releasedYear=2022;,887
-free=1;genre=Art & Design;adSupported=1;,1502
-free=0;genre=Art & Design;adSupported=0;,64
-free=1;genre=Art & Design;adSupported=0;,403
-free=1;genre=Art & Design;containsAds=1;,1502
-free=0;genre=Art & Design;containsAds=0;,64
-free=1;genre=Art & Design;containsAds=0;,403
-free=0;genre=Art & Design;reviews=0;,62
-free=1;genre=Art & Design;reviews=0;,1729
-free=1;genre=Art & Design;reviews=2;,21
-free=1;genre=Art & Design;reviews=3;,22
-free=1;genre=Art & Design;reviews=1;,21
-free=0;genre=Art & Design;score=0.0;,62
-free=1;genre=Art & Design;score=0.0;,1724
-free=1;genre=Art & Design;year_bucket_range=[2017-2018];,186
-free=1;genre=Art & Design;year_bucket_range=[2019-2020];,624
-free=0;genre=Art & Design;year_bucket_range=[2019-2020];,38
-free=1;genre=Art & Design;year_bucket_range=[2021-2022];,1078
-free=0;genre=Art & Design;year_bucket_range=[2021-2022];,23
-free=1;genre=Art & Design;install_bucket_range=[0-100000];,1840
-free=0;genre=Art & Design;install_bucket_range=[0-100000];,66
+free=1;,3855
+free=0;,127
+genre=Art & Design;,2121
+genre=Entertainment;,3
+genre=Personalization;,8
+genre=Photography;,3
+genre=Events;,2
+genre=Auto & Vehicles;,1040
+genre=Beauty;,799
+adSupported=1;,2557
+adSupported=0;,1425
+containsAds=1;,2557
+containsAds=0;,1425
+year_bucket_range=[2014-2015];,17
+year_bucket_range=[2012-2013];,4
+year_bucket_range=[2016-2017];,141
+year_bucket_range=[2018-2019];,879
+year_bucket_range=[2020-2021];,918
+year_bucket_range=[2022-2023];,2023
+install_bucket_range=[1000000-1100000];,14
+install_bucket_range=[500000-600000];,11
+install_bucket_range=[0-100000];,3869
+install_bucket_range=[100000-200000];,82
+install_bucket_range=[5000000-5100000];,5
+price_bucket_range=[0-5];,3945
+price_bucket_range=[5-10];,24
+price_bucket_range=[10-15];,5
+price_bucket_range=[15-20];,5
+rating_bucket_range=[10000-20000];,7
+rating_bucket_range=[0-10000];,3968
+rating_bucket_range=[20000-30000];,2
+score_bucket_range=[4-5];,168
+score_bucket_range=[3-4];,63
+score_bucket_range=[0-1];,3721
+score_bucket_range=[2-3];,18
+score_bucket_range=[1-2];,12
+free=1;genre=Art & Design;,2052
+free=0;genre=Art & Design;,69
+free=1;genre=Entertainment;,3
+free=1;genre=Personalization;,8
+free=1;genre=Photography;,3
+free=1;genre=Events;,2
+free=1;genre=Auto & Vehicles;,992
+free=0;genre=Auto & Vehicles;,48
+free=1;genre=Beauty;,789
+free=0;genre=Beauty;,10
+free=1;adSupported=1;,2553
+free=0;adSupported=0;,123
+free=1;adSupported=0;,1302
+free=0;adSupported=1;,4
+free=1;containsAds=1;,2553
+free=0;containsAds=0;,123
+free=1;containsAds=0;,1302
+free=0;containsAds=1;,4
+free=1;year_bucket_range=[2014-2015];,13
+free=1;year_bucket_range=[2012-2013];,3
+free=0;year_bucket_range=[2014-2015];,4
+free=1;year_bucket_range=[2016-2017];,137
+free=1;year_bucket_range=[2018-2019];,842
+free=0;year_bucket_range=[2016-2017];,4
+free=0;year_bucket_range=[2018-2019];,37
+free=1;year_bucket_range=[2020-2021];,852
+free=1;year_bucket_range=[2022-2023];,2008
+free=0;year_bucket_range=[2020-2021];,66
+free=0;year_bucket_range=[2022-2023];,15
+free=1;install_bucket_range=[1000000-1100000];,14
+free=1;install_bucket_range=[500000-600000];,11
+free=1;install_bucket_range=[0-100000];,3742
+free=0;install_bucket_range=[0-100000];,127
+free=1;install_bucket_range=[100000-200000];,82
+free=1;install_bucket_range=[5000000-5100000];,5
+free=1;price_bucket_range=[0-5];,3855
+free=0;price_bucket_range=[0-5];,90
+free=0;price_bucket_range=[5-10];,24
+free=0;price_bucket_range=[10-15];,5
+free=0;price_bucket_range=[15-20];,5
+free=1;rating_bucket_range=[10000-20000];,7
+free=1;rating_bucket_range=[0-10000];,3841
+free=0;rating_bucket_range=[0-10000];,127
+free=1;rating_bucket_range=[20000-30000];,2
+free=1;score_bucket_range=[4-5];,163
+free=1;score_bucket_range=[3-4];,58
+free=0;score_bucket_range=[4-5];,5
+free=0;score_bucket_range=[0-1];,117
+free=1;score_bucket_range=[0-1];,3604
+free=1;score_bucket_range=[2-3];,18
+free=1;score_bucket_range=[1-2];,12
+free=0;score_bucket_range=[3-4];,5
+genre=Art & Design;adSupported=1;,1628
+genre=Art & Design;adSupported=0;,493
+genre=Entertainment;adSupported=1;,3
+genre=Personalization;adSupported=1;,8
+genre=Photography;adSupported=1;,3
+genre=Events;adSupported=1;,2
+genre=Auto & Vehicles;adSupported=1;,371
+genre=Auto & Vehicles;adSupported=0;,669
+genre=Beauty;adSupported=0;,260
+genre=Beauty;adSupported=1;,539
+genre=Art & Design;containsAds=1;,1628
+genre=Art & Design;containsAds=0;,493
+genre=Entertainment;containsAds=1;,3
+genre=Personalization;containsAds=1;,8
+genre=Photography;containsAds=1;,3
+genre=Events;containsAds=1;,2
+genre=Auto & Vehicles;containsAds=1;,371
+genre=Auto & Vehicles;containsAds=0;,669
+genre=Beauty;containsAds=0;,260
+genre=Beauty;containsAds=1;,539
+genre=Art & Design;year_bucket_range=[2014-2015];,4
+genre=Art & Design;year_bucket_range=[2012-2013];,2
+genre=Art & Design;year_bucket_range=[2016-2017];,77
+genre=Art & Design;year_bucket_range=[2018-2019];,532
+genre=Art & Design;year_bucket_range=[2020-2021];,464
+genre=Personalization;year_bucket_range=[2020-2021];,4
+genre=Art & Design;year_bucket_range=[2022-2023];,1042
+genre=Photography;year_bucket_range=[2020-2021];,3
+genre=Personalization;year_bucket_range=[2022-2023];,4
+genre=Events;year_bucket_range=[2022-2023];,2
+genre=Auto & Vehicles;year_bucket_range=[2014-2015];,8
+genre=Auto & Vehicles;year_bucket_range=[2012-2013];,2
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];,28
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];,187
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];,231
+genre=Auto & Vehicles;year_bucket_range=[2022-2023];,584
+genre=Beauty;year_bucket_range=[2014-2015];,5
+genre=Beauty;year_bucket_range=[2016-2017];,36
+genre=Beauty;year_bucket_range=[2018-2019];,159
+genre=Beauty;year_bucket_range=[2020-2021];,214
+genre=Beauty;year_bucket_range=[2022-2023];,385
+genre=Art & Design;install_bucket_range=[1000000-1100000];,10
+genre=Art & Design;install_bucket_range=[500000-600000];,7
+genre=Art & Design;install_bucket_range=[0-100000];,2056
+genre=Art & Design;install_bucket_range=[100000-200000];,44
+genre=Art & Design;install_bucket_range=[5000000-5100000];,4
+genre=Entertainment;install_bucket_range=[0-100000];,3
+genre=Personalization;install_bucket_range=[0-100000];,8
+genre=Photography;install_bucket_range=[0-100000];,3
+genre=Events;install_bucket_range=[0-100000];,2
+genre=Auto & Vehicles;install_bucket_range=[0-100000];,1015
+genre=Auto & Vehicles;install_bucket_range=[100000-200000];,22
+genre=Beauty;install_bucket_range=[100000-200000];,16
+genre=Beauty;install_bucket_range=[0-100000];,776
+genre=Beauty;install_bucket_range=[500000-600000];,4
+genre=Beauty;install_bucket_range=[1000000-1100000];,3
+genre=Art & Design;price_bucket_range=[0-5];,2109
+genre=Art & Design;price_bucket_range=[5-10];,7
+genre=Entertainment;price_bucket_range=[0-5];,3
+genre=Personalization;price_bucket_range=[0-5];,8
+genre=Photography;price_bucket_range=[0-5];,3
+genre=Events;price_bucket_range=[0-5];,2
+genre=Auto & Vehicles;price_bucket_range=[0-5];,1016
+genre=Auto & Vehicles;price_bucket_range=[10-15];,4
+genre=Auto & Vehicles;price_bucket_range=[5-10];,16
+genre=Auto & Vehicles;price_bucket_range=[15-20];,4
+genre=Beauty;price_bucket_range=[0-5];,798
+genre=Art & Design;rating_bucket_range=[10000-20000];,5
+genre=Art & Design;rating_bucket_range=[0-10000];,2111
+genre=Art & Design;rating_bucket_range=[20000-30000];,2
+genre=Entertainment;rating_bucket_range=[0-10000];,3
+genre=Personalization;rating_bucket_range=[0-10000];,8
+genre=Photography;rating_bucket_range=[0-10000];,3
+genre=Events;rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;rating_bucket_range=[0-10000];,1036
+genre=Auto & Vehicles;rating_bucket_range=[10000-20000];,2
+genre=Beauty;rating_bucket_range=[0-10000];,799
+genre=Art & Design;score_bucket_range=[4-5];,126
+genre=Art & Design;score_bucket_range=[3-4];,39
+genre=Art & Design;score_bucket_range=[0-1];,1934
+genre=Art & Design;score_bucket_range=[2-3];,13
+genre=Art & Design;score_bucket_range=[1-2];,9
+genre=Entertainment;score_bucket_range=[0-1];,2
+genre=Personalization;score_bucket_range=[0-1];,8
+genre=Photography;score_bucket_range=[0-1];,2
+genre=Events;score_bucket_range=[0-1];,2
+genre=Auto & Vehicles;score_bucket_range=[4-5];,28
+genre=Auto & Vehicles;score_bucket_range=[0-1];,993
+genre=Auto & Vehicles;score_bucket_range=[3-4];,15
+genre=Auto & Vehicles;score_bucket_range=[2-3];,2
+genre=Auto & Vehicles;score_bucket_range=[1-2];,2
+genre=Beauty;score_bucket_range=[0-1];,775
+genre=Beauty;score_bucket_range=[4-5];,12
+genre=Beauty;score_bucket_range=[3-4];,8
+genre=Beauty;score_bucket_range=[2-3];,3
+adSupported=1;containsAds=1;,2557
+adSupported=0;containsAds=0;,1425
+adSupported=1;year_bucket_range=[2014-2015];,9
+adSupported=0;year_bucket_range=[2012-2013];,3
+adSupported=0;year_bucket_range=[2014-2015];,8
+adSupported=1;year_bucket_range=[2016-2017];,103
+adSupported=0;year_bucket_range=[2016-2017];,38
+adSupported=0;year_bucket_range=[2018-2019];,238
+adSupported=1;year_bucket_range=[2018-2019];,641
+adSupported=0;year_bucket_range=[2020-2021];,343
+adSupported=1;year_bucket_range=[2020-2021];,575
+adSupported=1;year_bucket_range=[2022-2023];,1228
+adSupported=0;year_bucket_range=[2022-2023];,795
+adSupported=1;install_bucket_range=[1000000-1100000];,14
+adSupported=1;install_bucket_range=[500000-600000];,10
+adSupported=1;install_bucket_range=[0-100000];,2458
+adSupported=0;install_bucket_range=[0-100000];,1411
+adSupported=1;install_bucket_range=[100000-200000];,69
+adSupported=1;install_bucket_range=[5000000-5100000];,5
+adSupported=0;install_bucket_range=[100000-200000];,13
+adSupported=1;price_bucket_range=[0-5];,2555
+adSupported=0;price_bucket_range=[0-5];,1390
+adSupported=0;price_bucket_range=[5-10];,23
+adSupported=0;price_bucket_range=[10-15];,5
+adSupported=0;price_bucket_range=[15-20];,4
+adSupported=1;rating_bucket_range=[10000-20000];,6
+adSupported=1;rating_bucket_range=[0-10000];,2544
+adSupported=0;rating_bucket_range=[0-10000];,1424
+adSupported=1;rating_bucket_range=[20000-30000];,2
+adSupported=1;score_bucket_range=[4-5];,139
+adSupported=1;score_bucket_range=[3-4];,47
+adSupported=0;score_bucket_range=[4-5];,29
+adSupported=0;score_bucket_range=[0-1];,1376
+adSupported=1;score_bucket_range=[0-1];,2345
+adSupported=1;score_bucket_range=[2-3];,17
+adSupported=1;score_bucket_range=[1-2];,9
+adSupported=0;score_bucket_range=[3-4];,16
+adSupported=0;score_bucket_range=[1-2];,3
+containsAds=1;year_bucket_range=[2014-2015];,9
+containsAds=0;year_bucket_range=[2012-2013];,3
+containsAds=0;year_bucket_range=[2014-2015];,8
+containsAds=1;year_bucket_range=[2016-2017];,103
+containsAds=0;year_bucket_range=[2016-2017];,38
+containsAds=0;year_bucket_range=[2018-2019];,238
+containsAds=1;year_bucket_range=[2018-2019];,641
+containsAds=0;year_bucket_range=[2020-2021];,343
+containsAds=1;year_bucket_range=[2020-2021];,575
+containsAds=1;year_bucket_range=[2022-2023];,1228
+containsAds=0;year_bucket_range=[2022-2023];,795
+containsAds=1;install_bucket_range=[1000000-1100000];,14
+containsAds=1;install_bucket_range=[500000-600000];,10
+containsAds=1;install_bucket_range=[0-100000];,2458
+containsAds=0;install_bucket_range=[0-100000];,1411
+containsAds=1;install_bucket_range=[100000-200000];,69
+containsAds=1;install_bucket_range=[5000000-5100000];,5
+containsAds=0;install_bucket_range=[100000-200000];,13
+containsAds=1;price_bucket_range=[0-5];,2555
+containsAds=0;price_bucket_range=[0-5];,1390
+containsAds=0;price_bucket_range=[5-10];,23
+containsAds=0;price_bucket_range=[10-15];,5
+containsAds=0;price_bucket_range=[15-20];,4
+containsAds=1;rating_bucket_range=[10000-20000];,6
+containsAds=1;rating_bucket_range=[0-10000];,2544
+containsAds=0;rating_bucket_range=[0-10000];,1424
+containsAds=1;rating_bucket_range=[20000-30000];,2
+containsAds=1;score_bucket_range=[4-5];,139
+containsAds=1;score_bucket_range=[3-4];,47
+containsAds=0;score_bucket_range=[4-5];,29
+containsAds=0;score_bucket_range=[0-1];,1376
+containsAds=1;score_bucket_range=[0-1];,2345
+containsAds=1;score_bucket_range=[2-3];,17
+containsAds=1;score_bucket_range=[1-2];,9
+containsAds=0;score_bucket_range=[3-4];,16
+containsAds=0;score_bucket_range=[1-2];,3
+year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];,2
+year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,10
+year_bucket_range=[2012-2013];install_bucket_range=[0-100000];,2
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,119
+year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,17
+year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];,3
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,822
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,40
+year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];,5
+year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];,9
+year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];,3
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,894
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,2022
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,20
+year_bucket_range=[2020-2021];install_bucket_range=[1000000-1100000];,2
+year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];,2
+year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];,3
+year_bucket_range=[2014-2015];price_bucket_range=[0-5];,15
+year_bucket_range=[2012-2013];price_bucket_range=[0-5];,4
+year_bucket_range=[2016-2017];price_bucket_range=[0-5];,140
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];,870
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];,897
+year_bucket_range=[2022-2023];price_bucket_range=[0-5];,2019
+year_bucket_range=[2020-2021];price_bucket_range=[10-15];,2
+year_bucket_range=[2020-2021];price_bucket_range=[15-20];,3
+year_bucket_range=[2020-2021];price_bucket_range=[5-10];,15
+year_bucket_range=[2022-2023];price_bucket_range=[5-10];,2
+year_bucket_range=[2018-2019];price_bucket_range=[5-10];,5
+year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];,4
+year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,13
+year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,140
+year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,872
+year_bucket_range=[2018-2019];rating_bucket_range=[10000-20000];,4
+year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,916
+year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,2023
+year_bucket_range=[2014-2015];score_bucket_range=[4-5];,6
+year_bucket_range=[2012-2013];score_bucket_range=[4-5];,2
+year_bucket_range=[2014-2015];score_bucket_range=[0-1];,10
+year_bucket_range=[2016-2017];score_bucket_range=[0-1];,103
+year_bucket_range=[2016-2017];score_bucket_range=[3-4];,11
+year_bucket_range=[2016-2017];score_bucket_range=[4-5];,23
+year_bucket_range=[2016-2017];score_bucket_range=[2-3];,3
+year_bucket_range=[2018-2019];score_bucket_range=[0-1];,752
+year_bucket_range=[2018-2019];score_bucket_range=[3-4];,30
+year_bucket_range=[2018-2019];score_bucket_range=[1-2];,7
+year_bucket_range=[2018-2019];score_bucket_range=[4-5];,83
+year_bucket_range=[2018-2019];score_bucket_range=[2-3];,7
+year_bucket_range=[2020-2021];score_bucket_range=[0-1];,862
+year_bucket_range=[2022-2023];score_bucket_range=[0-1];,1993
+year_bucket_range=[2020-2021];score_bucket_range=[4-5];,32
+year_bucket_range=[2020-2021];score_bucket_range=[2-3];,7
+year_bucket_range=[2020-2021];score_bucket_range=[1-2];,2
+year_bucket_range=[2020-2021];score_bucket_range=[3-4];,15
+year_bucket_range=[2022-2023];score_bucket_range=[4-5];,22
+year_bucket_range=[2022-2023];score_bucket_range=[3-4];,5
+year_bucket_range=[2022-2023];score_bucket_range=[1-2];,2
+install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,14
+install_bucket_range=[500000-600000];price_bucket_range=[0-5];,11
+install_bucket_range=[0-100000];price_bucket_range=[0-5];,3832
+install_bucket_range=[0-100000];price_bucket_range=[5-10];,24
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];,82
+install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];,5
+install_bucket_range=[0-100000];price_bucket_range=[10-15];,5
+install_bucket_range=[0-100000];price_bucket_range=[15-20];,5
+install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];,4
+install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,9
+install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,3869
+install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,81
+install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,8
+install_bucket_range=[500000-600000];rating_bucket_range=[10000-20000];,2
+install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,10
+install_bucket_range=[500000-600000];score_bucket_range=[3-4];,3
+install_bucket_range=[0-100000];score_bucket_range=[4-5];,117
+install_bucket_range=[0-100000];score_bucket_range=[0-1];,3689
+install_bucket_range=[100000-200000];score_bucket_range=[3-4];,15
+install_bucket_range=[1000000-1100000];score_bucket_range=[3-4];,4
+install_bucket_range=[0-100000];score_bucket_range=[3-4];,41
+install_bucket_range=[100000-200000];score_bucket_range=[4-5];,28
+install_bucket_range=[0-100000];score_bucket_range=[2-3];,12
+install_bucket_range=[0-100000];score_bucket_range=[1-2];,10
+install_bucket_range=[5000000-5100000];score_bucket_range=[4-5];,5
+install_bucket_range=[500000-600000];score_bucket_range=[4-5];,7
+install_bucket_range=[100000-200000];score_bucket_range=[0-1];,31
+install_bucket_range=[100000-200000];score_bucket_range=[2-3];,6
+install_bucket_range=[100000-200000];score_bucket_range=[1-2];,2
+price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,7
+price_bucket_range=[0-5];rating_bucket_range=[0-10000];,3931
+price_bucket_range=[5-10];rating_bucket_range=[0-10000];,24
+price_bucket_range=[0-5];rating_bucket_range=[20000-30000];,2
+price_bucket_range=[10-15];rating_bucket_range=[0-10000];,5
+price_bucket_range=[15-20];rating_bucket_range=[0-10000];,5
+price_bucket_range=[0-5];score_bucket_range=[4-5];,167
+price_bucket_range=[0-5];score_bucket_range=[3-4];,60
+price_bucket_range=[5-10];score_bucket_range=[0-1];,23
+price_bucket_range=[0-5];score_bucket_range=[0-1];,3688
+price_bucket_range=[0-5];score_bucket_range=[2-3];,18
+price_bucket_range=[0-5];score_bucket_range=[1-2];,12
+price_bucket_range=[10-15];score_bucket_range=[0-1];,4
+price_bucket_range=[15-20];score_bucket_range=[0-1];,4
+rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,7
+rating_bucket_range=[0-10000];score_bucket_range=[3-4];,63
+rating_bucket_range=[0-10000];score_bucket_range=[4-5];,154
+rating_bucket_range=[0-10000];score_bucket_range=[0-1];,3721
+rating_bucket_range=[0-10000];score_bucket_range=[2-3];,18
+rating_bucket_range=[0-10000];score_bucket_range=[1-2];,12
+rating_bucket_range=[20000-30000];score_bucket_range=[4-5];,2
+free=1;genre=Art & Design;adSupported=1;,1626
+free=0;genre=Art & Design;adSupported=0;,67
+free=1;genre=Art & Design;adSupported=0;,426
+free=1;genre=Entertainment;adSupported=1;,3
+free=0;genre=Art & Design;adSupported=1;,2
+free=1;genre=Personalization;adSupported=1;,8
+free=1;genre=Photography;adSupported=1;,3
+free=1;genre=Events;adSupported=1;,2
+free=1;genre=Auto & Vehicles;adSupported=1;,370
+free=1;genre=Auto & Vehicles;adSupported=0;,622
+free=0;genre=Auto & Vehicles;adSupported=0;,47
+free=1;genre=Beauty;adSupported=0;,251
+free=1;genre=Beauty;adSupported=1;,538
+free=0;genre=Beauty;adSupported=0;,9
+free=1;genre=Art & Design;containsAds=1;,1626
+free=0;genre=Art & Design;containsAds=0;,67
+free=1;genre=Art & Design;containsAds=0;,426
+free=1;genre=Entertainment;containsAds=1;,3
+free=0;genre=Art & Design;containsAds=1;,2
+free=1;genre=Personalization;containsAds=1;,8
+free=1;genre=Photography;containsAds=1;,3
+free=1;genre=Events;containsAds=1;,2
+free=1;genre=Auto & Vehicles;containsAds=1;,370
+free=1;genre=Auto & Vehicles;containsAds=0;,622
+free=0;genre=Auto & Vehicles;containsAds=0;,47
+free=1;genre=Beauty;containsAds=0;,251
+free=1;genre=Beauty;containsAds=1;,538
+free=0;genre=Beauty;containsAds=0;,9
+free=1;genre=Art & Design;year_bucket_range=[2014-2015];,3
+free=1;genre=Art & Design;year_bucket_range=[2016-2017];,76
+free=1;genre=Art & Design;year_bucket_range=[2018-2019];,518
+free=0;genre=Art & Design;year_bucket_range=[2018-2019];,14
+free=1;genre=Art & Design;year_bucket_range=[2020-2021];,420
+free=0;genre=Art & Design;year_bucket_range=[2020-2021];,44
+free=1;genre=Personalization;year_bucket_range=[2020-2021];,4
+free=1;genre=Art & Design;year_bucket_range=[2022-2023];,1034
+free=1;genre=Photography;year_bucket_range=[2020-2021];,3
+free=1;genre=Personalization;year_bucket_range=[2022-2023];,4
+free=1;genre=Events;year_bucket_range=[2022-2023];,2
+free=0;genre=Art & Design;year_bucket_range=[2022-2023];,8
+free=1;genre=Auto & Vehicles;year_bucket_range=[2014-2015];,6
+free=1;genre=Auto & Vehicles;year_bucket_range=[2012-2013];,2
+free=0;genre=Auto & Vehicles;year_bucket_range=[2014-2015];,2
+free=0;genre=Auto & Vehicles;year_bucket_range=[2016-2017];,2
+free=1;genre=Auto & Vehicles;year_bucket_range=[2016-2017];,26
+free=1;genre=Auto & Vehicles;year_bucket_range=[2018-2019];,170
+free=0;genre=Auto & Vehicles;year_bucket_range=[2018-2019];,17
+free=1;genre=Auto & Vehicles;year_bucket_range=[2020-2021];,210
+free=1;genre=Auto & Vehicles;year_bucket_range=[2022-2023];,578
+free=0;genre=Auto & Vehicles;year_bucket_range=[2020-2021];,21
+free=0;genre=Auto & Vehicles;year_bucket_range=[2022-2023];,6
+free=1;genre=Beauty;year_bucket_range=[2014-2015];,4
+free=1;genre=Beauty;year_bucket_range=[2016-2017];,35
+free=1;genre=Beauty;year_bucket_range=[2018-2019];,153
+free=0;genre=Beauty;year_bucket_range=[2018-2019];,6
+free=1;genre=Beauty;year_bucket_range=[2020-2021];,213
+free=1;genre=Beauty;year_bucket_range=[2022-2023];,384
+free=1;genre=Art & Design;install_bucket_range=[1000000-1100000];,10
+free=1;genre=Art & Design;install_bucket_range=[500000-600000];,7
+free=1;genre=Art & Design;install_bucket_range=[0-100000];,1987
+free=0;genre=Art & Design;install_bucket_range=[0-100000];,69
 free=1;genre=Art & Design;install_bucket_range=[100000-200000];,44
-free=1;genre=Art & Design;price_bucket_range=[0-5];,1905
-free=0;genre=Art & Design;price_bucket_range=[0-5];,55
-free=1;price=0.0;ratings=0;,1739
-free=0;price=0.99;ratings=0;,32
-free=1;price=0.0;releasedYear=2017;,63
-free=1;price=0.0;releasedYear=2019;,396
-free=1;price=0.0;releasedYear=2018;,123
-free=1;price=0.0;releasedYear=2020;,233
-free=1;price=0.0;releasedYear=2022;,895
-free=1;price=0.0;releasedYear=2021;,196
-free=1;price=0.0;adSupported=1;,1519
-free=1;price=0.0;adSupported=0;,404
-free=0;price=0.99;adSupported=0;,33
-free=1;price=0.0;containsAds=1;,1519
-free=1;price=0.0;containsAds=0;,404
-free=0;price=0.99;containsAds=0;,33
-free=1;price=0.0;reviews=0;,1745
-free=1;price=0.0;reviews=2;,21
-free=1;price=0.0;reviews=3;,22
-free=0;price=0.99;reviews=0;,32
-free=1;price=0.0;reviews=1;,21
-free=1;price=0.0;score=0.0;,1739
-free=0;price=0.99;score=0.0;,32
-free=1;price=0.0;year_bucket_range=[2017-2018];,186
-free=1;price=0.0;year_bucket_range=[2019-2020];,629
-free=0;price=0.99;year_bucket_range=[2019-2020];,26
-free=1;price=0.0;year_bucket_range=[2021-2022];,1091
-free=1;price=0.0;install_bucket_range=[0-100000];,1858
-free=1;price=0.0;install_bucket_range=[100000-200000];,44
-free=0;price=0.99;install_bucket_range=[0-100000];,33
-free=1;price=0.0;price_bucket_range=[0-5];,1923
-free=0;price=0.99;price_bucket_range=[0-5];,33
-free=1;ratings=0;releasedYear=2017;,43
-free=1;ratings=0;releasedYear=2019;,317
-free=1;ratings=0;releasedYear=2018;,110
-free=1;ratings=0;releasedYear=2020;,212
-free=1;ratings=0;releasedYear=2022;,873
-free=0;ratings=0;releasedYear=2020;,26
-free=1;ratings=0;releasedYear=2021;,178
-free=0;ratings=0;adSupported=0;,60
-free=1;ratings=0;adSupported=1;,1351
-free=1;ratings=0;adSupported=0;,388
-free=0;ratings=0;containsAds=0;,60
-free=1;ratings=0;containsAds=1;,1351
-free=1;ratings=0;containsAds=0;,388
-free=0;ratings=0;reviews=0;,62
-free=1;ratings=0;reviews=0;,1739
-free=0;ratings=0;score=0.0;,62
-free=1;ratings=0;score=0.0;,1739
-free=1;ratings=0;year_bucket_range=[2017-2018];,153
-free=1;ratings=0;year_bucket_range=[2019-2020];,529
-free=0;ratings=0;year_bucket_range=[2019-2020];,35
-free=1;ratings=0;year_bucket_range=[2021-2022];,1051
-free=0;ratings=0;year_bucket_range=[2021-2022];,23
-free=0;ratings=0;install_bucket_range=[0-100000];,62
-free=1;ratings=0;install_bucket_range=[0-100000];,1727
-free=1;ratings=0;price_bucket_range=[0-5];,1739
-free=0;ratings=0;price_bucket_range=[0-5];,52
-free=1;releasedYear=2017;adSupported=1;,49
-free=1;releasedYear=2019;adSupported=0;,61
-free=1;releasedYear=2018;adSupported=1;,99
-free=1;releasedYear=2018;adSupported=0;,24
-free=1;releasedYear=2019;adSupported=1;,335
-free=1;releasedYear=2020;adSupported=0;,44
-free=1;releasedYear=2020;adSupported=1;,189
-free=1;releasedYear=2022;adSupported=1;,678
-free=0;releasedYear=2020;adSupported=0;,25
-free=1;releasedYear=2021;adSupported=1;,155
-free=1;releasedYear=2021;adSupported=0;,41
-free=1;releasedYear=2022;adSupported=0;,217
-free=1;releasedYear=2017;containsAds=1;,49
-free=1;releasedYear=2019;containsAds=0;,61
-free=1;releasedYear=2018;containsAds=1;,99
-free=1;releasedYear=2018;containsAds=0;,24
-free=1;releasedYear=2019;containsAds=1;,335
-free=1;releasedYear=2020;containsAds=0;,44
-free=1;releasedYear=2020;containsAds=1;,189
-free=1;releasedYear=2022;containsAds=1;,678
-free=0;releasedYear=2020;containsAds=0;,25
-free=1;releasedYear=2021;containsAds=1;,155
-free=1;releasedYear=2021;containsAds=0;,41
-free=1;releasedYear=2022;containsAds=0;,217
-free=1;releasedYear=2017;reviews=0;,44
-free=1;releasedYear=2019;reviews=0;,317
-free=1;releasedYear=2018;reviews=0;,110
-free=1;releasedYear=2020;reviews=0;,214
-free=1;releasedYear=2022;reviews=0;,874
-free=0;releasedYear=2020;reviews=0;,26
-free=1;releasedYear=2021;reviews=0;,180
-free=1;releasedYear=2017;score=0.0;,43
-free=1;releasedYear=2019;score=0.0;,317
-free=1;releasedYear=2018;score=0.0;,110
-free=1;releasedYear=2020;score=0.0;,212
-free=1;releasedYear=2022;score=0.0;,873
-free=0;releasedYear=2020;score=0.0;,26
-free=1;releasedYear=2021;score=0.0;,178
-free=1;releasedYear=2017;year_bucket_range=[2017-2018];,63
-free=1;releasedYear=2019;year_bucket_range=[2019-2020];,396
-free=1;releasedYear=2018;year_bucket_range=[2017-2018];,123
-free=1;releasedYear=2020;year_bucket_range=[2019-2020];,233
-free=1;releasedYear=2022;year_bucket_range=[2021-2022];,895
-free=0;releasedYear=2020;year_bucket_range=[2019-2020];,26
-free=1;releasedYear=2021;year_bucket_range=[2021-2022];,196
-free=1;releasedYear=2017;install_bucket_range=[0-100000];,53
-free=1;releasedYear=2019;install_bucket_range=[0-100000];,372
-free=1;releasedYear=2018;install_bucket_range=[0-100000];,114
-free=1;releasedYear=2020;install_bucket_range=[0-100000];,226
-free=1;releasedYear=2022;install_bucket_range=[0-100000];,894
-free=0;releasedYear=2020;install_bucket_range=[0-100000];,26
-free=1;releasedYear=2021;install_bucket_range=[0-100000];,188
-free=1;releasedYear=2017;price_bucket_range=[0-5];,63
-free=1;releasedYear=2019;price_bucket_range=[0-5];,396
-free=1;releasedYear=2018;price_bucket_range=[0-5];,123
-free=1;releasedYear=2020;price_bucket_range=[0-5];,233
-free=1;releasedYear=2022;price_bucket_range=[0-5];,895
-free=0;releasedYear=2020;price_bucket_range=[0-5];,25
-free=1;releasedYear=2021;price_bucket_range=[0-5];,196
-free=1;adSupported=1;containsAds=1;,1519
-free=0;adSupported=0;containsAds=0;,64
-free=1;adSupported=0;containsAds=0;,404
-free=0;adSupported=0;reviews=0;,60
-free=1;adSupported=1;reviews=0;,1356
-free=1;adSupported=0;reviews=0;,389
-free=1;adSupported=1;reviews=1;,21
-free=0;adSupported=0;score=0.0;,60
-free=1;adSupported=1;score=0.0;,1351
-free=1;adSupported=0;score=0.0;,388
-free=1;adSupported=1;year_bucket_range=[2017-2018];,148
-free=1;adSupported=0;year_bucket_range=[2017-2018];,38
-free=1;adSupported=0;year_bucket_range=[2019-2020];,105
-free=1;adSupported=1;year_bucket_range=[2019-2020];,524
-free=0;adSupported=0;year_bucket_range=[2019-2020];,37
-free=1;adSupported=1;year_bucket_range=[2021-2022];,833
-free=0;adSupported=0;year_bucket_range=[2021-2022];,22
-free=1;adSupported=0;year_bucket_range=[2021-2022];,258
-free=1;adSupported=1;install_bucket_range=[0-100000];,1456
-free=0;adSupported=0;install_bucket_range=[0-100000];,64
-free=1;adSupported=1;install_bucket_range=[100000-200000];,42
-free=1;adSupported=0;install_bucket_range=[0-100000];,402
-free=1;adSupported=1;price_bucket_range=[0-5];,1519
-free=0;adSupported=0;price_bucket_range=[0-5];,54
-free=1;adSupported=0;price_bucket_range=[0-5];,404
-free=0;containsAds=0;reviews=0;,60
-free=1;containsAds=1;reviews=0;,1356
-free=1;containsAds=0;reviews=0;,389
-free=1;containsAds=1;reviews=1;,21
-free=0;containsAds=0;score=0.0;,60
-free=1;containsAds=1;score=0.0;,1351
-free=1;containsAds=0;score=0.0;,388
-free=1;containsAds=1;year_bucket_range=[2017-2018];,148
-free=1;containsAds=0;year_bucket_range=[2017-2018];,38
-free=1;containsAds=0;year_bucket_range=[2019-2020];,105
-free=1;containsAds=1;year_bucket_range=[2019-2020];,524
-free=0;containsAds=0;year_bucket_range=[2019-2020];,37
-free=1;containsAds=1;year_bucket_range=[2021-2022];,833
-free=0;containsAds=0;year_bucket_range=[2021-2022];,22
-free=1;containsAds=0;year_bucket_range=[2021-2022];,258
-free=1;containsAds=1;install_bucket_range=[0-100000];,1456
-free=0;containsAds=0;install_bucket_range=[0-100000];,64
-free=1;containsAds=1;install_bucket_range=[100000-200000];,42
-free=1;containsAds=0;install_bucket_range=[0-100000];,402
-free=1;containsAds=1;price_bucket_range=[0-5];,1519
-free=0;containsAds=0;price_bucket_range=[0-5];,54
-free=1;containsAds=0;price_bucket_range=[0-5];,404
-free=0;reviews=0;score=0.0;,62
-free=1;reviews=0;score=0.0;,1739
-free=1;reviews=0;year_bucket_range=[2017-2018];,154
-free=1;reviews=0;year_bucket_range=[2019-2020];,531
-free=0;reviews=0;year_bucket_range=[2019-2020];,35
-free=1;reviews=0;year_bucket_range=[2021-2022];,1054
-free=0;reviews=0;year_bucket_range=[2021-2022];,23
-free=0;reviews=0;install_bucket_range=[0-100000];,62
-free=1;reviews=0;install_bucket_range=[0-100000];,1732
-free=1;reviews=0;price_bucket_range=[0-5];,1745
-free=1;reviews=2;price_bucket_range=[0-5];,21
-free=1;reviews=3;price_bucket_range=[0-5];,22
-free=0;reviews=0;price_bucket_range=[0-5];,52
-free=1;reviews=1;price_bucket_range=[0-5];,21
-free=1;score=0.0;year_bucket_range=[2017-2018];,153
-free=1;score=0.0;year_bucket_range=[2019-2020];,529
-free=0;score=0.0;year_bucket_range=[2019-2020];,35
-free=1;score=0.0;year_bucket_range=[2021-2022];,1051
-free=0;score=0.0;year_bucket_range=[2021-2022];,23
-free=0;score=0.0;install_bucket_range=[0-100000];,62
-free=1;score=0.0;install_bucket_range=[0-100000];,1727
-free=1;score=0.0;price_bucket_range=[0-5];,1739
-free=0;score=0.0;price_bucket_range=[0-5];,52
-free=1;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,167
-free=1;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,598
-free=1;year_bucket_range=[2019-2020];install_bucket_range=[100000-200000];,21
-free=0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,38
-free=1;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,1082
-free=0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,23
-free=1;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,186
-free=1;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,629
-free=0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,36
-free=1;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,1091
-free=1;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1858
-free=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,55
-free=1;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,44
-genre=Art & Design;price=0.0;ratings=0;,1724
-genre=Art & Design;price=0.99;ratings=0;,32
-genre=Art & Design;price=0.0;releasedYear=2017;,63
-genre=Art & Design;price=0.0;releasedYear=2019;,395
-genre=Art & Design;price=0.0;releasedYear=2018;,123
-genre=Art & Design;price=0.0;releasedYear=2020;,229
-genre=Art & Design;price=0.0;releasedYear=2021;,191
-genre=Art & Design;price=0.0;releasedYear=2022;,887
-genre=Art & Design;price=0.0;adSupported=1;,1502
-genre=Art & Design;price=0.0;adSupported=0;,403
-genre=Art & Design;price=0.99;adSupported=0;,33
-genre=Art & Design;price=0.0;containsAds=1;,1502
-genre=Art & Design;price=0.0;containsAds=0;,403
-genre=Art & Design;price=0.99;containsAds=0;,33
-genre=Art & Design;price=0.0;reviews=0;,1729
-genre=Art & Design;price=0.0;reviews=2;,21
-genre=Art & Design;price=0.0;reviews=3;,22
-genre=Art & Design;price=0.99;reviews=0;,32
-genre=Art & Design;price=0.0;reviews=1;,21
-genre=Art & Design;price=0.0;score=0.0;,1724
-genre=Art & Design;price=0.99;score=0.0;,32
-genre=Art & Design;price=0.0;year_bucket_range=[2017-2018];,186
-genre=Art & Design;price=0.0;year_bucket_range=[2019-2020];,624
-genre=Art & Design;price=0.99;year_bucket_range=[2019-2020];,26
-genre=Art & Design;price=0.0;year_bucket_range=[2021-2022];,1078
-genre=Art & Design;price=0.0;install_bucket_range=[0-100000];,1840
-genre=Art & Design;price=0.0;install_bucket_range=[100000-200000];,44
-genre=Art & Design;price=0.99;install_bucket_range=[0-100000];,33
-genre=Art & Design;price=0.0;price_bucket_range=[0-5];,1905
-genre=Art & Design;price=0.99;price_bucket_range=[0-5];,33
-genre=Art & Design;ratings=0;releasedYear=2017;,44
-genre=Art & Design;ratings=0;releasedYear=2019;,325
-genre=Art & Design;ratings=0;releasedYear=2018;,112
-genre=Art & Design;ratings=0;releasedYear=2020;,234
-genre=Art & Design;ratings=0;releasedYear=2021;,193
-genre=Art & Design;ratings=0;releasedYear=2022;,871
-genre=Art & Design;ratings=0;adSupported=0;,448
-genre=Art & Design;ratings=0;adSupported=1;,1338
-genre=Art & Design;ratings=0;containsAds=0;,448
-genre=Art & Design;ratings=0;containsAds=1;,1338
-genre=Art & Design;ratings=0;reviews=0;,1786
-genre=Art & Design;ratings=0;score=0.0;,1786
-genre=Art & Design;ratings=0;year_bucket_range=[2017-2018];,156
-genre=Art & Design;ratings=0;year_bucket_range=[2019-2020];,559
-genre=Art & Design;ratings=0;year_bucket_range=[2021-2022];,1064
-genre=Art & Design;ratings=0;install_bucket_range=[0-100000];,1774
-genre=Art & Design;ratings=0;price_bucket_range=[0-5];,1776
-genre=Art & Design;releasedYear=2017;adSupported=1;,49
-genre=Art & Design;releasedYear=2019;adSupported=0;,73
-genre=Art & Design;releasedYear=2018;adSupported=1;,99
-genre=Art & Design;releasedYear=2018;adSupported=0;,26
-genre=Art & Design;releasedYear=2019;adSupported=1;,334
-genre=Art & Design;releasedYear=2020;adSupported=0;,69
-genre=Art & Design;releasedYear=2020;adSupported=1;,186
-genre=Art & Design;releasedYear=2021;adSupported=1;,152
-genre=Art & Design;releasedYear=2021;adSupported=0;,56
-genre=Art & Design;releasedYear=2022;adSupported=0;,223
-genre=Art & Design;releasedYear=2022;adSupported=1;,670
-genre=Art & Design;releasedYear=2017;containsAds=1;,49
-genre=Art & Design;releasedYear=2019;containsAds=0;,73
-genre=Art & Design;releasedYear=2018;containsAds=1;,99
-genre=Art & Design;releasedYear=2018;containsAds=0;,26
-genre=Art & Design;releasedYear=2019;containsAds=1;,334
-genre=Art & Design;releasedYear=2020;containsAds=0;,69
-genre=Art & Design;releasedYear=2020;containsAds=1;,186
-genre=Art & Design;releasedYear=2021;containsAds=1;,152
-genre=Art & Design;releasedYear=2021;containsAds=0;,56
-genre=Art & Design;releasedYear=2022;containsAds=0;,223
-genre=Art & Design;releasedYear=2022;containsAds=1;,670
-genre=Art & Design;releasedYear=2017;reviews=0;,45
-genre=Art & Design;releasedYear=2019;reviews=0;,325
-genre=Art & Design;releasedYear=2018;reviews=0;,112
-genre=Art & Design;releasedYear=2020;reviews=0;,236
-genre=Art & Design;releasedYear=2021;reviews=0;,194
-genre=Art & Design;releasedYear=2022;reviews=0;,872
-genre=Art & Design;releasedYear=2017;score=0.0;,44
-genre=Art & Design;releasedYear=2019;score=0.0;,325
-genre=Art & Design;releasedYear=2018;score=0.0;,112
-genre=Art & Design;releasedYear=2020;score=0.0;,234
-genre=Art & Design;releasedYear=2021;score=0.0;,193
-genre=Art & Design;releasedYear=2022;score=0.0;,871
-genre=Art & Design;releasedYear=2017;year_bucket_range=[2017-2018];,64
-genre=Art & Design;releasedYear=2019;year_bucket_range=[2019-2020];,407
-genre=Art & Design;releasedYear=2018;year_bucket_range=[2017-2018];,125
-genre=Art & Design;releasedYear=2020;year_bucket_range=[2019-2020];,255
-genre=Art & Design;releasedYear=2021;year_bucket_range=[2021-2022];,208
-genre=Art & Design;releasedYear=2022;year_bucket_range=[2021-2022];,893
-genre=Art & Design;releasedYear=2017;install_bucket_range=[0-100000];,54
-genre=Art & Design;releasedYear=2019;install_bucket_range=[0-100000];,383
-genre=Art & Design;releasedYear=2018;install_bucket_range=[0-100000];,116
-genre=Art & Design;releasedYear=2020;install_bucket_range=[0-100000];,248
-genre=Art & Design;releasedYear=2021;install_bucket_range=[0-100000];,200
-genre=Art & Design;releasedYear=2022;install_bucket_range=[0-100000];,892
-genre=Art & Design;releasedYear=2017;price_bucket_range=[0-5];,64
-genre=Art & Design;releasedYear=2019;price_bucket_range=[0-5];,406
-genre=Art & Design;releasedYear=2018;price_bucket_range=[0-5];,124
-genre=Art & Design;releasedYear=2020;price_bucket_range=[0-5];,254
-genre=Art & Design;releasedYear=2021;price_bucket_range=[0-5];,201
-genre=Art & Design;releasedYear=2022;price_bucket_range=[0-5];,893
-genre=Art & Design;adSupported=1;containsAds=1;,1504
-genre=Art & Design;adSupported=0;containsAds=0;,467
-genre=Art & Design;adSupported=0;reviews=0;,449
-genre=Art & Design;adSupported=1;reviews=0;,1342
-genre=Art & Design;adSupported=1;reviews=1;,21
-genre=Art & Design;adSupported=0;score=0.0;,448
-genre=Art & Design;adSupported=1;score=0.0;,1338
-genre=Art & Design;adSupported=1;year_bucket_range=[2017-2018];,148
-genre=Art & Design;adSupported=0;year_bucket_range=[2017-2018];,41
-genre=Art & Design;adSupported=0;year_bucket_range=[2019-2020];,142
-genre=Art & Design;adSupported=1;year_bucket_range=[2019-2020];,520
-genre=Art & Design;adSupported=1;year_bucket_range=[2021-2022];,822
-genre=Art & Design;adSupported=0;year_bucket_range=[2021-2022];,279
-genre=Art & Design;adSupported=1;install_bucket_range=[0-100000];,1441
-genre=Art & Design;adSupported=0;install_bucket_range=[0-100000];,465
+free=1;genre=Art & Design;install_bucket_range=[5000000-5100000];,4
+free=1;genre=Entertainment;install_bucket_range=[0-100000];,3
+free=1;genre=Personalization;install_bucket_range=[0-100000];,8
+free=1;genre=Photography;install_bucket_range=[0-100000];,3
+free=1;genre=Events;install_bucket_range=[0-100000];,2
+free=1;genre=Auto & Vehicles;install_bucket_range=[0-100000];,967
+free=1;genre=Auto & Vehicles;install_bucket_range=[100000-200000];,22
+free=0;genre=Auto & Vehicles;install_bucket_range=[0-100000];,48
+free=1;genre=Beauty;install_bucket_range=[100000-200000];,16
+free=1;genre=Beauty;install_bucket_range=[0-100000];,766
+free=0;genre=Beauty;install_bucket_range=[0-100000];,10
+free=1;genre=Beauty;install_bucket_range=[500000-600000];,4
+free=1;genre=Beauty;install_bucket_range=[1000000-1100000];,3
+free=1;genre=Art & Design;price_bucket_range=[0-5];,2052
+free=0;genre=Art & Design;price_bucket_range=[0-5];,57
+free=0;genre=Art & Design;price_bucket_range=[5-10];,7
+free=1;genre=Entertainment;price_bucket_range=[0-5];,3
+free=1;genre=Personalization;price_bucket_range=[0-5];,8
+free=1;genre=Photography;price_bucket_range=[0-5];,3
+free=1;genre=Events;price_bucket_range=[0-5];,2
+free=1;genre=Auto & Vehicles;price_bucket_range=[0-5];,992
+free=0;genre=Auto & Vehicles;price_bucket_range=[10-15];,4
+free=0;genre=Auto & Vehicles;price_bucket_range=[5-10];,16
+free=0;genre=Auto & Vehicles;price_bucket_range=[0-5];,24
+free=0;genre=Auto & Vehicles;price_bucket_range=[15-20];,4
+free=1;genre=Beauty;price_bucket_range=[0-5];,789
+free=0;genre=Beauty;price_bucket_range=[0-5];,9
+free=1;genre=Art & Design;rating_bucket_range=[10000-20000];,5
+free=1;genre=Art & Design;rating_bucket_range=[0-10000];,2042
+free=0;genre=Art & Design;rating_bucket_range=[0-10000];,69
+free=1;genre=Art & Design;rating_bucket_range=[20000-30000];,2
+free=1;genre=Entertainment;rating_bucket_range=[0-10000];,3
+free=1;genre=Personalization;rating_bucket_range=[0-10000];,8
+free=1;genre=Photography;rating_bucket_range=[0-10000];,3
+free=1;genre=Events;rating_bucket_range=[0-10000];,2
+free=1;genre=Auto & Vehicles;rating_bucket_range=[0-10000];,988
+free=0;genre=Auto & Vehicles;rating_bucket_range=[0-10000];,48
+free=1;genre=Auto & Vehicles;rating_bucket_range=[10000-20000];,2
+free=1;genre=Beauty;rating_bucket_range=[0-10000];,789
+free=0;genre=Beauty;rating_bucket_range=[0-10000];,10
+free=1;genre=Art & Design;score_bucket_range=[4-5];,124
+free=1;genre=Art & Design;score_bucket_range=[3-4];,37
+free=0;genre=Art & Design;score_bucket_range=[4-5];,2
+free=0;genre=Art & Design;score_bucket_range=[0-1];,65
+free=1;genre=Art & Design;score_bucket_range=[0-1];,1869
+free=1;genre=Art & Design;score_bucket_range=[2-3];,13
+free=1;genre=Art & Design;score_bucket_range=[1-2];,9
+free=0;genre=Art & Design;score_bucket_range=[3-4];,2
+free=1;genre=Entertainment;score_bucket_range=[0-1];,2
+free=1;genre=Personalization;score_bucket_range=[0-1];,8
+free=1;genre=Photography;score_bucket_range=[0-1];,2
+free=1;genre=Events;score_bucket_range=[0-1];,2
+free=1;genre=Auto & Vehicles;score_bucket_range=[4-5];,25
+free=1;genre=Auto & Vehicles;score_bucket_range=[0-1];,950
+free=1;genre=Auto & Vehicles;score_bucket_range=[3-4];,13
+free=0;genre=Auto & Vehicles;score_bucket_range=[4-5];,3
+free=0;genre=Auto & Vehicles;score_bucket_range=[0-1];,43
+free=1;genre=Auto & Vehicles;score_bucket_range=[2-3];,2
+free=1;genre=Auto & Vehicles;score_bucket_range=[1-2];,2
+free=0;genre=Auto & Vehicles;score_bucket_range=[3-4];,2
+free=1;genre=Beauty;score_bucket_range=[0-1];,766
+free=0;genre=Beauty;score_bucket_range=[0-1];,9
+free=1;genre=Beauty;score_bucket_range=[4-5];,12
+free=1;genre=Beauty;score_bucket_range=[3-4];,7
+free=1;genre=Beauty;score_bucket_range=[2-3];,3
+free=1;adSupported=1;containsAds=1;,2553
+free=0;adSupported=0;containsAds=0;,123
+free=1;adSupported=0;containsAds=0;,1302
+free=0;adSupported=1;containsAds=1;,4
+free=1;adSupported=1;year_bucket_range=[2014-2015];,9
+free=0;adSupported=0;year_bucket_range=[2014-2015];,4
+free=1;adSupported=1;year_bucket_range=[2016-2017];,103
+free=1;adSupported=0;year_bucket_range=[2016-2017];,34
+free=1;adSupported=0;year_bucket_range=[2018-2019];,201
+free=0;adSupported=0;year_bucket_range=[2016-2017];,4
+free=1;adSupported=1;year_bucket_range=[2018-2019];,641
+free=0;adSupported=0;year_bucket_range=[2018-2019];,37
+free=1;adSupported=0;year_bucket_range=[2020-2021];,279
+free=1;adSupported=1;year_bucket_range=[2020-2021];,573
+free=1;adSupported=1;year_bucket_range=[2022-2023];,1226
+free=0;adSupported=0;year_bucket_range=[2020-2021];,64
+free=0;adSupported=1;year_bucket_range=[2020-2021];,2
+free=1;adSupported=0;year_bucket_range=[2022-2023];,782
+free=0;adSupported=0;year_bucket_range=[2022-2023];,13
+free=1;adSupported=0;year_bucket_range=[2012-2013];,2
+free=1;adSupported=0;year_bucket_range=[2014-2015];,4
+free=0;adSupported=1;year_bucket_range=[2022-2023];,2
+free=1;adSupported=1;install_bucket_range=[1000000-1100000];,14
+free=1;adSupported=1;install_bucket_range=[500000-600000];,10
+free=1;adSupported=1;install_bucket_range=[0-100000];,2454
+free=0;adSupported=0;install_bucket_range=[0-100000];,123
+free=1;adSupported=1;install_bucket_range=[100000-200000];,69
+free=1;adSupported=0;install_bucket_range=[0-100000];,1288
+free=1;adSupported=1;install_bucket_range=[5000000-5100000];,5
+free=1;adSupported=0;install_bucket_range=[100000-200000];,13
+free=0;adSupported=1;install_bucket_range=[0-100000];,4
+free=1;adSupported=1;price_bucket_range=[0-5];,2553
+free=0;adSupported=0;price_bucket_range=[0-5];,88
+free=0;adSupported=0;price_bucket_range=[5-10];,23
+free=1;adSupported=0;price_bucket_range=[0-5];,1302
+free=0;adSupported=0;price_bucket_range=[10-15];,5
+free=0;adSupported=1;price_bucket_range=[0-5];,2
+free=0;adSupported=0;price_bucket_range=[15-20];,4
+free=1;adSupported=1;rating_bucket_range=[10000-20000];,6
+free=1;adSupported=1;rating_bucket_range=[0-10000];,2540
+free=0;adSupported=0;rating_bucket_range=[0-10000];,123
+free=1;adSupported=0;rating_bucket_range=[0-10000];,1301
+free=1;adSupported=1;rating_bucket_range=[20000-30000];,2
+free=0;adSupported=1;rating_bucket_range=[0-10000];,4
+free=1;adSupported=1;score_bucket_range=[4-5];,139
+free=1;adSupported=1;score_bucket_range=[3-4];,47
+free=0;adSupported=0;score_bucket_range=[4-5];,5
+free=0;adSupported=0;score_bucket_range=[0-1];,113
+free=1;adSupported=1;score_bucket_range=[0-1];,2341
+free=1;adSupported=0;score_bucket_range=[0-1];,1263
+free=1;adSupported=1;score_bucket_range=[2-3];,17
+free=1;adSupported=1;score_bucket_range=[1-2];,9
+free=1;adSupported=0;score_bucket_range=[4-5];,24
+free=0;adSupported=0;score_bucket_range=[3-4];,5
+free=1;adSupported=0;score_bucket_range=[3-4];,11
+free=0;adSupported=1;score_bucket_range=[0-1];,4
+free=1;adSupported=0;score_bucket_range=[1-2];,3
+free=1;containsAds=1;year_bucket_range=[2014-2015];,9
+free=0;containsAds=0;year_bucket_range=[2014-2015];,4
+free=1;containsAds=1;year_bucket_range=[2016-2017];,103
+free=1;containsAds=0;year_bucket_range=[2016-2017];,34
+free=1;containsAds=0;year_bucket_range=[2018-2019];,201
+free=0;containsAds=0;year_bucket_range=[2016-2017];,4
+free=1;containsAds=1;year_bucket_range=[2018-2019];,641
+free=0;containsAds=0;year_bucket_range=[2018-2019];,37
+free=1;containsAds=0;year_bucket_range=[2020-2021];,279
+free=1;containsAds=1;year_bucket_range=[2020-2021];,573
+free=1;containsAds=1;year_bucket_range=[2022-2023];,1226
+free=0;containsAds=0;year_bucket_range=[2020-2021];,64
+free=0;containsAds=1;year_bucket_range=[2020-2021];,2
+free=1;containsAds=0;year_bucket_range=[2022-2023];,782
+free=0;containsAds=0;year_bucket_range=[2022-2023];,13
+free=1;containsAds=0;year_bucket_range=[2012-2013];,2
+free=1;containsAds=0;year_bucket_range=[2014-2015];,4
+free=0;containsAds=1;year_bucket_range=[2022-2023];,2
+free=1;containsAds=1;install_bucket_range=[1000000-1100000];,14
+free=1;containsAds=1;install_bucket_range=[500000-600000];,10
+free=1;containsAds=1;install_bucket_range=[0-100000];,2454
+free=0;containsAds=0;install_bucket_range=[0-100000];,123
+free=1;containsAds=1;install_bucket_range=[100000-200000];,69
+free=1;containsAds=0;install_bucket_range=[0-100000];,1288
+free=1;containsAds=1;install_bucket_range=[5000000-5100000];,5
+free=1;containsAds=0;install_bucket_range=[100000-200000];,13
+free=0;containsAds=1;install_bucket_range=[0-100000];,4
+free=1;containsAds=1;price_bucket_range=[0-5];,2553
+free=0;containsAds=0;price_bucket_range=[0-5];,88
+free=0;containsAds=0;price_bucket_range=[5-10];,23
+free=1;containsAds=0;price_bucket_range=[0-5];,1302
+free=0;containsAds=0;price_bucket_range=[10-15];,5
+free=0;containsAds=1;price_bucket_range=[0-5];,2
+free=0;containsAds=0;price_bucket_range=[15-20];,4
+free=1;containsAds=1;rating_bucket_range=[10000-20000];,6
+free=1;containsAds=1;rating_bucket_range=[0-10000];,2540
+free=0;containsAds=0;rating_bucket_range=[0-10000];,123
+free=1;containsAds=0;rating_bucket_range=[0-10000];,1301
+free=1;containsAds=1;rating_bucket_range=[20000-30000];,2
+free=0;containsAds=1;rating_bucket_range=[0-10000];,4
+free=1;containsAds=1;score_bucket_range=[4-5];,139
+free=1;containsAds=1;score_bucket_range=[3-4];,47
+free=0;containsAds=0;score_bucket_range=[4-5];,5
+free=0;containsAds=0;score_bucket_range=[0-1];,113
+free=1;containsAds=1;score_bucket_range=[0-1];,2341
+free=1;containsAds=0;score_bucket_range=[0-1];,1263
+free=1;containsAds=1;score_bucket_range=[2-3];,17
+free=1;containsAds=1;score_bucket_range=[1-2];,9
+free=1;containsAds=0;score_bucket_range=[4-5];,24
+free=0;containsAds=0;score_bucket_range=[3-4];,5
+free=1;containsAds=0;score_bucket_range=[3-4];,11
+free=0;containsAds=1;score_bucket_range=[0-1];,4
+free=1;containsAds=0;score_bucket_range=[1-2];,3
+free=1;year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];,2
+free=1;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,6
+free=0;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,4
+free=1;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,115
+free=1;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,17
+free=1;year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];,3
+free=1;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,785
+free=0;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,4
+free=1;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,40
+free=1;year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];,5
+free=0;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,37
+free=1;year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];,9
+free=1;year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];,3
+free=1;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,828
+free=1;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,2007
+free=1;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,20
+free=0;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,66
+free=1;year_bucket_range=[2020-2021];install_bucket_range=[1000000-1100000];,2
+free=1;year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];,2
+free=0;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,15
+free=1;year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];,3
+free=1;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,13
+free=1;year_bucket_range=[2012-2013];price_bucket_range=[0-5];,3
+free=1;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,137
+free=1;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,842
+free=0;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,3
+free=0;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,28
+free=1;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,852
+free=1;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,2008
+free=0;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,45
+free=0;year_bucket_range=[2020-2021];price_bucket_range=[10-15];,2
+free=0;year_bucket_range=[2020-2021];price_bucket_range=[15-20];,3
+free=0;year_bucket_range=[2020-2021];price_bucket_range=[5-10];,15
+free=0;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,11
+free=0;year_bucket_range=[2022-2023];price_bucket_range=[5-10];,2
+free=0;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,2
+free=0;year_bucket_range=[2018-2019];price_bucket_range=[5-10];,5
+free=1;year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];,3
+free=1;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,9
+free=0;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,4
+free=1;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,136
+free=1;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,835
+free=0;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,4
+free=1;year_bucket_range=[2018-2019];rating_bucket_range=[10000-20000];,4
+free=0;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,37
+free=1;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,850
+free=1;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,2008
+free=0;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,66
+free=0;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,15
+free=1;year_bucket_range=[2014-2015];score_bucket_range=[4-5];,5
+free=0;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,3
+free=1;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,100
+free=1;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,11
+free=1;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,22
+free=1;year_bucket_range=[2016-2017];score_bucket_range=[2-3];,3
+free=1;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,719
+free=0;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,3
+free=1;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,28
+free=1;year_bucket_range=[2018-2019];score_bucket_range=[1-2];,7
+free=1;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,81
+free=1;year_bucket_range=[2018-2019];score_bucket_range=[2-3];,7
+free=0;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,33
+free=0;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,2
+free=0;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,2
+free=1;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,799
+free=1;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,1978
+free=1;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,32
+free=1;year_bucket_range=[2020-2021];score_bucket_range=[2-3];,7
+free=0;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,63
+free=1;year_bucket_range=[2020-2021];score_bucket_range=[1-2];,2
+free=1;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,12
+free=1;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,22
+free=1;year_bucket_range=[2022-2023];score_bucket_range=[3-4];,5
+free=1;year_bucket_range=[2022-2023];score_bucket_range=[1-2];,2
+free=0;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,15
+free=1;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,7
+free=0;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,3
+free=1;install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,14
+free=1;install_bucket_range=[500000-600000];price_bucket_range=[0-5];,11
+free=1;install_bucket_range=[0-100000];price_bucket_range=[0-5];,3742
+free=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,90
+free=0;install_bucket_range=[0-100000];price_bucket_range=[5-10];,24
+free=1;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,82
+free=1;install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];,5
+free=0;install_bucket_range=[0-100000];price_bucket_range=[10-15];,5
+free=0;install_bucket_range=[0-100000];price_bucket_range=[15-20];,5
+free=1;install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];,4
+free=1;install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,9
+free=1;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,3742
+free=0;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,127
+free=1;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,81
+free=1;install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,8
+free=1;install_bucket_range=[500000-600000];rating_bucket_range=[10000-20000];,2
+free=1;install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,10
+free=1;install_bucket_range=[500000-600000];score_bucket_range=[3-4];,3
+free=1;install_bucket_range=[0-100000];score_bucket_range=[4-5];,112
+free=0;install_bucket_range=[0-100000];score_bucket_range=[4-5];,5
+free=0;install_bucket_range=[0-100000];score_bucket_range=[0-1];,117
+free=1;install_bucket_range=[0-100000];score_bucket_range=[0-1];,3572
+free=1;install_bucket_range=[100000-200000];score_bucket_range=[3-4];,15
+free=1;install_bucket_range=[1000000-1100000];score_bucket_range=[3-4];,4
+free=1;install_bucket_range=[0-100000];score_bucket_range=[3-4];,36
+free=1;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,28
+free=1;install_bucket_range=[0-100000];score_bucket_range=[2-3];,12
+free=1;install_bucket_range=[0-100000];score_bucket_range=[1-2];,10
+free=1;install_bucket_range=[5000000-5100000];score_bucket_range=[4-5];,5
+free=1;install_bucket_range=[500000-600000];score_bucket_range=[4-5];,7
+free=1;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,31
+free=1;install_bucket_range=[100000-200000];score_bucket_range=[2-3];,6
+free=1;install_bucket_range=[100000-200000];score_bucket_range=[1-2];,2
+free=0;install_bucket_range=[0-100000];score_bucket_range=[3-4];,5
+free=1;price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,7
+free=1;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,3841
+free=0;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,90
+free=0;price_bucket_range=[5-10];rating_bucket_range=[0-10000];,24
+free=1;price_bucket_range=[0-5];rating_bucket_range=[20000-30000];,2
+free=0;price_bucket_range=[10-15];rating_bucket_range=[0-10000];,5
+free=0;price_bucket_range=[15-20];rating_bucket_range=[0-10000];,5
+free=1;price_bucket_range=[0-5];score_bucket_range=[4-5];,163
+free=1;price_bucket_range=[0-5];score_bucket_range=[3-4];,58
+free=0;price_bucket_range=[0-5];score_bucket_range=[4-5];,4
+free=0;price_bucket_range=[5-10];score_bucket_range=[0-1];,23
+free=1;price_bucket_range=[0-5];score_bucket_range=[0-1];,3604
+free=1;price_bucket_range=[0-5];score_bucket_range=[2-3];,18
+free=1;price_bucket_range=[0-5];score_bucket_range=[1-2];,12
+free=0;price_bucket_range=[0-5];score_bucket_range=[0-1];,84
+free=0;price_bucket_range=[0-5];score_bucket_range=[3-4];,2
+free=0;price_bucket_range=[10-15];score_bucket_range=[0-1];,4
+free=0;price_bucket_range=[15-20];score_bucket_range=[0-1];,4
+free=1;rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,7
+free=1;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,58
+free=1;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,149
+free=0;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,5
+free=0;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,117
+free=1;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,3604
+free=1;rating_bucket_range=[0-10000];score_bucket_range=[2-3];,18
+free=1;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,12
+free=1;rating_bucket_range=[20000-30000];score_bucket_range=[4-5];,2
+free=0;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,5
+genre=Art & Design;adSupported=1;containsAds=1;,1628
+genre=Art & Design;adSupported=0;containsAds=0;,493
+genre=Entertainment;adSupported=1;containsAds=1;,3
+genre=Personalization;adSupported=1;containsAds=1;,8
+genre=Photography;adSupported=1;containsAds=1;,3
+genre=Events;adSupported=1;containsAds=1;,2
+genre=Auto & Vehicles;adSupported=1;containsAds=1;,371
+genre=Auto & Vehicles;adSupported=0;containsAds=0;,669
+genre=Beauty;adSupported=0;containsAds=0;,260
+genre=Beauty;adSupported=1;containsAds=1;,539
+genre=Art & Design;adSupported=1;year_bucket_range=[2014-2015];,3
+genre=Art & Design;adSupported=1;year_bucket_range=[2016-2017];,59
+genre=Art & Design;adSupported=0;year_bucket_range=[2016-2017];,18
+genre=Art & Design;adSupported=0;year_bucket_range=[2018-2019];,99
+genre=Art & Design;adSupported=1;year_bucket_range=[2018-2019];,433
+genre=Art & Design;adSupported=0;year_bucket_range=[2020-2021];,126
+genre=Art & Design;adSupported=1;year_bucket_range=[2020-2021];,338
+genre=Personalization;adSupported=1;year_bucket_range=[2020-2021];,4
+genre=Art & Design;adSupported=0;year_bucket_range=[2022-2023];,248
+genre=Art & Design;adSupported=1;year_bucket_range=[2022-2023];,794
+genre=Photography;adSupported=1;year_bucket_range=[2020-2021];,3
+genre=Personalization;adSupported=1;year_bucket_range=[2022-2023];,4
+genre=Events;adSupported=1;year_bucket_range=[2022-2023];,2
+genre=Auto & Vehicles;adSupported=1;year_bucket_range=[2014-2015];,4
+genre=Auto & Vehicles;adSupported=0;year_bucket_range=[2012-2013];,2
+genre=Auto & Vehicles;adSupported=0;year_bucket_range=[2014-2015];,4
+genre=Auto & Vehicles;adSupported=0;year_bucket_range=[2016-2017];,15
+genre=Auto & Vehicles;adSupported=1;year_bucket_range=[2016-2017];,13
+genre=Auto & Vehicles;adSupported=0;year_bucket_range=[2018-2019];,106
+genre=Auto & Vehicles;adSupported=1;year_bucket_range=[2018-2019];,81
+genre=Auto & Vehicles;adSupported=0;year_bucket_range=[2020-2021];,152
+genre=Auto & Vehicles;adSupported=1;year_bucket_range=[2020-2021];,79
+genre=Auto & Vehicles;adSupported=1;year_bucket_range=[2022-2023];,194
+genre=Auto & Vehicles;adSupported=0;year_bucket_range=[2022-2023];,390
+genre=Beauty;adSupported=0;year_bucket_range=[2014-2015];,3
+genre=Beauty;adSupported=1;year_bucket_range=[2014-2015];,2
+genre=Beauty;adSupported=1;year_bucket_range=[2016-2017];,31
+genre=Beauty;adSupported=0;year_bucket_range=[2016-2017];,5
+genre=Beauty;adSupported=1;year_bucket_range=[2018-2019];,126
+genre=Beauty;adSupported=0;year_bucket_range=[2018-2019];,33
+genre=Beauty;adSupported=0;year_bucket_range=[2020-2021];,64
+genre=Beauty;adSupported=1;year_bucket_range=[2020-2021];,150
+genre=Beauty;adSupported=0;year_bucket_range=[2022-2023];,155
+genre=Beauty;adSupported=1;year_bucket_range=[2022-2023];,230
+genre=Art & Design;adSupported=1;install_bucket_range=[1000000-1100000];,10
+genre=Art & Design;adSupported=1;install_bucket_range=[500000-600000];,7
+genre=Art & Design;adSupported=1;install_bucket_range=[0-100000];,1565
+genre=Art & Design;adSupported=0;install_bucket_range=[0-100000];,491
 genre=Art & Design;adSupported=1;install_bucket_range=[100000-200000];,42
-genre=Art & Design;adSupported=1;price_bucket_range=[0-5];,1503
-genre=Art & Design;adSupported=0;price_bucket_range=[0-5];,457
-genre=Art & Design;containsAds=0;reviews=0;,449
-genre=Art & Design;containsAds=1;reviews=0;,1342
-genre=Art & Design;containsAds=1;reviews=1;,21
-genre=Art & Design;containsAds=0;score=0.0;,448
-genre=Art & Design;containsAds=1;score=0.0;,1338
-genre=Art & Design;containsAds=1;year_bucket_range=[2017-2018];,148
-genre=Art & Design;containsAds=0;year_bucket_range=[2017-2018];,41
-genre=Art & Design;containsAds=0;year_bucket_range=[2019-2020];,142
-genre=Art & Design;containsAds=1;year_bucket_range=[2019-2020];,520
-genre=Art & Design;containsAds=1;year_bucket_range=[2021-2022];,822
-genre=Art & Design;containsAds=0;year_bucket_range=[2021-2022];,279
-genre=Art & Design;containsAds=1;install_bucket_range=[0-100000];,1441
-genre=Art & Design;containsAds=0;install_bucket_range=[0-100000];,465
+genre=Art & Design;adSupported=1;install_bucket_range=[5000000-5100000];,4
+genre=Art & Design;adSupported=0;install_bucket_range=[100000-200000];,2
+genre=Entertainment;adSupported=1;install_bucket_range=[0-100000];,3
+genre=Personalization;adSupported=1;install_bucket_range=[0-100000];,8
+genre=Photography;adSupported=1;install_bucket_range=[0-100000];,3
+genre=Events;adSupported=1;install_bucket_range=[0-100000];,2
+genre=Auto & Vehicles;adSupported=1;install_bucket_range=[0-100000];,355
+genre=Auto & Vehicles;adSupported=0;install_bucket_range=[100000-200000];,9
+genre=Auto & Vehicles;adSupported=0;install_bucket_range=[0-100000];,660
+genre=Auto & Vehicles;adSupported=1;install_bucket_range=[100000-200000];,13
+genre=Beauty;adSupported=0;install_bucket_range=[100000-200000];,2
+genre=Beauty;adSupported=0;install_bucket_range=[0-100000];,257
+genre=Beauty;adSupported=1;install_bucket_range=[100000-200000];,14
+genre=Beauty;adSupported=1;install_bucket_range=[0-100000];,519
+genre=Beauty;adSupported=1;install_bucket_range=[500000-600000];,3
+genre=Beauty;adSupported=1;install_bucket_range=[1000000-1100000];,3
+genre=Art & Design;adSupported=1;price_bucket_range=[0-5];,1627
+genre=Art & Design;adSupported=0;price_bucket_range=[0-5];,482
+genre=Art & Design;adSupported=0;price_bucket_range=[5-10];,7
+genre=Entertainment;adSupported=1;price_bucket_range=[0-5];,3
+genre=Personalization;adSupported=1;price_bucket_range=[0-5];,8
+genre=Photography;adSupported=1;price_bucket_range=[0-5];,3
+genre=Events;adSupported=1;price_bucket_range=[0-5];,2
+genre=Auto & Vehicles;adSupported=1;price_bucket_range=[0-5];,370
+genre=Auto & Vehicles;adSupported=0;price_bucket_range=[0-5];,646
+genre=Auto & Vehicles;adSupported=0;price_bucket_range=[10-15];,4
+genre=Auto & Vehicles;adSupported=0;price_bucket_range=[5-10];,15
+genre=Auto & Vehicles;adSupported=0;price_bucket_range=[15-20];,4
+genre=Beauty;adSupported=0;price_bucket_range=[0-5];,259
+genre=Beauty;adSupported=1;price_bucket_range=[0-5];,539
+genre=Art & Design;adSupported=1;rating_bucket_range=[10000-20000];,5
+genre=Art & Design;adSupported=1;rating_bucket_range=[0-10000];,1618
+genre=Art & Design;adSupported=0;rating_bucket_range=[0-10000];,493
+genre=Art & Design;adSupported=1;rating_bucket_range=[20000-30000];,2
+genre=Entertainment;adSupported=1;rating_bucket_range=[0-10000];,3
+genre=Personalization;adSupported=1;rating_bucket_range=[0-10000];,8
+genre=Photography;adSupported=1;rating_bucket_range=[0-10000];,3
+genre=Events;adSupported=1;rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;adSupported=1;rating_bucket_range=[0-10000];,368
+genre=Auto & Vehicles;adSupported=0;rating_bucket_range=[0-10000];,668
+genre=Beauty;adSupported=0;rating_bucket_range=[0-10000];,260
+genre=Beauty;adSupported=1;rating_bucket_range=[0-10000];,539
+genre=Art & Design;adSupported=1;score_bucket_range=[4-5];,113
+genre=Art & Design;adSupported=1;score_bucket_range=[3-4];,34
+genre=Art & Design;adSupported=0;score_bucket_range=[4-5];,13
+genre=Art & Design;adSupported=0;score_bucket_range=[0-1];,473
+genre=Art & Design;adSupported=1;score_bucket_range=[0-1];,1461
+genre=Art & Design;adSupported=1;score_bucket_range=[2-3];,12
+genre=Art & Design;adSupported=1;score_bucket_range=[1-2];,8
+genre=Art & Design;adSupported=0;score_bucket_range=[3-4];,5
+genre=Entertainment;adSupported=1;score_bucket_range=[0-1];,2
+genre=Personalization;adSupported=1;score_bucket_range=[0-1];,8
+genre=Photography;adSupported=1;score_bucket_range=[0-1];,2
+genre=Events;adSupported=1;score_bucket_range=[0-1];,2
+genre=Auto & Vehicles;adSupported=1;score_bucket_range=[4-5];,13
+genre=Auto & Vehicles;adSupported=1;score_bucket_range=[0-1];,350
+genre=Auto & Vehicles;adSupported=1;score_bucket_range=[3-4];,6
+genre=Auto & Vehicles;adSupported=0;score_bucket_range=[4-5];,15
+genre=Auto & Vehicles;adSupported=0;score_bucket_range=[0-1];,643
+genre=Auto & Vehicles;adSupported=1;score_bucket_range=[2-3];,2
+genre=Auto & Vehicles;adSupported=0;score_bucket_range=[3-4];,9
+genre=Auto & Vehicles;adSupported=0;score_bucket_range=[1-2];,2
+genre=Beauty;adSupported=0;score_bucket_range=[0-1];,258
+genre=Beauty;adSupported=1;score_bucket_range=[0-1];,517
+genre=Beauty;adSupported=1;score_bucket_range=[4-5];,11
+genre=Beauty;adSupported=1;score_bucket_range=[3-4];,7
+genre=Beauty;adSupported=1;score_bucket_range=[2-3];,3
+genre=Art & Design;containsAds=1;year_bucket_range=[2014-2015];,3
+genre=Art & Design;containsAds=1;year_bucket_range=[2016-2017];,59
+genre=Art & Design;containsAds=0;year_bucket_range=[2016-2017];,18
+genre=Art & Design;containsAds=0;year_bucket_range=[2018-2019];,99
+genre=Art & Design;containsAds=1;year_bucket_range=[2018-2019];,433
+genre=Art & Design;containsAds=0;year_bucket_range=[2020-2021];,126
+genre=Art & Design;containsAds=1;year_bucket_range=[2020-2021];,338
+genre=Personalization;containsAds=1;year_bucket_range=[2020-2021];,4
+genre=Art & Design;containsAds=0;year_bucket_range=[2022-2023];,248
+genre=Art & Design;containsAds=1;year_bucket_range=[2022-2023];,794
+genre=Photography;containsAds=1;year_bucket_range=[2020-2021];,3
+genre=Personalization;containsAds=1;year_bucket_range=[2022-2023];,4
+genre=Events;containsAds=1;year_bucket_range=[2022-2023];,2
+genre=Auto & Vehicles;containsAds=1;year_bucket_range=[2014-2015];,4
+genre=Auto & Vehicles;containsAds=0;year_bucket_range=[2012-2013];,2
+genre=Auto & Vehicles;containsAds=0;year_bucket_range=[2014-2015];,4
+genre=Auto & Vehicles;containsAds=0;year_bucket_range=[2016-2017];,15
+genre=Auto & Vehicles;containsAds=1;year_bucket_range=[2016-2017];,13
+genre=Auto & Vehicles;containsAds=0;year_bucket_range=[2018-2019];,106
+genre=Auto & Vehicles;containsAds=1;year_bucket_range=[2018-2019];,81
+genre=Auto & Vehicles;containsAds=0;year_bucket_range=[2020-2021];,152
+genre=Auto & Vehicles;containsAds=1;year_bucket_range=[2020-2021];,79
+genre=Auto & Vehicles;containsAds=1;year_bucket_range=[2022-2023];,194
+genre=Auto & Vehicles;containsAds=0;year_bucket_range=[2022-2023];,390
+genre=Beauty;containsAds=0;year_bucket_range=[2014-2015];,3
+genre=Beauty;containsAds=1;year_bucket_range=[2014-2015];,2
+genre=Beauty;containsAds=1;year_bucket_range=[2016-2017];,31
+genre=Beauty;containsAds=0;year_bucket_range=[2016-2017];,5
+genre=Beauty;containsAds=1;year_bucket_range=[2018-2019];,126
+genre=Beauty;containsAds=0;year_bucket_range=[2018-2019];,33
+genre=Beauty;containsAds=0;year_bucket_range=[2020-2021];,64
+genre=Beauty;containsAds=1;year_bucket_range=[2020-2021];,150
+genre=Beauty;containsAds=0;year_bucket_range=[2022-2023];,155
+genre=Beauty;containsAds=1;year_bucket_range=[2022-2023];,230
+genre=Art & Design;containsAds=1;install_bucket_range=[1000000-1100000];,10
+genre=Art & Design;containsAds=1;install_bucket_range=[500000-600000];,7
+genre=Art & Design;containsAds=1;install_bucket_range=[0-100000];,1565
+genre=Art & Design;containsAds=0;install_bucket_range=[0-100000];,491
 genre=Art & Design;containsAds=1;install_bucket_range=[100000-200000];,42
-genre=Art & Design;containsAds=1;price_bucket_range=[0-5];,1503
-genre=Art & Design;containsAds=0;price_bucket_range=[0-5];,457
-genre=Art & Design;reviews=0;score=0.0;,1786
-genre=Art & Design;reviews=0;year_bucket_range=[2017-2018];,157
-genre=Art & Design;reviews=0;year_bucket_range=[2019-2020];,561
-genre=Art & Design;reviews=0;year_bucket_range=[2021-2022];,1066
-genre=Art & Design;reviews=0;install_bucket_range=[0-100000];,1778
-genre=Art & Design;reviews=0;price_bucket_range=[0-5];,1781
-genre=Art & Design;reviews=2;price_bucket_range=[0-5];,21
-genre=Art & Design;reviews=3;price_bucket_range=[0-5];,22
-genre=Art & Design;reviews=1;price_bucket_range=[0-5];,21
-genre=Art & Design;score=0.0;year_bucket_range=[2017-2018];,156
-genre=Art & Design;score=0.0;year_bucket_range=[2019-2020];,559
-genre=Art & Design;score=0.0;year_bucket_range=[2021-2022];,1064
-genre=Art & Design;score=0.0;install_bucket_range=[0-100000];,1774
-genre=Art & Design;score=0.0;price_bucket_range=[0-5];,1776
-genre=Art & Design;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,170
-genre=Art & Design;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,631
-genre=Art & Design;year_bucket_range=[2019-2020];install_bucket_range=[100000-200000];,21
-genre=Art & Design;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,1092
-genre=Art & Design;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,188
-genre=Art & Design;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,660
-genre=Art & Design;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,1094
-genre=Art & Design;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1895
+genre=Art & Design;containsAds=1;install_bucket_range=[5000000-5100000];,4
+genre=Art & Design;containsAds=0;install_bucket_range=[100000-200000];,2
+genre=Entertainment;containsAds=1;install_bucket_range=[0-100000];,3
+genre=Personalization;containsAds=1;install_bucket_range=[0-100000];,8
+genre=Photography;containsAds=1;install_bucket_range=[0-100000];,3
+genre=Events;containsAds=1;install_bucket_range=[0-100000];,2
+genre=Auto & Vehicles;containsAds=1;install_bucket_range=[0-100000];,355
+genre=Auto & Vehicles;containsAds=0;install_bucket_range=[100000-200000];,9
+genre=Auto & Vehicles;containsAds=0;install_bucket_range=[0-100000];,660
+genre=Auto & Vehicles;containsAds=1;install_bucket_range=[100000-200000];,13
+genre=Beauty;containsAds=0;install_bucket_range=[100000-200000];,2
+genre=Beauty;containsAds=0;install_bucket_range=[0-100000];,257
+genre=Beauty;containsAds=1;install_bucket_range=[100000-200000];,14
+genre=Beauty;containsAds=1;install_bucket_range=[0-100000];,519
+genre=Beauty;containsAds=1;install_bucket_range=[500000-600000];,3
+genre=Beauty;containsAds=1;install_bucket_range=[1000000-1100000];,3
+genre=Art & Design;containsAds=1;price_bucket_range=[0-5];,1627
+genre=Art & Design;containsAds=0;price_bucket_range=[0-5];,482
+genre=Art & Design;containsAds=0;price_bucket_range=[5-10];,7
+genre=Entertainment;containsAds=1;price_bucket_range=[0-5];,3
+genre=Personalization;containsAds=1;price_bucket_range=[0-5];,8
+genre=Photography;containsAds=1;price_bucket_range=[0-5];,3
+genre=Events;containsAds=1;price_bucket_range=[0-5];,2
+genre=Auto & Vehicles;containsAds=1;price_bucket_range=[0-5];,370
+genre=Auto & Vehicles;containsAds=0;price_bucket_range=[0-5];,646
+genre=Auto & Vehicles;containsAds=0;price_bucket_range=[10-15];,4
+genre=Auto & Vehicles;containsAds=0;price_bucket_range=[5-10];,15
+genre=Auto & Vehicles;containsAds=0;price_bucket_range=[15-20];,4
+genre=Beauty;containsAds=0;price_bucket_range=[0-5];,259
+genre=Beauty;containsAds=1;price_bucket_range=[0-5];,539
+genre=Art & Design;containsAds=1;rating_bucket_range=[10000-20000];,5
+genre=Art & Design;containsAds=1;rating_bucket_range=[0-10000];,1618
+genre=Art & Design;containsAds=0;rating_bucket_range=[0-10000];,493
+genre=Art & Design;containsAds=1;rating_bucket_range=[20000-30000];,2
+genre=Entertainment;containsAds=1;rating_bucket_range=[0-10000];,3
+genre=Personalization;containsAds=1;rating_bucket_range=[0-10000];,8
+genre=Photography;containsAds=1;rating_bucket_range=[0-10000];,3
+genre=Events;containsAds=1;rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;containsAds=1;rating_bucket_range=[0-10000];,368
+genre=Auto & Vehicles;containsAds=0;rating_bucket_range=[0-10000];,668
+genre=Beauty;containsAds=0;rating_bucket_range=[0-10000];,260
+genre=Beauty;containsAds=1;rating_bucket_range=[0-10000];,539
+genre=Art & Design;containsAds=1;score_bucket_range=[4-5];,113
+genre=Art & Design;containsAds=1;score_bucket_range=[3-4];,34
+genre=Art & Design;containsAds=0;score_bucket_range=[4-5];,13
+genre=Art & Design;containsAds=0;score_bucket_range=[0-1];,473
+genre=Art & Design;containsAds=1;score_bucket_range=[0-1];,1461
+genre=Art & Design;containsAds=1;score_bucket_range=[2-3];,12
+genre=Art & Design;containsAds=1;score_bucket_range=[1-2];,8
+genre=Art & Design;containsAds=0;score_bucket_range=[3-4];,5
+genre=Entertainment;containsAds=1;score_bucket_range=[0-1];,2
+genre=Personalization;containsAds=1;score_bucket_range=[0-1];,8
+genre=Photography;containsAds=1;score_bucket_range=[0-1];,2
+genre=Events;containsAds=1;score_bucket_range=[0-1];,2
+genre=Auto & Vehicles;containsAds=1;score_bucket_range=[4-5];,13
+genre=Auto & Vehicles;containsAds=1;score_bucket_range=[0-1];,350
+genre=Auto & Vehicles;containsAds=1;score_bucket_range=[3-4];,6
+genre=Auto & Vehicles;containsAds=0;score_bucket_range=[4-5];,15
+genre=Auto & Vehicles;containsAds=0;score_bucket_range=[0-1];,643
+genre=Auto & Vehicles;containsAds=1;score_bucket_range=[2-3];,2
+genre=Auto & Vehicles;containsAds=0;score_bucket_range=[3-4];,9
+genre=Auto & Vehicles;containsAds=0;score_bucket_range=[1-2];,2
+genre=Beauty;containsAds=0;score_bucket_range=[0-1];,258
+genre=Beauty;containsAds=1;score_bucket_range=[0-1];,517
+genre=Beauty;containsAds=1;score_bucket_range=[4-5];,11
+genre=Beauty;containsAds=1;score_bucket_range=[3-4];,7
+genre=Beauty;containsAds=1;score_bucket_range=[2-3];,3
+genre=Art & Design;year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];,2
+genre=Art & Design;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,2
+genre=Art & Design;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,64
+genre=Art & Design;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,9
+genre=Art & Design;year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];,2
+genre=Art & Design;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,499
+genre=Art & Design;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,22
+genre=Art & Design;year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];,2
+genre=Art & Design;year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];,6
+genre=Art & Design;year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];,3
+genre=Art & Design;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,449
+genre=Art & Design;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,12
+genre=Personalization;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,4
+genre=Art & Design;year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];,2
+genre=Art & Design;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,1041
+genre=Photography;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,3
+genre=Personalization;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,4
+genre=Events;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,2
+genre=Auto & Vehicles;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,6
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,23
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,5
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,175
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,12
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,226
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,4
+genre=Auto & Vehicles;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,584
+genre=Beauty;year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];,3
+genre=Beauty;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,2
+genre=Beauty;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,32
+genre=Beauty;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,3
+genre=Beauty;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,147
+genre=Beauty;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,6
+genre=Beauty;year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];,3
+genre=Beauty;year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];,3
+genre=Beauty;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,210
+genre=Beauty;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,4
+genre=Beauty;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,385
+genre=Art & Design;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,3
+genre=Art & Design;year_bucket_range=[2012-2013];price_bucket_range=[0-5];,2
+genre=Art & Design;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,77
+genre=Art & Design;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,530
+genre=Art & Design;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,456
+genre=Personalization;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,4
+genre=Art & Design;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,1041
+genre=Photography;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,3
+genre=Art & Design;year_bucket_range=[2020-2021];price_bucket_range=[5-10];,5
+genre=Personalization;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,4
+genre=Events;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,2
+genre=Auto & Vehicles;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,7
+genre=Auto & Vehicles;year_bucket_range=[2012-2013];price_bucket_range=[0-5];,2
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,27
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,180
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,219
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];price_bucket_range=[5-10];,5
+genre=Auto & Vehicles;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,581
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];price_bucket_range=[5-10];,9
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];price_bucket_range=[15-20];,2
+genre=Beauty;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,5
+genre=Beauty;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,36
+genre=Beauty;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,159
+genre=Beauty;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,213
+genre=Beauty;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,385
+genre=Art & Design;year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];,2
+genre=Art & Design;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,2
+genre=Art & Design;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,76
+genre=Art & Design;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,526
+genre=Art & Design;year_bucket_range=[2018-2019];rating_bucket_range=[10000-20000];,3
+genre=Art & Design;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,463
+genre=Personalization;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,4
+genre=Art & Design;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,1042
+genre=Photography;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,3
+genre=Personalization;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,4
+genre=Events;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,6
+genre=Auto & Vehicles;year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,28
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,186
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,230
+genre=Auto & Vehicles;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,584
+genre=Beauty;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,5
+genre=Beauty;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,36
+genre=Beauty;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,159
+genre=Beauty;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,214
+genre=Beauty;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,385
+genre=Art & Design;year_bucket_range=[2014-2015];score_bucket_range=[4-5];,3
+genre=Art & Design;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,50
+genre=Art & Design;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,6
+genre=Art & Design;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,18
+genre=Art & Design;year_bucket_range=[2016-2017];score_bucket_range=[2-3];,2
+genre=Art & Design;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,437
+genre=Art & Design;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,21
+genre=Art & Design;year_bucket_range=[2018-2019];score_bucket_range=[1-2];,6
+genre=Art & Design;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,63
+genre=Art & Design;year_bucket_range=[2018-2019];score_bucket_range=[2-3];,5
+genre=Art & Design;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,428
+genre=Art & Design;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,23
+genre=Art & Design;year_bucket_range=[2020-2021];score_bucket_range=[2-3];,5
+genre=Art & Design;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,7
+genre=Personalization;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,4
+genre=Art & Design;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,1018
+genre=Photography;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,2
+genre=Art & Design;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,18
+genre=Personalization;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,4
+genre=Events;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,2
+genre=Art & Design;year_bucket_range=[2022-2023];score_bucket_range=[3-4];,4
+genre=Auto & Vehicles;year_bucket_range=[2014-2015];score_bucket_range=[4-5];,3
+genre=Auto & Vehicles;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,4
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,20
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,4
+genre=Auto & Vehicles;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,3
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,169
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,12
+genre=Auto & Vehicles;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,5
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,221
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,5
+genre=Auto & Vehicles;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,4
+genre=Auto & Vehicles;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,578
+genre=Auto & Vehicles;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,4
+genre=Beauty;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,5
+genre=Beauty;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,33
+genre=Beauty;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,2
+genre=Beauty;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,145
+genre=Beauty;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,4
+genre=Beauty;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,8
+genre=Beauty;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,207
+genre=Beauty;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,3
+genre=Beauty;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,2
+genre=Beauty;year_bucket_range=[2020-2021];score_bucket_range=[2-3];,2
+genre=Beauty;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,385
+genre=Art & Design;install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,10
+genre=Art & Design;install_bucket_range=[500000-600000];price_bucket_range=[0-5];,7
+genre=Art & Design;install_bucket_range=[0-100000];price_bucket_range=[0-5];,2044
+genre=Art & Design;install_bucket_range=[0-100000];price_bucket_range=[5-10];,7
 genre=Art & Design;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,44
-price=0.0;ratings=0;releasedYear=2017;,43
-price=0.0;ratings=0;releasedYear=2019;,317
-price=0.0;ratings=0;releasedYear=2018;,110
-price=0.0;ratings=0;releasedYear=2020;,212
-price=0.0;ratings=0;releasedYear=2022;,873
-price=0.0;ratings=0;releasedYear=2021;,178
-price=0.0;ratings=0;adSupported=1;,1351
-price=0.0;ratings=0;adSupported=0;,388
-price=0.99;ratings=0;adSupported=0;,32
-price=0.0;ratings=0;containsAds=1;,1351
-price=0.0;ratings=0;containsAds=0;,388
-price=0.99;ratings=0;containsAds=0;,32
-price=0.0;ratings=0;reviews=0;,1739
-price=0.99;ratings=0;reviews=0;,32
-price=0.0;ratings=0;score=0.0;,1739
-price=0.99;ratings=0;score=0.0;,32
-price=0.0;ratings=0;year_bucket_range=[2017-2018];,153
-price=0.0;ratings=0;year_bucket_range=[2019-2020];,529
-price=0.99;ratings=0;year_bucket_range=[2019-2020];,25
-price=0.0;ratings=0;year_bucket_range=[2021-2022];,1051
-price=0.0;ratings=0;install_bucket_range=[0-100000];,1727
-price=0.99;ratings=0;install_bucket_range=[0-100000];,32
-price=0.0;ratings=0;price_bucket_range=[0-5];,1739
-price=0.99;ratings=0;price_bucket_range=[0-5];,32
-price=0.0;releasedYear=2017;adSupported=1;,49
-price=0.0;releasedYear=2019;adSupported=0;,61
-price=0.0;releasedYear=2018;adSupported=1;,99
-price=0.0;releasedYear=2018;adSupported=0;,24
-price=0.0;releasedYear=2019;adSupported=1;,335
-price=0.0;releasedYear=2020;adSupported=0;,44
-price=0.0;releasedYear=2020;adSupported=1;,189
-price=0.0;releasedYear=2022;adSupported=1;,678
-price=0.0;releasedYear=2021;adSupported=1;,155
-price=0.0;releasedYear=2021;adSupported=0;,41
-price=0.0;releasedYear=2022;adSupported=0;,217
-price=0.0;releasedYear=2017;containsAds=1;,49
-price=0.0;releasedYear=2019;containsAds=0;,61
-price=0.0;releasedYear=2018;containsAds=1;,99
-price=0.0;releasedYear=2018;containsAds=0;,24
-price=0.0;releasedYear=2019;containsAds=1;,335
-price=0.0;releasedYear=2020;containsAds=0;,44
-price=0.0;releasedYear=2020;containsAds=1;,189
-price=0.0;releasedYear=2022;containsAds=1;,678
-price=0.0;releasedYear=2021;containsAds=1;,155
-price=0.0;releasedYear=2021;containsAds=0;,41
-price=0.0;releasedYear=2022;containsAds=0;,217
-price=0.0;releasedYear=2017;reviews=0;,44
-price=0.0;releasedYear=2019;reviews=0;,317
-price=0.0;releasedYear=2018;reviews=0;,110
-price=0.0;releasedYear=2020;reviews=0;,214
-price=0.0;releasedYear=2022;reviews=0;,874
-price=0.0;releasedYear=2021;reviews=0;,180
-price=0.0;releasedYear=2017;score=0.0;,43
-price=0.0;releasedYear=2019;score=0.0;,317
-price=0.0;releasedYear=2018;score=0.0;,110
-price=0.0;releasedYear=2020;score=0.0;,212
-price=0.0;releasedYear=2022;score=0.0;,873
-price=0.0;releasedYear=2021;score=0.0;,178
-price=0.0;releasedYear=2017;year_bucket_range=[2017-2018];,63
-price=0.0;releasedYear=2019;year_bucket_range=[2019-2020];,396
-price=0.0;releasedYear=2018;year_bucket_range=[2017-2018];,123
-price=0.0;releasedYear=2020;year_bucket_range=[2019-2020];,233
-price=0.0;releasedYear=2022;year_bucket_range=[2021-2022];,895
-price=0.0;releasedYear=2021;year_bucket_range=[2021-2022];,196
-price=0.0;releasedYear=2017;install_bucket_range=[0-100000];,53
-price=0.0;releasedYear=2019;install_bucket_range=[0-100000];,372
-price=0.0;releasedYear=2018;install_bucket_range=[0-100000];,114
-price=0.0;releasedYear=2020;install_bucket_range=[0-100000];,226
-price=0.0;releasedYear=2022;install_bucket_range=[0-100000];,894
-price=0.0;releasedYear=2021;install_bucket_range=[0-100000];,188
-price=0.0;releasedYear=2017;price_bucket_range=[0-5];,63
-price=0.0;releasedYear=2019;price_bucket_range=[0-5];,396
-price=0.0;releasedYear=2018;price_bucket_range=[0-5];,123
-price=0.0;releasedYear=2020;price_bucket_range=[0-5];,233
-price=0.0;releasedYear=2022;price_bucket_range=[0-5];,895
-price=0.0;releasedYear=2021;price_bucket_range=[0-5];,196
-price=0.0;adSupported=1;containsAds=1;,1519
-price=0.0;adSupported=0;containsAds=0;,404
-price=0.99;adSupported=0;containsAds=0;,33
-price=0.0;adSupported=1;reviews=0;,1356
-price=0.0;adSupported=0;reviews=0;,389
-price=0.99;adSupported=0;reviews=0;,32
-price=0.0;adSupported=1;reviews=1;,21
-price=0.0;adSupported=1;score=0.0;,1351
-price=0.0;adSupported=0;score=0.0;,388
-price=0.99;adSupported=0;score=0.0;,32
-price=0.0;adSupported=1;year_bucket_range=[2017-2018];,148
-price=0.0;adSupported=0;year_bucket_range=[2017-2018];,38
-price=0.0;adSupported=0;year_bucket_range=[2019-2020];,105
-price=0.0;adSupported=1;year_bucket_range=[2019-2020];,524
-price=0.99;adSupported=0;year_bucket_range=[2019-2020];,26
-price=0.0;adSupported=1;year_bucket_range=[2021-2022];,833
-price=0.0;adSupported=0;year_bucket_range=[2021-2022];,258
-price=0.0;adSupported=1;install_bucket_range=[0-100000];,1456
-price=0.0;adSupported=1;install_bucket_range=[100000-200000];,42
-price=0.0;adSupported=0;install_bucket_range=[0-100000];,402
-price=0.99;adSupported=0;install_bucket_range=[0-100000];,33
-price=0.0;adSupported=1;price_bucket_range=[0-5];,1519
-price=0.0;adSupported=0;price_bucket_range=[0-5];,404
-price=0.99;adSupported=0;price_bucket_range=[0-5];,33
-price=0.0;containsAds=1;reviews=0;,1356
-price=0.0;containsAds=0;reviews=0;,389
-price=0.99;containsAds=0;reviews=0;,32
-price=0.0;containsAds=1;reviews=1;,21
-price=0.0;containsAds=1;score=0.0;,1351
-price=0.0;containsAds=0;score=0.0;,388
-price=0.99;containsAds=0;score=0.0;,32
-price=0.0;containsAds=1;year_bucket_range=[2017-2018];,148
-price=0.0;containsAds=0;year_bucket_range=[2017-2018];,38
-price=0.0;containsAds=0;year_bucket_range=[2019-2020];,105
-price=0.0;containsAds=1;year_bucket_range=[2019-2020];,524
-price=0.99;containsAds=0;year_bucket_range=[2019-2020];,26
-price=0.0;containsAds=1;year_bucket_range=[2021-2022];,833
-price=0.0;containsAds=0;year_bucket_range=[2021-2022];,258
-price=0.0;containsAds=1;install_bucket_range=[0-100000];,1456
-price=0.0;containsAds=1;install_bucket_range=[100000-200000];,42
-price=0.0;containsAds=0;install_bucket_range=[0-100000];,402
-price=0.99;containsAds=0;install_bucket_range=[0-100000];,33
-price=0.0;containsAds=1;price_bucket_range=[0-5];,1519
-price=0.0;containsAds=0;price_bucket_range=[0-5];,404
-price=0.99;containsAds=0;price_bucket_range=[0-5];,33
-price=0.0;reviews=0;score=0.0;,1739
-price=0.99;reviews=0;score=0.0;,32
-price=0.0;reviews=0;year_bucket_range=[2017-2018];,154
-price=0.0;reviews=0;year_bucket_range=[2019-2020];,531
-price=0.99;reviews=0;year_bucket_range=[2019-2020];,25
-price=0.0;reviews=0;year_bucket_range=[2021-2022];,1054
-price=0.0;reviews=0;install_bucket_range=[0-100000];,1732
-price=0.99;reviews=0;install_bucket_range=[0-100000];,32
-price=0.0;reviews=0;price_bucket_range=[0-5];,1745
-price=0.0;reviews=2;price_bucket_range=[0-5];,21
-price=0.0;reviews=3;price_bucket_range=[0-5];,22
-price=0.99;reviews=0;price_bucket_range=[0-5];,32
-price=0.0;reviews=1;price_bucket_range=[0-5];,21
-price=0.0;score=0.0;year_bucket_range=[2017-2018];,153
-price=0.0;score=0.0;year_bucket_range=[2019-2020];,529
-price=0.99;score=0.0;year_bucket_range=[2019-2020];,25
-price=0.0;score=0.0;year_bucket_range=[2021-2022];,1051
-price=0.0;score=0.0;install_bucket_range=[0-100000];,1727
-price=0.99;score=0.0;install_bucket_range=[0-100000];,32
-price=0.0;score=0.0;price_bucket_range=[0-5];,1739
-price=0.99;score=0.0;price_bucket_range=[0-5];,32
-price=0.0;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,167
-price=0.0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,598
-price=0.0;year_bucket_range=[2019-2020];install_bucket_range=[100000-200000];,21
-price=0.99;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,26
-price=0.0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,1082
-price=0.0;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,186
-price=0.0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,629
-price=0.99;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,26
-price=0.0;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,1091
-price=0.0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1858
-price=0.0;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,44
-price=0.99;install_bucket_range=[0-100000];price_bucket_range=[0-5];,33
-ratings=0;releasedYear=2017;adSupported=1;,32
-ratings=0;releasedYear=2019;adSupported=0;,68
-ratings=0;releasedYear=2018;adSupported=1;,86
-ratings=0;releasedYear=2018;adSupported=0;,26
-ratings=0;releasedYear=2019;adSupported=1;,258
-ratings=0;releasedYear=2020;adSupported=0;,67
-ratings=0;releasedYear=2020;adSupported=1;,171
-ratings=0;releasedYear=2022;adSupported=1;,662
-ratings=0;releasedYear=2021;adSupported=1;,141
-ratings=0;releasedYear=2021;adSupported=0;,54
-ratings=0;releasedYear=2022;adSupported=0;,217
-ratings=0;releasedYear=2017;containsAds=1;,32
-ratings=0;releasedYear=2019;containsAds=0;,68
-ratings=0;releasedYear=2018;containsAds=1;,86
-ratings=0;releasedYear=2018;containsAds=0;,26
-ratings=0;releasedYear=2019;containsAds=1;,258
-ratings=0;releasedYear=2020;containsAds=0;,67
-ratings=0;releasedYear=2020;containsAds=1;,171
-ratings=0;releasedYear=2022;containsAds=1;,662
-ratings=0;releasedYear=2021;containsAds=1;,141
-ratings=0;releasedYear=2021;containsAds=0;,54
-ratings=0;releasedYear=2022;containsAds=0;,217
-ratings=0;releasedYear=2017;reviews=0;,44
-ratings=0;releasedYear=2019;reviews=0;,326
-ratings=0;releasedYear=2018;reviews=0;,112
-ratings=0;releasedYear=2020;reviews=0;,238
-ratings=0;releasedYear=2022;reviews=0;,879
-ratings=0;releasedYear=2021;reviews=0;,195
-ratings=0;releasedYear=2017;score=0.0;,44
-ratings=0;releasedYear=2019;score=0.0;,326
-ratings=0;releasedYear=2018;score=0.0;,112
-ratings=0;releasedYear=2020;score=0.0;,238
-ratings=0;releasedYear=2022;score=0.0;,879
-ratings=0;releasedYear=2021;score=0.0;,195
-ratings=0;releasedYear=2017;year_bucket_range=[2017-2018];,44
-ratings=0;releasedYear=2019;year_bucket_range=[2019-2020];,326
-ratings=0;releasedYear=2018;year_bucket_range=[2017-2018];,112
-ratings=0;releasedYear=2020;year_bucket_range=[2019-2020];,238
-ratings=0;releasedYear=2022;year_bucket_range=[2021-2022];,879
-ratings=0;releasedYear=2021;year_bucket_range=[2021-2022];,195
-ratings=0;releasedYear=2017;install_bucket_range=[0-100000];,43
-ratings=0;releasedYear=2019;install_bucket_range=[0-100000];,321
-ratings=0;releasedYear=2018;install_bucket_range=[0-100000];,109
-ratings=0;releasedYear=2020;install_bucket_range=[0-100000];,236
-ratings=0;releasedYear=2022;install_bucket_range=[0-100000];,879
-ratings=0;releasedYear=2021;install_bucket_range=[0-100000];,194
-ratings=0;releasedYear=2017;price_bucket_range=[0-5];,44
-ratings=0;releasedYear=2019;price_bucket_range=[0-5];,326
-ratings=0;releasedYear=2018;price_bucket_range=[0-5];,111
-ratings=0;releasedYear=2020;price_bucket_range=[0-5];,237
-ratings=0;releasedYear=2022;price_bucket_range=[0-5];,879
-ratings=0;releasedYear=2021;price_bucket_range=[0-5];,188
-ratings=0;adSupported=0;containsAds=0;,448
-ratings=0;adSupported=1;containsAds=1;,1353
-ratings=0;adSupported=0;reviews=0;,448
-ratings=0;adSupported=1;reviews=0;,1353
-ratings=0;adSupported=0;score=0.0;,448
-ratings=0;adSupported=1;score=0.0;,1353
-ratings=0;adSupported=1;year_bucket_range=[2017-2018];,118
-ratings=0;adSupported=0;year_bucket_range=[2017-2018];,38
-ratings=0;adSupported=0;year_bucket_range=[2019-2020];,135
-ratings=0;adSupported=1;year_bucket_range=[2019-2020];,429
-ratings=0;adSupported=1;year_bucket_range=[2021-2022];,803
-ratings=0;adSupported=0;year_bucket_range=[2021-2022];,271
-ratings=0;adSupported=0;install_bucket_range=[0-100000];,448
-ratings=0;adSupported=1;install_bucket_range=[0-100000];,1341
-ratings=0;adSupported=1;price_bucket_range=[0-5];,1352
-ratings=0;adSupported=0;price_bucket_range=[0-5];,439
-ratings=0;containsAds=0;reviews=0;,448
-ratings=0;containsAds=1;reviews=0;,1353
-ratings=0;containsAds=0;score=0.0;,448
-ratings=0;containsAds=1;score=0.0;,1353
-ratings=0;containsAds=1;year_bucket_range=[2017-2018];,118
-ratings=0;containsAds=0;year_bucket_range=[2017-2018];,38
-ratings=0;containsAds=0;year_bucket_range=[2019-2020];,135
-ratings=0;containsAds=1;year_bucket_range=[2019-2020];,429
-ratings=0;containsAds=1;year_bucket_range=[2021-2022];,803
-ratings=0;containsAds=0;year_bucket_range=[2021-2022];,271
-ratings=0;containsAds=0;install_bucket_range=[0-100000];,448
-ratings=0;containsAds=1;install_bucket_range=[0-100000];,1341
-ratings=0;containsAds=1;price_bucket_range=[0-5];,1352
-ratings=0;containsAds=0;price_bucket_range=[0-5];,439
-ratings=0;reviews=0;score=0.0;,1801
-ratings=0;reviews=0;year_bucket_range=[2017-2018];,156
-ratings=0;reviews=0;year_bucket_range=[2019-2020];,564
-ratings=0;reviews=0;year_bucket_range=[2021-2022];,1074
-ratings=0;reviews=0;install_bucket_range=[0-100000];,1789
-ratings=0;reviews=0;price_bucket_range=[0-5];,1791
-ratings=0;score=0.0;year_bucket_range=[2017-2018];,156
-ratings=0;score=0.0;year_bucket_range=[2019-2020];,564
-ratings=0;score=0.0;year_bucket_range=[2021-2022];,1074
-ratings=0;score=0.0;install_bucket_range=[0-100000];,1789
-ratings=0;score=0.0;price_bucket_range=[0-5];,1791
-ratings=0;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,152
-ratings=0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,557
-ratings=0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,1073
-ratings=0;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,155
-ratings=0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,563
-ratings=0;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,1067
-ratings=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1779
-releasedYear=2017;adSupported=1;containsAds=1;,49
-releasedYear=2019;adSupported=0;containsAds=0;,73
-releasedYear=2018;adSupported=1;containsAds=1;,99
-releasedYear=2018;adSupported=0;containsAds=0;,26
-releasedYear=2019;adSupported=1;containsAds=1;,335
-releasedYear=2020;adSupported=0;containsAds=0;,69
-releasedYear=2020;adSupported=1;containsAds=1;,190
-releasedYear=2022;adSupported=1;containsAds=1;,678
-releasedYear=2021;adSupported=1;containsAds=1;,156
-releasedYear=2021;adSupported=0;containsAds=0;,57
-releasedYear=2022;adSupported=0;containsAds=0;,223
-releasedYear=2017;adSupported=1;reviews=0;,33
-releasedYear=2019;adSupported=0;reviews=0;,68
-releasedYear=2018;adSupported=1;reviews=0;,86
-releasedYear=2018;adSupported=0;reviews=0;,26
-releasedYear=2019;adSupported=1;reviews=0;,258
-releasedYear=2020;adSupported=0;reviews=0;,67
-releasedYear=2020;adSupported=1;reviews=0;,173
-releasedYear=2022;adSupported=1;reviews=0;,663
-releasedYear=2021;adSupported=1;reviews=0;,142
-releasedYear=2021;adSupported=0;reviews=0;,55
-releasedYear=2022;adSupported=0;reviews=0;,217
-releasedYear=2017;adSupported=1;score=0.0;,32
-releasedYear=2019;adSupported=0;score=0.0;,68
-releasedYear=2018;adSupported=1;score=0.0;,86
-releasedYear=2018;adSupported=0;score=0.0;,26
-releasedYear=2019;adSupported=1;score=0.0;,258
-releasedYear=2020;adSupported=0;score=0.0;,67
-releasedYear=2020;adSupported=1;score=0.0;,171
-releasedYear=2022;adSupported=1;score=0.0;,662
-releasedYear=2021;adSupported=1;score=0.0;,141
-releasedYear=2021;adSupported=0;score=0.0;,54
-releasedYear=2022;adSupported=0;score=0.0;,217
-releasedYear=2017;adSupported=1;year_bucket_range=[2017-2018];,49
-releasedYear=2019;adSupported=0;year_bucket_range=[2019-2020];,73
-releasedYear=2018;adSupported=1;year_bucket_range=[2017-2018];,99
-releasedYear=2018;adSupported=0;year_bucket_range=[2017-2018];,26
-releasedYear=2019;adSupported=1;year_bucket_range=[2019-2020];,335
-releasedYear=2020;adSupported=0;year_bucket_range=[2019-2020];,69
-releasedYear=2020;adSupported=1;year_bucket_range=[2019-2020];,190
-releasedYear=2022;adSupported=1;year_bucket_range=[2021-2022];,678
-releasedYear=2021;adSupported=1;year_bucket_range=[2021-2022];,156
-releasedYear=2021;adSupported=0;year_bucket_range=[2021-2022];,57
-releasedYear=2022;adSupported=0;year_bucket_range=[2021-2022];,223
-releasedYear=2017;adSupported=1;install_bucket_range=[0-100000];,40
-releasedYear=2019;adSupported=0;install_bucket_range=[0-100000];,73
-releasedYear=2018;adSupported=1;install_bucket_range=[0-100000];,90
-releasedYear=2018;adSupported=0;install_bucket_range=[0-100000];,26
-releasedYear=2019;adSupported=1;install_bucket_range=[0-100000];,311
-releasedYear=2020;adSupported=0;install_bucket_range=[0-100000];,69
-releasedYear=2020;adSupported=1;install_bucket_range=[0-100000];,183
-releasedYear=2022;adSupported=1;install_bucket_range=[0-100000];,677
-releasedYear=2021;adSupported=1;install_bucket_range=[0-100000];,149
-releasedYear=2021;adSupported=0;install_bucket_range=[0-100000];,56
-releasedYear=2022;adSupported=0;install_bucket_range=[0-100000];,223
-releasedYear=2017;adSupported=1;price_bucket_range=[0-5];,49
-releasedYear=2019;adSupported=0;price_bucket_range=[0-5];,72
-releasedYear=2018;adSupported=1;price_bucket_range=[0-5];,99
-releasedYear=2018;adSupported=0;price_bucket_range=[0-5];,25
-releasedYear=2019;adSupported=1;price_bucket_range=[0-5];,335
-releasedYear=2020;adSupported=0;price_bucket_range=[0-5];,68
-releasedYear=2020;adSupported=1;price_bucket_range=[0-5];,190
-releasedYear=2022;adSupported=1;price_bucket_range=[0-5];,678
-releasedYear=2021;adSupported=1;price_bucket_range=[0-5];,155
-releasedYear=2021;adSupported=0;price_bucket_range=[0-5];,51
-releasedYear=2022;adSupported=0;price_bucket_range=[0-5];,223
-releasedYear=2017;containsAds=1;reviews=0;,33
-releasedYear=2019;containsAds=0;reviews=0;,68
-releasedYear=2018;containsAds=1;reviews=0;,86
-releasedYear=2018;containsAds=0;reviews=0;,26
-releasedYear=2019;containsAds=1;reviews=0;,258
-releasedYear=2020;containsAds=0;reviews=0;,67
-releasedYear=2020;containsAds=1;reviews=0;,173
-releasedYear=2022;containsAds=1;reviews=0;,663
-releasedYear=2021;containsAds=1;reviews=0;,142
-releasedYear=2021;containsAds=0;reviews=0;,55
-releasedYear=2022;containsAds=0;reviews=0;,217
-releasedYear=2017;containsAds=1;score=0.0;,32
-releasedYear=2019;containsAds=0;score=0.0;,68
-releasedYear=2018;containsAds=1;score=0.0;,86
-releasedYear=2018;containsAds=0;score=0.0;,26
-releasedYear=2019;containsAds=1;score=0.0;,258
-releasedYear=2020;containsAds=0;score=0.0;,67
-releasedYear=2020;containsAds=1;score=0.0;,171
-releasedYear=2022;containsAds=1;score=0.0;,662
-releasedYear=2021;containsAds=1;score=0.0;,141
-releasedYear=2021;containsAds=0;score=0.0;,54
-releasedYear=2022;containsAds=0;score=0.0;,217
-releasedYear=2017;containsAds=1;year_bucket_range=[2017-2018];,49
-releasedYear=2019;containsAds=0;year_bucket_range=[2019-2020];,73
-releasedYear=2018;containsAds=1;year_bucket_range=[2017-2018];,99
-releasedYear=2018;containsAds=0;year_bucket_range=[2017-2018];,26
-releasedYear=2019;containsAds=1;year_bucket_range=[2019-2020];,335
-releasedYear=2020;containsAds=0;year_bucket_range=[2019-2020];,69
-releasedYear=2020;containsAds=1;year_bucket_range=[2019-2020];,190
-releasedYear=2022;containsAds=1;year_bucket_range=[2021-2022];,678
-releasedYear=2021;containsAds=1;year_bucket_range=[2021-2022];,156
-releasedYear=2021;containsAds=0;year_bucket_range=[2021-2022];,57
-releasedYear=2022;containsAds=0;year_bucket_range=[2021-2022];,223
-releasedYear=2017;containsAds=1;install_bucket_range=[0-100000];,40
-releasedYear=2019;containsAds=0;install_bucket_range=[0-100000];,73
-releasedYear=2018;containsAds=1;install_bucket_range=[0-100000];,90
-releasedYear=2018;containsAds=0;install_bucket_range=[0-100000];,26
-releasedYear=2019;containsAds=1;install_bucket_range=[0-100000];,311
-releasedYear=2020;containsAds=0;install_bucket_range=[0-100000];,69
-releasedYear=2020;containsAds=1;install_bucket_range=[0-100000];,183
-releasedYear=2022;containsAds=1;install_bucket_range=[0-100000];,677
-releasedYear=2021;containsAds=1;install_bucket_range=[0-100000];,149
-releasedYear=2021;containsAds=0;install_bucket_range=[0-100000];,56
-releasedYear=2022;containsAds=0;install_bucket_range=[0-100000];,223
-releasedYear=2017;containsAds=1;price_bucket_range=[0-5];,49
-releasedYear=2019;containsAds=0;price_bucket_range=[0-5];,72
-releasedYear=2018;containsAds=1;price_bucket_range=[0-5];,99
-releasedYear=2018;containsAds=0;price_bucket_range=[0-5];,25
-releasedYear=2019;containsAds=1;price_bucket_range=[0-5];,335
-releasedYear=2020;containsAds=0;price_bucket_range=[0-5];,68
-releasedYear=2020;containsAds=1;price_bucket_range=[0-5];,190
-releasedYear=2022;containsAds=1;price_bucket_range=[0-5];,678
-releasedYear=2021;containsAds=1;price_bucket_range=[0-5];,155
-releasedYear=2021;containsAds=0;price_bucket_range=[0-5];,51
-releasedYear=2022;containsAds=0;price_bucket_range=[0-5];,223
-releasedYear=2017;reviews=0;score=0.0;,44
-releasedYear=2019;reviews=0;score=0.0;,326
-releasedYear=2018;reviews=0;score=0.0;,112
-releasedYear=2020;reviews=0;score=0.0;,238
-releasedYear=2022;reviews=0;score=0.0;,879
-releasedYear=2021;reviews=0;score=0.0;,195
-releasedYear=2017;reviews=0;year_bucket_range=[2017-2018];,45
-releasedYear=2019;reviews=0;year_bucket_range=[2019-2020];,326
-releasedYear=2018;reviews=0;year_bucket_range=[2017-2018];,112
-releasedYear=2020;reviews=0;year_bucket_range=[2019-2020];,240
-releasedYear=2022;reviews=0;year_bucket_range=[2021-2022];,880
-releasedYear=2021;reviews=0;year_bucket_range=[2021-2022];,197
-releasedYear=2017;reviews=0;install_bucket_range=[0-100000];,44
-releasedYear=2019;reviews=0;install_bucket_range=[0-100000];,321
-releasedYear=2018;reviews=0;install_bucket_range=[0-100000];,109
-releasedYear=2020;reviews=0;install_bucket_range=[0-100000];,238
-releasedYear=2022;reviews=0;install_bucket_range=[0-100000];,880
-releasedYear=2021;reviews=0;install_bucket_range=[0-100000];,195
-releasedYear=2017;reviews=0;price_bucket_range=[0-5];,45
-releasedYear=2019;reviews=0;price_bucket_range=[0-5];,326
-releasedYear=2018;reviews=0;price_bucket_range=[0-5];,111
-releasedYear=2020;reviews=0;price_bucket_range=[0-5];,239
-releasedYear=2022;reviews=0;price_bucket_range=[0-5];,880
-releasedYear=2021;reviews=0;price_bucket_range=[0-5];,190
-releasedYear=2017;score=0.0;year_bucket_range=[2017-2018];,44
-releasedYear=2019;score=0.0;year_bucket_range=[2019-2020];,326
-releasedYear=2018;score=0.0;year_bucket_range=[2017-2018];,112
-releasedYear=2020;score=0.0;year_bucket_range=[2019-2020];,238
-releasedYear=2022;score=0.0;year_bucket_range=[2021-2022];,879
-releasedYear=2021;score=0.0;year_bucket_range=[2021-2022];,195
-releasedYear=2017;score=0.0;install_bucket_range=[0-100000];,43
-releasedYear=2019;score=0.0;install_bucket_range=[0-100000];,321
-releasedYear=2018;score=0.0;install_bucket_range=[0-100000];,109
-releasedYear=2020;score=0.0;install_bucket_range=[0-100000];,236
-releasedYear=2022;score=0.0;install_bucket_range=[0-100000];,879
-releasedYear=2021;score=0.0;install_bucket_range=[0-100000];,194
-releasedYear=2017;score=0.0;price_bucket_range=[0-5];,44
-releasedYear=2019;score=0.0;price_bucket_range=[0-5];,326
-releasedYear=2018;score=0.0;price_bucket_range=[0-5];,111
-releasedYear=2020;score=0.0;price_bucket_range=[0-5];,237
-releasedYear=2022;score=0.0;price_bucket_range=[0-5];,879
-releasedYear=2021;score=0.0;price_bucket_range=[0-5];,188
-releasedYear=2017;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,54
-releasedYear=2019;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,384
-releasedYear=2018;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,116
-releasedYear=2020;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,252
-releasedYear=2022;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,900
-releasedYear=2021;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,205
-releasedYear=2017;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,64
-releasedYear=2019;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,407
-releasedYear=2018;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,124
-releasedYear=2020;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,258
-releasedYear=2022;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,901
-releasedYear=2021;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,206
-releasedYear=2017;install_bucket_range=[0-100000];price_bucket_range=[0-5];,54
-releasedYear=2019;install_bucket_range=[0-100000];price_bucket_range=[0-5];,383
-releasedYear=2018;install_bucket_range=[0-100000];price_bucket_range=[0-5];,115
-releasedYear=2020;install_bucket_range=[0-100000];price_bucket_range=[0-5];,251
-releasedYear=2022;install_bucket_range=[0-100000];price_bucket_range=[0-5];,900
-releasedYear=2021;install_bucket_range=[0-100000];price_bucket_range=[0-5];,198
-adSupported=0;containsAds=0;reviews=0;,449
-adSupported=1;containsAds=1;reviews=0;,1358
-adSupported=1;containsAds=1;reviews=1;,21
-adSupported=0;containsAds=0;score=0.0;,448
-adSupported=1;containsAds=1;score=0.0;,1353
-adSupported=1;containsAds=1;year_bucket_range=[2017-2018];,148
-adSupported=0;containsAds=0;year_bucket_range=[2017-2018];,41
-adSupported=0;containsAds=0;year_bucket_range=[2019-2020];,142
-adSupported=1;containsAds=1;year_bucket_range=[2019-2020];,525
-adSupported=1;containsAds=1;year_bucket_range=[2021-2022];,834
-adSupported=0;containsAds=0;year_bucket_range=[2021-2022];,280
-adSupported=1;containsAds=1;install_bucket_range=[0-100000];,1458
-adSupported=0;containsAds=0;install_bucket_range=[0-100000];,466
-adSupported=1;containsAds=1;install_bucket_range=[100000-200000];,42
-adSupported=1;containsAds=1;price_bucket_range=[0-5];,1520
-adSupported=0;containsAds=0;price_bucket_range=[0-5];,458
-adSupported=0;reviews=0;score=0.0;,448
-adSupported=1;reviews=0;score=0.0;,1353
-adSupported=1;reviews=0;year_bucket_range=[2017-2018];,119
-adSupported=0;reviews=0;year_bucket_range=[2017-2018];,38
-adSupported=0;reviews=0;year_bucket_range=[2019-2020];,135
-adSupported=1;reviews=0;year_bucket_range=[2019-2020];,431
-adSupported=1;reviews=0;year_bucket_range=[2021-2022];,805
-adSupported=0;reviews=0;year_bucket_range=[2021-2022];,272
-adSupported=0;reviews=0;install_bucket_range=[0-100000];,448
-adSupported=1;reviews=0;install_bucket_range=[0-100000];,1346
-adSupported=1;reviews=0;price_bucket_range=[0-5];,1357
-adSupported=0;reviews=0;price_bucket_range=[0-5];,440
-adSupported=1;reviews=1;price_bucket_range=[0-5];,21
-adSupported=1;score=0.0;year_bucket_range=[2017-2018];,118
-adSupported=0;score=0.0;year_bucket_range=[2017-2018];,38
-adSupported=0;score=0.0;year_bucket_range=[2019-2020];,135
-adSupported=1;score=0.0;year_bucket_range=[2019-2020];,429
-adSupported=1;score=0.0;year_bucket_range=[2021-2022];,803
-adSupported=0;score=0.0;year_bucket_range=[2021-2022];,271
-adSupported=0;score=0.0;install_bucket_range=[0-100000];,448
-adSupported=1;score=0.0;install_bucket_range=[0-100000];,1341
-adSupported=1;score=0.0;price_bucket_range=[0-5];,1352
-adSupported=0;score=0.0;price_bucket_range=[0-5];,439
-adSupported=1;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,130
-adSupported=0;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,40
-adSupported=0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,142
-adSupported=1;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,494
-adSupported=1;year_bucket_range=[2019-2020];install_bucket_range=[100000-200000];,21
-adSupported=1;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,826
-adSupported=0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,279
-adSupported=1;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,148
-adSupported=0;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,40
-adSupported=0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,140
-adSupported=1;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,525
-adSupported=1;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,833
-adSupported=0;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,274
-adSupported=1;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1457
-adSupported=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,456
-adSupported=1;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,42
-containsAds=0;reviews=0;score=0.0;,448
-containsAds=1;reviews=0;score=0.0;,1353
-containsAds=1;reviews=0;year_bucket_range=[2017-2018];,119
-containsAds=0;reviews=0;year_bucket_range=[2017-2018];,38
-containsAds=0;reviews=0;year_bucket_range=[2019-2020];,135
-containsAds=1;reviews=0;year_bucket_range=[2019-2020];,431
-containsAds=1;reviews=0;year_bucket_range=[2021-2022];,805
-containsAds=0;reviews=0;year_bucket_range=[2021-2022];,272
-containsAds=0;reviews=0;install_bucket_range=[0-100000];,448
-containsAds=1;reviews=0;install_bucket_range=[0-100000];,1346
-containsAds=1;reviews=0;price_bucket_range=[0-5];,1357
-containsAds=0;reviews=0;price_bucket_range=[0-5];,440
-containsAds=1;reviews=1;price_bucket_range=[0-5];,21
-containsAds=1;score=0.0;year_bucket_range=[2017-2018];,118
-containsAds=0;score=0.0;year_bucket_range=[2017-2018];,38
-containsAds=0;score=0.0;year_bucket_range=[2019-2020];,135
-containsAds=1;score=0.0;year_bucket_range=[2019-2020];,429
-containsAds=1;score=0.0;year_bucket_range=[2021-2022];,803
-containsAds=0;score=0.0;year_bucket_range=[2021-2022];,271
-containsAds=0;score=0.0;install_bucket_range=[0-100000];,448
-containsAds=1;score=0.0;install_bucket_range=[0-100000];,1341
-containsAds=1;score=0.0;price_bucket_range=[0-5];,1352
-containsAds=0;score=0.0;price_bucket_range=[0-5];,439
-containsAds=1;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,130
-containsAds=0;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,40
-containsAds=0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,142
-containsAds=1;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,494
-containsAds=1;year_bucket_range=[2019-2020];install_bucket_range=[100000-200000];,21
-containsAds=1;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,826
-containsAds=0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,279
-containsAds=1;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,148
-containsAds=0;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,40
-containsAds=0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,140
-containsAds=1;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,525
-containsAds=1;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,833
-containsAds=0;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,274
-containsAds=1;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1457
-containsAds=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,456
-containsAds=1;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,42
-reviews=0;score=0.0;year_bucket_range=[2017-2018];,156
-reviews=0;score=0.0;year_bucket_range=[2019-2020];,564
-reviews=0;score=0.0;year_bucket_range=[2021-2022];,1074
-reviews=0;score=0.0;install_bucket_range=[0-100000];,1789
-reviews=0;score=0.0;price_bucket_range=[0-5];,1791
-reviews=0;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,153
-reviews=0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,559
-reviews=0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,1075
-reviews=0;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,156
-reviews=0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,565
-reviews=0;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,1070
-reviews=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1784
-score=0.0;year_bucket_range=[2017-2018];install_bucket_range=[0-100000];,152
-score=0.0;year_bucket_range=[2019-2020];install_bucket_range=[0-100000];,557
-score=0.0;year_bucket_range=[2021-2022];install_bucket_range=[0-100000];,1073
-score=0.0;year_bucket_range=[2017-2018];price_bucket_range=[0-5];,155
-score=0.0;year_bucket_range=[2019-2020];price_bucket_range=[0-5];,563
-score=0.0;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,1067
-score=0.0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1779
-year_bucket_range=[2017-2018];install_bucket_range=[0-100000];price_bucket_range=[0-5];,169
-year_bucket_range=[2019-2020];install_bucket_range=[0-100000];price_bucket_range=[0-5];,634
-year_bucket_range=[2019-2020];install_bucket_range=[100000-200000];price_bucket_range=[0-5];,21
-year_bucket_range=[2021-2022];install_bucket_range=[0-100000];price_bucket_range=[0-5];,1098
+genre=Art & Design;install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];,4
+genre=Entertainment;install_bucket_range=[0-100000];price_bucket_range=[0-5];,3
+genre=Personalization;install_bucket_range=[0-100000];price_bucket_range=[0-5];,8
+genre=Photography;install_bucket_range=[0-100000];price_bucket_range=[0-5];,3
+genre=Events;install_bucket_range=[0-100000];price_bucket_range=[0-5];,2
+genre=Auto & Vehicles;install_bucket_range=[0-100000];price_bucket_range=[0-5];,991
+genre=Auto & Vehicles;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,22
+genre=Auto & Vehicles;install_bucket_range=[0-100000];price_bucket_range=[10-15];,4
+genre=Auto & Vehicles;install_bucket_range=[0-100000];price_bucket_range=[5-10];,16
+genre=Auto & Vehicles;install_bucket_range=[0-100000];price_bucket_range=[15-20];,4
+genre=Beauty;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,16
+genre=Beauty;install_bucket_range=[0-100000];price_bucket_range=[0-5];,775
+genre=Beauty;install_bucket_range=[500000-600000];price_bucket_range=[0-5];,4
+genre=Beauty;install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,3
+genre=Art & Design;install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];,3
+genre=Art & Design;install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,5
+genre=Art & Design;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,2056
+genre=Art & Design;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,44
+genre=Art & Design;install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,5
+genre=Art & Design;install_bucket_range=[500000-600000];rating_bucket_range=[10000-20000];,2
+genre=Entertainment;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,3
+genre=Personalization;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,8
+genre=Photography;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,3
+genre=Events;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,1015
+genre=Auto & Vehicles;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,21
+genre=Beauty;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,16
+genre=Beauty;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,776
+genre=Beauty;install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,4
+genre=Beauty;install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,3
+genre=Art & Design;install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,7
+genre=Art & Design;install_bucket_range=[500000-600000];score_bucket_range=[3-4];,2
+genre=Art & Design;install_bucket_range=[0-100000];score_bucket_range=[4-5];,93
+genre=Art & Design;install_bucket_range=[0-100000];score_bucket_range=[0-1];,1922
+genre=Art & Design;install_bucket_range=[100000-200000];score_bucket_range=[3-4];,9
+genre=Art & Design;install_bucket_range=[1000000-1100000];score_bucket_range=[3-4];,3
+genre=Art & Design;install_bucket_range=[0-100000];score_bucket_range=[3-4];,25
+genre=Art & Design;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,18
+genre=Art & Design;install_bucket_range=[0-100000];score_bucket_range=[2-3];,9
+genre=Art & Design;install_bucket_range=[0-100000];score_bucket_range=[1-2];,7
+genre=Art & Design;install_bucket_range=[5000000-5100000];score_bucket_range=[4-5];,4
+genre=Art & Design;install_bucket_range=[500000-600000];score_bucket_range=[4-5];,4
+genre=Art & Design;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,11
+genre=Art & Design;install_bucket_range=[100000-200000];score_bucket_range=[2-3];,4
+genre=Art & Design;install_bucket_range=[100000-200000];score_bucket_range=[1-2];,2
+genre=Entertainment;install_bucket_range=[0-100000];score_bucket_range=[0-1];,2
+genre=Personalization;install_bucket_range=[0-100000];score_bucket_range=[0-1];,8
+genre=Photography;install_bucket_range=[0-100000];score_bucket_range=[0-1];,2
+genre=Events;install_bucket_range=[0-100000];score_bucket_range=[0-1];,2
+genre=Auto & Vehicles;install_bucket_range=[0-100000];score_bucket_range=[0-1];,982
+genre=Auto & Vehicles;install_bucket_range=[0-100000];score_bucket_range=[3-4];,11
+genre=Auto & Vehicles;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,7
+genre=Auto & Vehicles;install_bucket_range=[0-100000];score_bucket_range=[4-5];,18
+genre=Auto & Vehicles;install_bucket_range=[0-100000];score_bucket_range=[2-3];,2
+genre=Auto & Vehicles;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,11
+genre=Auto & Vehicles;install_bucket_range=[100000-200000];score_bucket_range=[3-4];,4
+genre=Auto & Vehicles;install_bucket_range=[0-100000];score_bucket_range=[1-2];,2
+genre=Beauty;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,9
+genre=Beauty;install_bucket_range=[0-100000];score_bucket_range=[0-1];,766
+genre=Beauty;install_bucket_range=[500000-600000];score_bucket_range=[4-5];,3
+genre=Beauty;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,3
+genre=Beauty;install_bucket_range=[0-100000];score_bucket_range=[3-4];,4
+genre=Beauty;install_bucket_range=[100000-200000];score_bucket_range=[3-4];,2
+genre=Beauty;install_bucket_range=[100000-200000];score_bucket_range=[2-3];,2
+genre=Beauty;install_bucket_range=[0-100000];score_bucket_range=[4-5];,4
+genre=Beauty;install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,2
+genre=Art & Design;price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,5
+genre=Art & Design;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,2099
+genre=Art & Design;price_bucket_range=[5-10];rating_bucket_range=[0-10000];,7
+genre=Art & Design;price_bucket_range=[0-5];rating_bucket_range=[20000-30000];,2
+genre=Entertainment;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,3
+genre=Personalization;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,8
+genre=Photography;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,3
+genre=Events;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,2
+genre=Auto & Vehicles;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,1012
+genre=Auto & Vehicles;price_bucket_range=[10-15];rating_bucket_range=[0-10000];,4
+genre=Auto & Vehicles;price_bucket_range=[5-10];rating_bucket_range=[0-10000];,16
+genre=Auto & Vehicles;price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,2
+genre=Auto & Vehicles;price_bucket_range=[15-20];rating_bucket_range=[0-10000];,4
+genre=Beauty;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,798
+genre=Art & Design;price_bucket_range=[0-5];score_bucket_range=[4-5];,126
+genre=Art & Design;price_bucket_range=[0-5];score_bucket_range=[3-4];,38
+genre=Art & Design;price_bucket_range=[5-10];score_bucket_range=[0-1];,7
+genre=Art & Design;price_bucket_range=[0-5];score_bucket_range=[0-1];,1923
+genre=Art & Design;price_bucket_range=[0-5];score_bucket_range=[2-3];,13
+genre=Art & Design;price_bucket_range=[0-5];score_bucket_range=[1-2];,9
+genre=Entertainment;price_bucket_range=[0-5];score_bucket_range=[0-1];,2
+genre=Personalization;price_bucket_range=[0-5];score_bucket_range=[0-1];,8
+genre=Photography;price_bucket_range=[0-5];score_bucket_range=[0-1];,2
+genre=Events;price_bucket_range=[0-5];score_bucket_range=[0-1];,2
+genre=Auto & Vehicles;price_bucket_range=[0-5];score_bucket_range=[4-5];,27
+genre=Auto & Vehicles;price_bucket_range=[0-5];score_bucket_range=[0-1];,971
+genre=Auto & Vehicles;price_bucket_range=[0-5];score_bucket_range=[3-4];,14
+genre=Auto & Vehicles;price_bucket_range=[5-10];score_bucket_range=[0-1];,16
+genre=Auto & Vehicles;price_bucket_range=[0-5];score_bucket_range=[2-3];,2
+genre=Auto & Vehicles;price_bucket_range=[15-20];score_bucket_range=[0-1];,3
+genre=Auto & Vehicles;price_bucket_range=[10-15];score_bucket_range=[0-1];,3
+genre=Auto & Vehicles;price_bucket_range=[0-5];score_bucket_range=[1-2];,2
+genre=Beauty;price_bucket_range=[0-5];score_bucket_range=[0-1];,775
+genre=Beauty;price_bucket_range=[0-5];score_bucket_range=[4-5];,12
+genre=Beauty;price_bucket_range=[0-5];score_bucket_range=[3-4];,7
+genre=Beauty;price_bucket_range=[0-5];score_bucket_range=[2-3];,3
+genre=Art & Design;rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,5
+genre=Art & Design;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,39
+genre=Art & Design;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,116
+genre=Art & Design;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,1934
+genre=Art & Design;rating_bucket_range=[0-10000];score_bucket_range=[2-3];,13
+genre=Art & Design;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,9
+genre=Art & Design;rating_bucket_range=[20000-30000];score_bucket_range=[4-5];,2
+genre=Entertainment;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,2
+genre=Personalization;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,8
+genre=Photography;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,2
+genre=Events;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,2
+genre=Auto & Vehicles;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,993
+genre=Auto & Vehicles;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,15
+genre=Auto & Vehicles;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,24
+genre=Auto & Vehicles;rating_bucket_range=[0-10000];score_bucket_range=[2-3];,2
+genre=Auto & Vehicles;rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,2
+genre=Auto & Vehicles;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,2
+genre=Beauty;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,775
+genre=Beauty;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,12
+genre=Beauty;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,8
+genre=Beauty;rating_bucket_range=[0-10000];score_bucket_range=[2-3];,3
+adSupported=1;containsAds=1;year_bucket_range=[2014-2015];,9
+adSupported=0;containsAds=0;year_bucket_range=[2012-2013];,3
+adSupported=0;containsAds=0;year_bucket_range=[2014-2015];,8
+adSupported=1;containsAds=1;year_bucket_range=[2016-2017];,103
+adSupported=0;containsAds=0;year_bucket_range=[2016-2017];,38
+adSupported=0;containsAds=0;year_bucket_range=[2018-2019];,238
+adSupported=1;containsAds=1;year_bucket_range=[2018-2019];,641
+adSupported=0;containsAds=0;year_bucket_range=[2020-2021];,343
+adSupported=1;containsAds=1;year_bucket_range=[2020-2021];,575
+adSupported=1;containsAds=1;year_bucket_range=[2022-2023];,1228
+adSupported=0;containsAds=0;year_bucket_range=[2022-2023];,795
+adSupported=1;containsAds=1;install_bucket_range=[1000000-1100000];,14
+adSupported=1;containsAds=1;install_bucket_range=[500000-600000];,10
+adSupported=1;containsAds=1;install_bucket_range=[0-100000];,2458
+adSupported=0;containsAds=0;install_bucket_range=[0-100000];,1411
+adSupported=1;containsAds=1;install_bucket_range=[100000-200000];,69
+adSupported=1;containsAds=1;install_bucket_range=[5000000-5100000];,5
+adSupported=0;containsAds=0;install_bucket_range=[100000-200000];,13
+adSupported=1;containsAds=1;price_bucket_range=[0-5];,2555
+adSupported=0;containsAds=0;price_bucket_range=[0-5];,1390
+adSupported=0;containsAds=0;price_bucket_range=[5-10];,23
+adSupported=0;containsAds=0;price_bucket_range=[10-15];,5
+adSupported=0;containsAds=0;price_bucket_range=[15-20];,4
+adSupported=1;containsAds=1;rating_bucket_range=[10000-20000];,6
+adSupported=1;containsAds=1;rating_bucket_range=[0-10000];,2544
+adSupported=0;containsAds=0;rating_bucket_range=[0-10000];,1424
+adSupported=1;containsAds=1;rating_bucket_range=[20000-30000];,2
+adSupported=1;containsAds=1;score_bucket_range=[4-5];,139
+adSupported=1;containsAds=1;score_bucket_range=[3-4];,47
+adSupported=0;containsAds=0;score_bucket_range=[4-5];,29
+adSupported=0;containsAds=0;score_bucket_range=[0-1];,1376
+adSupported=1;containsAds=1;score_bucket_range=[0-1];,2345
+adSupported=1;containsAds=1;score_bucket_range=[2-3];,17
+adSupported=1;containsAds=1;score_bucket_range=[1-2];,9
+adSupported=0;containsAds=0;score_bucket_range=[3-4];,16
+adSupported=0;containsAds=0;score_bucket_range=[1-2];,3
+adSupported=1;year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];,2
+adSupported=1;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,3
+adSupported=0;year_bucket_range=[2012-2013];install_bucket_range=[0-100000];,2
+adSupported=0;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,7
+adSupported=1;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,84
+adSupported=1;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,14
+adSupported=0;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,35
+adSupported=1;year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];,3
+adSupported=0;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,232
+adSupported=0;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,3
+adSupported=1;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,590
+adSupported=1;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,35
+adSupported=1;year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];,4
+adSupported=1;year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];,9
+adSupported=1;year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];,3
+adSupported=0;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,340
+adSupported=1;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,554
+adSupported=1;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,1227
+adSupported=1;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,17
+adSupported=1;year_bucket_range=[2020-2021];install_bucket_range=[1000000-1100000];,2
+adSupported=1;year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];,2
+adSupported=0;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,795
+adSupported=0;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,3
+adSupported=0;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,5
+adSupported=1;year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];,2
+adSupported=1;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,9
+adSupported=0;year_bucket_range=[2012-2013];price_bucket_range=[0-5];,3
+adSupported=1;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,103
+adSupported=0;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,37
+adSupported=0;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,229
+adSupported=1;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,641
+adSupported=0;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,323
+adSupported=1;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,574
+adSupported=1;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,1227
+adSupported=0;year_bucket_range=[2020-2021];price_bucket_range=[10-15];,2
+adSupported=0;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,792
+adSupported=0;year_bucket_range=[2020-2021];price_bucket_range=[5-10];,15
+adSupported=0;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,6
+adSupported=0;year_bucket_range=[2018-2019];price_bucket_range=[5-10];,5
+adSupported=0;year_bucket_range=[2020-2021];price_bucket_range=[15-20];,2
+adSupported=1;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,5
+adSupported=0;year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];,3
+adSupported=0;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,8
+adSupported=1;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,102
+adSupported=0;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,38
+adSupported=0;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,237
+adSupported=1;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,635
+adSupported=1;year_bucket_range=[2018-2019];rating_bucket_range=[10000-20000];,3
+adSupported=0;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,343
+adSupported=1;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,573
+adSupported=1;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,1228
+adSupported=0;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,795
+adSupported=1;year_bucket_range=[2014-2015];score_bucket_range=[4-5];,5
+adSupported=0;year_bucket_range=[2012-2013];score_bucket_range=[4-5];,2
+adSupported=0;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,7
+adSupported=1;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,72
+adSupported=1;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,8
+adSupported=1;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,19
+adSupported=0;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,31
+adSupported=1;year_bucket_range=[2016-2017];score_bucket_range=[2-3];,3
+adSupported=0;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,221
+adSupported=0;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,4
+adSupported=1;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,531
+adSupported=1;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,24
+adSupported=1;year_bucket_range=[2018-2019];score_bucket_range=[1-2];,7
+adSupported=1;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,72
+adSupported=1;year_bucket_range=[2018-2019];score_bucket_range=[2-3];,7
+adSupported=0;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,11
+adSupported=0;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,6
+adSupported=0;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,332
+adSupported=1;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,530
+adSupported=1;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,1209
+adSupported=1;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,27
+adSupported=1;year_bucket_range=[2020-2021];score_bucket_range=[2-3];,6
+adSupported=0;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,5
+adSupported=1;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,11
+adSupported=0;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,784
+adSupported=0;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,4
+adSupported=1;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,16
+adSupported=1;year_bucket_range=[2022-2023];score_bucket_range=[3-4];,2
+adSupported=0;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,6
+adSupported=0;year_bucket_range=[2022-2023];score_bucket_range=[1-2];,2
+adSupported=0;year_bucket_range=[2022-2023];score_bucket_range=[3-4];,3
+adSupported=1;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,3
+adSupported=0;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,3
+adSupported=1;install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,14
+adSupported=1;install_bucket_range=[500000-600000];price_bucket_range=[0-5];,10
+adSupported=1;install_bucket_range=[0-100000];price_bucket_range=[0-5];,2456
+adSupported=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1376
+adSupported=0;install_bucket_range=[0-100000];price_bucket_range=[5-10];,23
+adSupported=1;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,69
+adSupported=1;install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];,5
+adSupported=0;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,13
+adSupported=0;install_bucket_range=[0-100000];price_bucket_range=[10-15];,5
+adSupported=0;install_bucket_range=[0-100000];price_bucket_range=[15-20];,4
+adSupported=1;install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];,4
+adSupported=1;install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,8
+adSupported=1;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,2458
+adSupported=0;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,1411
+adSupported=1;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,69
+adSupported=1;install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,8
+adSupported=0;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,12
+adSupported=1;install_bucket_range=[500000-600000];rating_bucket_range=[10000-20000];,2
+adSupported=1;install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,10
+adSupported=1;install_bucket_range=[500000-600000];score_bucket_range=[3-4];,3
+adSupported=1;install_bucket_range=[0-100000];score_bucket_range=[4-5];,95
+adSupported=0;install_bucket_range=[0-100000];score_bucket_range=[4-5];,22
+adSupported=0;install_bucket_range=[0-100000];score_bucket_range=[0-1];,1370
+adSupported=1;install_bucket_range=[0-100000];score_bucket_range=[0-1];,2319
+adSupported=1;install_bucket_range=[100000-200000];score_bucket_range=[3-4];,14
+adSupported=1;install_bucket_range=[1000000-1100000];score_bucket_range=[3-4];,4
+adSupported=1;install_bucket_range=[0-100000];score_bucket_range=[3-4];,26
+adSupported=1;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,22
+adSupported=1;install_bucket_range=[0-100000];score_bucket_range=[2-3];,11
+adSupported=1;install_bucket_range=[0-100000];score_bucket_range=[1-2];,7
+adSupported=1;install_bucket_range=[5000000-5100000];score_bucket_range=[4-5];,5
+adSupported=0;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,6
+adSupported=1;install_bucket_range=[500000-600000];score_bucket_range=[4-5];,6
+adSupported=1;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,25
+adSupported=1;install_bucket_range=[100000-200000];score_bucket_range=[2-3];,6
+adSupported=1;install_bucket_range=[100000-200000];score_bucket_range=[1-2];,2
+adSupported=0;install_bucket_range=[0-100000];score_bucket_range=[3-4];,15
+adSupported=0;install_bucket_range=[0-100000];score_bucket_range=[1-2];,3
+adSupported=0;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,6
+adSupported=1;price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,6
+adSupported=1;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,2542
+adSupported=0;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,1389
+adSupported=0;price_bucket_range=[5-10];rating_bucket_range=[0-10000];,23
+adSupported=1;price_bucket_range=[0-5];rating_bucket_range=[20000-30000];,2
+adSupported=0;price_bucket_range=[10-15];rating_bucket_range=[0-10000];,5
+adSupported=0;price_bucket_range=[15-20];rating_bucket_range=[0-10000];,4
+adSupported=1;price_bucket_range=[0-5];score_bucket_range=[4-5];,139
+adSupported=1;price_bucket_range=[0-5];score_bucket_range=[3-4];,47
+adSupported=0;price_bucket_range=[0-5];score_bucket_range=[4-5];,28
+adSupported=0;price_bucket_range=[5-10];score_bucket_range=[0-1];,22
+adSupported=1;price_bucket_range=[0-5];score_bucket_range=[0-1];,2343
+adSupported=0;price_bucket_range=[0-5];score_bucket_range=[0-1];,1345
+adSupported=1;price_bucket_range=[0-5];score_bucket_range=[2-3];,17
+adSupported=1;price_bucket_range=[0-5];score_bucket_range=[1-2];,9
+adSupported=0;price_bucket_range=[0-5];score_bucket_range=[3-4];,13
+adSupported=0;price_bucket_range=[10-15];score_bucket_range=[0-1];,4
+adSupported=0;price_bucket_range=[0-5];score_bucket_range=[1-2];,3
+adSupported=0;price_bucket_range=[15-20];score_bucket_range=[0-1];,3
+adSupported=1;rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,6
+adSupported=1;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,47
+adSupported=1;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,126
+adSupported=0;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,28
+adSupported=0;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,1376
+adSupported=1;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,2345
+adSupported=1;rating_bucket_range=[0-10000];score_bucket_range=[2-3];,17
+adSupported=1;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,9
+adSupported=1;rating_bucket_range=[20000-30000];score_bucket_range=[4-5];,2
+adSupported=0;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,16
+adSupported=0;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,3
+containsAds=1;year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];,2
+containsAds=1;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,3
+containsAds=0;year_bucket_range=[2012-2013];install_bucket_range=[0-100000];,2
+containsAds=0;year_bucket_range=[2014-2015];install_bucket_range=[0-100000];,7
+containsAds=1;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,84
+containsAds=1;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,14
+containsAds=0;year_bucket_range=[2016-2017];install_bucket_range=[0-100000];,35
+containsAds=1;year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];,3
+containsAds=0;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,232
+containsAds=0;year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];,3
+containsAds=1;year_bucket_range=[2018-2019];install_bucket_range=[0-100000];,590
+containsAds=1;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,35
+containsAds=1;year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];,4
+containsAds=1;year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];,9
+containsAds=1;year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];,3
+containsAds=0;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,340
+containsAds=1;year_bucket_range=[2020-2021];install_bucket_range=[0-100000];,554
+containsAds=1;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,1227
+containsAds=1;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,17
+containsAds=1;year_bucket_range=[2020-2021];install_bucket_range=[1000000-1100000];,2
+containsAds=1;year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];,2
+containsAds=0;year_bucket_range=[2022-2023];install_bucket_range=[0-100000];,795
+containsAds=0;year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];,3
+containsAds=0;year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];,5
+containsAds=1;year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];,2
+containsAds=1;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,9
+containsAds=0;year_bucket_range=[2012-2013];price_bucket_range=[0-5];,3
+containsAds=1;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,103
+containsAds=0;year_bucket_range=[2016-2017];price_bucket_range=[0-5];,37
+containsAds=0;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,229
+containsAds=1;year_bucket_range=[2018-2019];price_bucket_range=[0-5];,641
+containsAds=0;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,323
+containsAds=1;year_bucket_range=[2020-2021];price_bucket_range=[0-5];,574
+containsAds=1;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,1227
+containsAds=0;year_bucket_range=[2020-2021];price_bucket_range=[10-15];,2
+containsAds=0;year_bucket_range=[2022-2023];price_bucket_range=[0-5];,792
+containsAds=0;year_bucket_range=[2020-2021];price_bucket_range=[5-10];,15
+containsAds=0;year_bucket_range=[2014-2015];price_bucket_range=[0-5];,6
+containsAds=0;year_bucket_range=[2018-2019];price_bucket_range=[5-10];,5
+containsAds=0;year_bucket_range=[2020-2021];price_bucket_range=[15-20];,2
+containsAds=1;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,5
+containsAds=0;year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];,3
+containsAds=0;year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];,8
+containsAds=1;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,102
+containsAds=0;year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];,38
+containsAds=0;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,237
+containsAds=1;year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];,635
+containsAds=1;year_bucket_range=[2018-2019];rating_bucket_range=[10000-20000];,3
+containsAds=0;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,343
+containsAds=1;year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];,573
+containsAds=1;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,1228
+containsAds=0;year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];,795
+containsAds=1;year_bucket_range=[2014-2015];score_bucket_range=[4-5];,5
+containsAds=0;year_bucket_range=[2012-2013];score_bucket_range=[4-5];,2
+containsAds=0;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,7
+containsAds=1;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,72
+containsAds=1;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,8
+containsAds=1;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,19
+containsAds=0;year_bucket_range=[2016-2017];score_bucket_range=[0-1];,31
+containsAds=1;year_bucket_range=[2016-2017];score_bucket_range=[2-3];,3
+containsAds=0;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,221
+containsAds=0;year_bucket_range=[2016-2017];score_bucket_range=[4-5];,4
+containsAds=1;year_bucket_range=[2018-2019];score_bucket_range=[0-1];,531
+containsAds=1;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,24
+containsAds=1;year_bucket_range=[2018-2019];score_bucket_range=[1-2];,7
+containsAds=1;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,72
+containsAds=1;year_bucket_range=[2018-2019];score_bucket_range=[2-3];,7
+containsAds=0;year_bucket_range=[2018-2019];score_bucket_range=[4-5];,11
+containsAds=0;year_bucket_range=[2018-2019];score_bucket_range=[3-4];,6
+containsAds=0;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,332
+containsAds=1;year_bucket_range=[2020-2021];score_bucket_range=[0-1];,530
+containsAds=1;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,1209
+containsAds=1;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,27
+containsAds=1;year_bucket_range=[2020-2021];score_bucket_range=[2-3];,6
+containsAds=0;year_bucket_range=[2020-2021];score_bucket_range=[4-5];,5
+containsAds=1;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,11
+containsAds=0;year_bucket_range=[2022-2023];score_bucket_range=[0-1];,784
+containsAds=0;year_bucket_range=[2020-2021];score_bucket_range=[3-4];,4
+containsAds=1;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,16
+containsAds=1;year_bucket_range=[2022-2023];score_bucket_range=[3-4];,2
+containsAds=0;year_bucket_range=[2022-2023];score_bucket_range=[4-5];,6
+containsAds=0;year_bucket_range=[2022-2023];score_bucket_range=[1-2];,2
+containsAds=0;year_bucket_range=[2022-2023];score_bucket_range=[3-4];,3
+containsAds=1;year_bucket_range=[2014-2015];score_bucket_range=[0-1];,3
+containsAds=0;year_bucket_range=[2016-2017];score_bucket_range=[3-4];,3
+containsAds=1;install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,14
+containsAds=1;install_bucket_range=[500000-600000];price_bucket_range=[0-5];,10
+containsAds=1;install_bucket_range=[0-100000];price_bucket_range=[0-5];,2456
+containsAds=0;install_bucket_range=[0-100000];price_bucket_range=[0-5];,1376
+containsAds=0;install_bucket_range=[0-100000];price_bucket_range=[5-10];,23
+containsAds=1;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,69
+containsAds=1;install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];,5
+containsAds=0;install_bucket_range=[100000-200000];price_bucket_range=[0-5];,13
+containsAds=0;install_bucket_range=[0-100000];price_bucket_range=[10-15];,5
+containsAds=0;install_bucket_range=[0-100000];price_bucket_range=[15-20];,4
+containsAds=1;install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];,4
+containsAds=1;install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,8
+containsAds=1;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,2458
+containsAds=0;install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,1411
+containsAds=1;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,69
+containsAds=1;install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,8
+containsAds=0;install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,12
+containsAds=1;install_bucket_range=[500000-600000];rating_bucket_range=[10000-20000];,2
+containsAds=1;install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,10
+containsAds=1;install_bucket_range=[500000-600000];score_bucket_range=[3-4];,3
+containsAds=1;install_bucket_range=[0-100000];score_bucket_range=[4-5];,95
+containsAds=0;install_bucket_range=[0-100000];score_bucket_range=[4-5];,22
+containsAds=0;install_bucket_range=[0-100000];score_bucket_range=[0-1];,1370
+containsAds=1;install_bucket_range=[0-100000];score_bucket_range=[0-1];,2319
+containsAds=1;install_bucket_range=[100000-200000];score_bucket_range=[3-4];,14
+containsAds=1;install_bucket_range=[1000000-1100000];score_bucket_range=[3-4];,4
+containsAds=1;install_bucket_range=[0-100000];score_bucket_range=[3-4];,26
+containsAds=1;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,22
+containsAds=1;install_bucket_range=[0-100000];score_bucket_range=[2-3];,11
+containsAds=1;install_bucket_range=[0-100000];score_bucket_range=[1-2];,7
+containsAds=1;install_bucket_range=[5000000-5100000];score_bucket_range=[4-5];,5
+containsAds=0;install_bucket_range=[100000-200000];score_bucket_range=[4-5];,6
+containsAds=1;install_bucket_range=[500000-600000];score_bucket_range=[4-5];,6
+containsAds=1;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,25
+containsAds=1;install_bucket_range=[100000-200000];score_bucket_range=[2-3];,6
+containsAds=1;install_bucket_range=[100000-200000];score_bucket_range=[1-2];,2
+containsAds=0;install_bucket_range=[0-100000];score_bucket_range=[3-4];,15
+containsAds=0;install_bucket_range=[0-100000];score_bucket_range=[1-2];,3
+containsAds=0;install_bucket_range=[100000-200000];score_bucket_range=[0-1];,6
+containsAds=1;price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,6
+containsAds=1;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,2542
+containsAds=0;price_bucket_range=[0-5];rating_bucket_range=[0-10000];,1389
+containsAds=0;price_bucket_range=[5-10];rating_bucket_range=[0-10000];,23
+containsAds=1;price_bucket_range=[0-5];rating_bucket_range=[20000-30000];,2
+containsAds=0;price_bucket_range=[10-15];rating_bucket_range=[0-10000];,5
+containsAds=0;price_bucket_range=[15-20];rating_bucket_range=[0-10000];,4
+containsAds=1;price_bucket_range=[0-5];score_bucket_range=[4-5];,139
+containsAds=1;price_bucket_range=[0-5];score_bucket_range=[3-4];,47
+containsAds=0;price_bucket_range=[0-5];score_bucket_range=[4-5];,28
+containsAds=0;price_bucket_range=[5-10];score_bucket_range=[0-1];,22
+containsAds=1;price_bucket_range=[0-5];score_bucket_range=[0-1];,2343
+containsAds=0;price_bucket_range=[0-5];score_bucket_range=[0-1];,1345
+containsAds=1;price_bucket_range=[0-5];score_bucket_range=[2-3];,17
+containsAds=1;price_bucket_range=[0-5];score_bucket_range=[1-2];,9
+containsAds=0;price_bucket_range=[0-5];score_bucket_range=[3-4];,13
+containsAds=0;price_bucket_range=[10-15];score_bucket_range=[0-1];,4
+containsAds=0;price_bucket_range=[0-5];score_bucket_range=[1-2];,3
+containsAds=0;price_bucket_range=[15-20];score_bucket_range=[0-1];,3
+containsAds=1;rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,6
+containsAds=1;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,47
+containsAds=1;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,126
+containsAds=0;rating_bucket_range=[0-10000];score_bucket_range=[4-5];,28
+containsAds=0;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,1376
+containsAds=1;rating_bucket_range=[0-10000];score_bucket_range=[0-1];,2345
+containsAds=1;rating_bucket_range=[0-10000];score_bucket_range=[2-3];,17
+containsAds=1;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,9
+containsAds=1;rating_bucket_range=[20000-30000];score_bucket_range=[4-5];,2
+containsAds=0;rating_bucket_range=[0-10000];score_bucket_range=[3-4];,16
+containsAds=0;rating_bucket_range=[0-10000];score_bucket_range=[1-2];,3
+year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,2
+year_bucket_range=[2014-2015];install_bucket_range=[0-100000];price_bucket_range=[0-5];,8
+year_bucket_range=[2012-2013];install_bucket_range=[0-100000];price_bucket_range=[0-5];,2
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];price_bucket_range=[0-5];,118
+year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];price_bucket_range=[0-5];,17
+year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];price_bucket_range=[0-5];,3
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];price_bucket_range=[0-5];,813
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];price_bucket_range=[0-5];,40
+year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];price_bucket_range=[0-5];,5
+year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,9
+year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];,3
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];price_bucket_range=[0-5];,873
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];price_bucket_range=[0-5];,2018
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];price_bucket_range=[0-5];,20
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];price_bucket_range=[10-15];,2
+year_bucket_range=[2020-2021];install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];,2
+year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];price_bucket_range=[0-5];,2
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];price_bucket_range=[15-20];,3
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];price_bucket_range=[5-10];,15
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];price_bucket_range=[5-10];,2
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];price_bucket_range=[5-10];,5
+year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];price_bucket_range=[0-5];,3
+year_bucket_range=[2014-2015];install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,10
+year_bucket_range=[2012-2013];install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,2
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,119
+year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,17
+year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,2
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,822
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,39
+year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];,7
+year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,4
+year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];,2
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,894
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];rating_bucket_range=[0-10000];,2022
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,20
+year_bucket_range=[2020-2021];install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];,2
+year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];,3
+year_bucket_range=[2014-2015];install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,2
+year_bucket_range=[2014-2015];install_bucket_range=[0-100000];score_bucket_range=[4-5];,2
+year_bucket_range=[2014-2015];install_bucket_range=[0-100000];score_bucket_range=[0-1];,7
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];score_bucket_range=[0-1];,98
+year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];score_bucket_range=[3-4];,4
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];score_bucket_range=[4-5];,11
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];score_bucket_range=[3-4];,6
+year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];score_bucket_range=[4-5];,9
+year_bucket_range=[2016-2017];install_bucket_range=[0-100000];score_bucket_range=[2-3];,3
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];score_bucket_range=[0-1];,734
+year_bucket_range=[2016-2017];install_bucket_range=[500000-600000];score_bucket_range=[4-5];,2
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];score_bucket_range=[3-4];,17
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];score_bucket_range=[3-4];,9
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];score_bucket_range=[1-2];,5
+year_bucket_range=[2018-2019];install_bucket_range=[500000-600000];score_bucket_range=[4-5];,4
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];score_bucket_range=[2-3];,4
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];score_bucket_range=[0-1];,18
+year_bucket_range=[2018-2019];install_bucket_range=[0-100000];score_bucket_range=[4-5];,62
+year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,6
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];score_bucket_range=[4-5];,8
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];score_bucket_range=[2-3];,3
+year_bucket_range=[2018-2019];install_bucket_range=[5000000-5100000];score_bucket_range=[4-5];,3
+year_bucket_range=[2018-2019];install_bucket_range=[100000-200000];score_bucket_range=[1-2];,2
+year_bucket_range=[2018-2019];install_bucket_range=[1000000-1100000];score_bucket_range=[3-4];,3
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];score_bucket_range=[0-1];,856
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];score_bucket_range=[0-1];,1993
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];score_bucket_range=[4-5];,20
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];score_bucket_range=[2-3];,3
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];score_bucket_range=[1-2];,2
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];score_bucket_range=[4-5];,9
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];score_bucket_range=[2-3];,4
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];score_bucket_range=[0-1];,6
+year_bucket_range=[2020-2021];install_bucket_range=[0-100000];score_bucket_range=[3-4];,12
+year_bucket_range=[2020-2021];install_bucket_range=[100000-200000];score_bucket_range=[3-4];,2
+year_bucket_range=[2020-2021];install_bucket_range=[1000000-1100000];score_bucket_range=[4-5];,2
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];score_bucket_range=[4-5];,21
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];score_bucket_range=[3-4];,5
+year_bucket_range=[2022-2023];install_bucket_range=[0-100000];score_bucket_range=[1-2];,2
+year_bucket_range=[2016-2017];install_bucket_range=[100000-200000];score_bucket_range=[0-1];,4
+year_bucket_range=[2014-2015];install_bucket_range=[100000-200000];score_bucket_range=[0-1];,3
+year_bucket_range=[2012-2013];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,4
+year_bucket_range=[2014-2015];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,11
+year_bucket_range=[2016-2017];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,139
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,863
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,4
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,895
+year_bucket_range=[2022-2023];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,2019
+year_bucket_range=[2020-2021];price_bucket_range=[10-15];rating_bucket_range=[0-10000];,2
+year_bucket_range=[2020-2021];price_bucket_range=[15-20];rating_bucket_range=[0-10000];,3
+year_bucket_range=[2020-2021];price_bucket_range=[5-10];rating_bucket_range=[0-10000];,15
+year_bucket_range=[2022-2023];price_bucket_range=[5-10];rating_bucket_range=[0-10000];,2
+year_bucket_range=[2018-2019];price_bucket_range=[5-10];rating_bucket_range=[0-10000];,5
+year_bucket_range=[2014-2015];price_bucket_range=[0-5];score_bucket_range=[4-5];,5
+year_bucket_range=[2012-2013];price_bucket_range=[0-5];score_bucket_range=[4-5];,2
+year_bucket_range=[2016-2017];price_bucket_range=[0-5];score_bucket_range=[0-1];,102
+year_bucket_range=[2016-2017];price_bucket_range=[0-5];score_bucket_range=[3-4];,11
+year_bucket_range=[2016-2017];price_bucket_range=[0-5];score_bucket_range=[4-5];,23
+year_bucket_range=[2016-2017];price_bucket_range=[0-5];score_bucket_range=[2-3];,3
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];score_bucket_range=[0-1];,744
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];score_bucket_range=[3-4];,29
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];score_bucket_range=[1-2];,7
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];score_bucket_range=[4-5];,83
+year_bucket_range=[2018-2019];price_bucket_range=[0-5];score_bucket_range=[2-3];,7
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];score_bucket_range=[0-1];,843
+year_bucket_range=[2022-2023];price_bucket_range=[0-5];score_bucket_range=[0-1];,1989
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];score_bucket_range=[4-5];,32
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];score_bucket_range=[2-3];,7
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];score_bucket_range=[1-2];,2
+year_bucket_range=[2020-2021];price_bucket_range=[10-15];score_bucket_range=[0-1];,2
+year_bucket_range=[2020-2021];price_bucket_range=[0-5];score_bucket_range=[3-4];,13
+year_bucket_range=[2020-2021];price_bucket_range=[15-20];score_bucket_range=[0-1];,2
+year_bucket_range=[2020-2021];price_bucket_range=[5-10];score_bucket_range=[0-1];,14
+year_bucket_range=[2022-2023];price_bucket_range=[0-5];score_bucket_range=[4-5];,22
+year_bucket_range=[2022-2023];price_bucket_range=[0-5];score_bucket_range=[3-4];,5
+year_bucket_range=[2022-2023];price_bucket_range=[0-5];score_bucket_range=[1-2];,2
+year_bucket_range=[2022-2023];price_bucket_range=[5-10];score_bucket_range=[0-1];,2
+year_bucket_range=[2014-2015];price_bucket_range=[0-5];score_bucket_range=[0-1];,9
+year_bucket_range=[2018-2019];price_bucket_range=[5-10];score_bucket_range=[0-1];,5
+year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,2
+year_bucket_range=[2012-2013];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,2
+year_bucket_range=[2014-2015];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,10
+year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,103
+year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,11
+year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,22
+year_bucket_range=[2016-2017];rating_bucket_range=[0-10000];score_bucket_range=[2-3];,3
+year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,752
+year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,30
+year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];score_bucket_range=[1-2];,7
+year_bucket_range=[2018-2019];rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,4
+year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];score_bucket_range=[2-3];,7
+year_bucket_range=[2018-2019];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,76
+year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,862
+year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,1993
+year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,30
+year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];score_bucket_range=[2-3];,7
+year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];score_bucket_range=[1-2];,2
+year_bucket_range=[2020-2021];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,15
+year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,22
+year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,5
+year_bucket_range=[2022-2023];rating_bucket_range=[0-10000];score_bucket_range=[1-2];,2
+install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,4
+install_bucket_range=[500000-600000];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,9
+install_bucket_range=[0-100000];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,3832
+install_bucket_range=[0-100000];price_bucket_range=[5-10];rating_bucket_range=[0-10000];,24
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,81
+install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];rating_bucket_range=[0-10000];,8
+install_bucket_range=[500000-600000];price_bucket_range=[0-5];rating_bucket_range=[10000-20000];,2
+install_bucket_range=[0-100000];price_bucket_range=[10-15];rating_bucket_range=[0-10000];,5
+install_bucket_range=[0-100000];price_bucket_range=[15-20];rating_bucket_range=[0-10000];,5
+install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];score_bucket_range=[4-5];,10
+install_bucket_range=[500000-600000];price_bucket_range=[0-5];score_bucket_range=[3-4];,3
+install_bucket_range=[0-100000];price_bucket_range=[0-5];score_bucket_range=[4-5];,116
+install_bucket_range=[0-100000];price_bucket_range=[5-10];score_bucket_range=[0-1];,23
+install_bucket_range=[0-100000];price_bucket_range=[0-5];score_bucket_range=[0-1];,3656
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];score_bucket_range=[3-4];,15
+install_bucket_range=[1000000-1100000];price_bucket_range=[0-5];score_bucket_range=[3-4];,4
+install_bucket_range=[0-100000];price_bucket_range=[0-5];score_bucket_range=[3-4];,38
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];score_bucket_range=[4-5];,28
+install_bucket_range=[0-100000];price_bucket_range=[0-5];score_bucket_range=[2-3];,12
+install_bucket_range=[0-100000];price_bucket_range=[0-5];score_bucket_range=[1-2];,10
+install_bucket_range=[5000000-5100000];price_bucket_range=[0-5];score_bucket_range=[4-5];,5
+install_bucket_range=[500000-600000];price_bucket_range=[0-5];score_bucket_range=[4-5];,7
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];score_bucket_range=[0-1];,31
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];score_bucket_range=[2-3];,6
+install_bucket_range=[100000-200000];price_bucket_range=[0-5];score_bucket_range=[1-2];,2
+install_bucket_range=[0-100000];price_bucket_range=[10-15];score_bucket_range=[0-1];,4
+install_bucket_range=[0-100000];price_bucket_range=[15-20];score_bucket_range=[0-1];,4
+install_bucket_range=[1000000-1100000];rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,4
+install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,3
+install_bucket_range=[0-100000];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,117
+install_bucket_range=[0-100000];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,3689
+install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,15
+install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,4
+install_bucket_range=[0-100000];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,41
+install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,27
+install_bucket_range=[0-100000];rating_bucket_range=[0-10000];score_bucket_range=[2-3];,12
+install_bucket_range=[0-100000];rating_bucket_range=[0-10000];score_bucket_range=[1-2];,10
+install_bucket_range=[500000-600000];rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,2
+install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,31
+install_bucket_range=[1000000-1100000];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,4
+install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];score_bucket_range=[2-3];,6
+install_bucket_range=[500000-600000];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,5
+install_bucket_range=[100000-200000];rating_bucket_range=[0-10000];score_bucket_range=[1-2];,2
+price_bucket_range=[0-5];rating_bucket_range=[10000-20000];score_bucket_range=[4-5];,7
+price_bucket_range=[0-5];rating_bucket_range=[0-10000];score_bucket_range=[3-4];,60
+price_bucket_range=[0-5];rating_bucket_range=[0-10000];score_bucket_range=[4-5];,153
+price_bucket_range=[5-10];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,23
+price_bucket_range=[0-5];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,3688
+price_bucket_range=[0-5];rating_bucket_range=[0-10000];score_bucket_range=[2-3];,18
+price_bucket_range=[0-5];rating_bucket_range=[0-10000];score_bucket_range=[1-2];,12
+price_bucket_range=[0-5];rating_bucket_range=[20000-30000];score_bucket_range=[4-5];,2
+price_bucket_range=[10-15];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,4
+price_bucket_range=[15-20];rating_bucket_range=[0-10000];score_bucket_range=[0-1];,4
