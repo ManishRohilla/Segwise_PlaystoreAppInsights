@@ -1,5 +1,7 @@
+property,count
 free=true;,3338563
 free=false;,106827
+property,count
 genre=Music & Audio;,216396
 genre=Education;,385814
 genre=Trivia;,18103
@@ -48,10 +50,13 @@ genre=Strategy;,15069
 genre=Maps & Navigation;,42314
 genre=Art & Design;,25977
 genre=Simulation;,34874
+property,count
 adSupported=true;,1496037
 adSupported=false;,1949353
+property,count
 containsAds=true;,1496037
 containsAds=false;,1949353
+property,count
 updated_bucket_range=[2019-2020];,1011429
 updated_bucket_range=[2015-2016];,82522
 updated_bucket_range=[2013-2014];,31303
@@ -59,6 +64,7 @@ updated_bucket_range=[2011-2012];,5194
 updated_bucket_range=[2021-2022];,2073719
 updated_bucket_range=[2017-2018];,240875
 updated_bucket_range=[2009-2010];,348
+property,count
 year_bucket_range=[2019-2020];,1211649
 year_bucket_range=[2015-2016];,250367
 year_bucket_range=[2013-2014];,117245
@@ -66,6 +72,7 @@ year_bucket_range=[2011-2012];,41611
 year_bucket_range=[2021-2022];,1302956
 year_bucket_range=[2017-2018];,516743
 year_bucket_range=[2009-2010];,4819
+property,count
 install_bucket_range=[50000000-51000000];,1016
 install_bucket_range=[100000000-101000000];,702
 install_bucket_range=[10000000-11000000];,7604
@@ -75,6 +82,7 @@ install_bucket_range=[1000000-2000000];,38043
 install_bucket_range=[500000000-501000000];,81
 install_bucket_range=[5000000-6000000];,7778
 install_bucket_range=[2147483647--2146483649];,19
+property,count
 price_bucket_range=[130-135];,16
 price_bucket_range=[30-35];,359
 price_bucket_range=[170-175];,15
@@ -160,6 +168,7 @@ price_bucket_range=[690-695];,1
 price_bucket_range=[305-310];,1
 price_bucket_range=[405-410];,1
 price_bucket_range=[1100-1105];,1
+property,count
 rating_bucket_range=[3000000-4000000];,80
 rating_bucket_range=[2000000-3000000];,187
 rating_bucket_range=[11000000-12000000];,13
@@ -202,11 +211,13 @@ rating_bucket_range=[16000000-17000000];,2
 rating_bucket_range=[14000000-15000000];,2
 rating_bucket_range=[52000000-53000000];,1
 rating_bucket_range=[130000000-131000000];,1
+property,count
 score_bucket_range=[3-4];,130741
 score_bucket_range=[0-1];,2999726
 score_bucket_range=[2-3];,36270
 score_bucket_range=[1-2];,9277
 score_bucket_range=[4-5];,269376
+property,count
 free=true;genre=Puzzle;,73390
 free=true;genre=Photography;,40059
 free=false;genre=Tools;,8789
@@ -303,14 +314,17 @@ free=false;genre=Shopping;,273
 free=true;genre=Card;,10856
 free=true;genre=Shopping;,160389
 free=false;genre=Education;,14821
+property,count
 free=true;adSupported=false;,1848802
 free=true;adSupported=true;,1489761
 free=false;adSupported=false;,100551
 free=false;adSupported=true;,6276
+property,count
 free=true;containsAds=false;,1848802
 free=true;containsAds=true;,1489761
 free=false;containsAds=false;,100551
 free=false;containsAds=true;,6276
+property,count
 free=false;updated_bucket_range=[2013-2014];,6725
 free=false;updated_bucket_range=[2017-2018];,15698
 free=true;updated_bucket_range=[2019-2020];,977781
@@ -325,6 +339,7 @@ free=false;updated_bucket_range=[2021-2022];,39679
 free=false;updated_bucket_range=[2015-2016];,9590
 free=true;updated_bucket_range=[2009-2010];,280
 free=false;updated_bucket_range=[2009-2010];,68
+property,count
 free=false;year_bucket_range=[2013-2014];,13031
 free=false;year_bucket_range=[2017-2018];,19008
 free=true;year_bucket_range=[2019-2020];,1183494
@@ -339,6 +354,7 @@ free=true;year_bucket_range=[2015-2016];,234771
 free=false;year_bucket_range=[2021-2022];,22609
 free=false;year_bucket_range=[2015-2016];,15596
 free=true;year_bucket_range=[2009-2010];,3861
+property,count
 free=false;install_bucket_range=[0-1000000];,106704
 free=true;install_bucket_range=[0-1000000];,3283370
 free=true;install_bucket_range=[10000000-11000000];,7600
@@ -352,6 +368,7 @@ free=true;install_bucket_range=[500000000-501000000];,81
 free=true;install_bucket_range=[2147483647--2146483649];,19
 free=false;install_bucket_range=[5000000-6000000];,7
 free=false;install_bucket_range=[10000000-11000000];,4
+property,count
 free=false;price_bucket_range=[80-85];,34
 free=false;price_bucket_range=[215-220];,11
 free=false;price_bucket_range=[395-400];,80
@@ -438,6 +455,7 @@ free=false;price_bucket_range=[690-695];,1
 free=false;price_bucket_range=[405-410];,1
 free=false;price_bucket_range=[305-310];,1
 free=false;price_bucket_range=[1100-1105];,1
+property,count
 free=true;rating_bucket_range=[4000000-5000000];,57
 free=true;rating_bucket_range=[15000000-16000000];,8
 free=false;rating_bucket_range=[0-1000000];,106826
@@ -482,6 +500,7 @@ free=true;rating_bucket_range=[16000000-17000000];,2
 free=true;rating_bucket_range=[52000000-53000000];,1
 free=true;rating_bucket_range=[14000000-15000000];,2
 free=true;rating_bucket_range=[130000000-131000000];,1
+property,count
 free=true;score_bucket_range=[4-5];,256252
 free=false;score_bucket_range=[2-3];,821
 free=true;score_bucket_range=[0-1];,2911489
@@ -492,6 +511,7 @@ free=true;score_bucket_range=[3-4];,126310
 free=true;score_bucket_range=[1-2];,9063
 free=false;score_bucket_range=[3-4];,4431
 free=false;score_bucket_range=[0-1];,88237
+property,count
 genre=Events;adSupported=true;,4718
 genre=Music & Audio;adSupported=false;,50319
 genre=Comics;adSupported=false;,1024
@@ -588,6 +608,7 @@ genre=Adventure;adSupported=true;,23130
 genre=Shopping;adSupported=false;,140350
 genre=Casual;adSupported=true;,62325
 genre=Video Players & Editors;adSupported=true;,10869
+property,count
 genre=Events;containsAds=true;,4718
 genre=Music & Audio;containsAds=false;,50319
 genre=Comics;containsAds=false;,1024
@@ -684,6 +705,7 @@ genre=Adventure;containsAds=true;,23130
 genre=Shopping;containsAds=false;,140350
 genre=Casual;containsAds=true;,62325
 genre=Video Players & Editors;containsAds=true;,10869
+property,count
 genre=Books & Reference;updated_bucket_range=[2013-2014];,2447
 genre=Comics;updated_bucket_range=[2019-2020];,1173
 genre=Puzzle;updated_bucket_range=[2013-2014];,1651
@@ -991,6 +1013,7 @@ genre=Finance;updated_bucket_range=[2009-2010];,8
 genre=Food & Drink;updated_bucket_range=[2013-2014];,23
 genre=Auto & Vehicles;updated_bucket_range=[2009-2010];,1
 genre=Beauty;updated_bucket_range=[2013-2014];,1
+property,count
 genre=Books & Reference;year_bucket_range=[2013-2014];,7392
 genre=Comics;year_bucket_range=[2019-2020];,1192
 genre=Health & Fitness;year_bucket_range=[2015-2016];,1138
@@ -1325,6 +1348,7 @@ genre=House & Home;year_bucket_range=[2009-2010];,4
 genre=Events;year_bucket_range=[2009-2010];,3
 genre=Events;year_bucket_range=[2011-2012];,23
 genre=Food & Drink;year_bucket_range=[2009-2010];,25
+property,count
 genre=Books & Reference;install_bucket_range=[0-1000000];,140950
 genre=Business;install_bucket_range=[500000000-501000000];,1
 genre=Strategy;install_bucket_range=[10000000-11000000];,166
@@ -1650,6 +1674,7 @@ genre=Beauty;install_bucket_range=[50000000-51000000];,1
 genre=Social;install_bucket_range=[2147483647--2146483649];,1
 genre=Travel & Local;install_bucket_range=[2147483647--2146483649];,1
 genre=Auto & Vehicles;install_bucket_range=[100000000-101000000];,1
+property,count
 genre=Personalization;price_bucket_range=[25-30];,6
 genre=Social;price_bucket_range=[0-5];,69147
 genre=Photography;price_bucket_range=[10-15];,27
@@ -2742,6 +2767,7 @@ genre=Libraries & Demo;price_bucket_range=[65-70];,1
 genre=Productivity;price_bucket_range=[220-225];,1
 genre=Tools;price_bucket_range=[100-105];,2
 genre=Tools;price_bucket_range=[270-275];,1
+property,count
 genre=Books & Reference;rating_bucket_range=[0-1000000];,141791
 genre=Photography;rating_bucket_range=[2000000-3000000];,7
 genre=Shopping;rating_bucket_range=[1000000-2000000];,24
@@ -3051,6 +3077,7 @@ genre=Word;rating_bucket_range=[3000000-4000000];,1
 genre=Tools;rating_bucket_range=[8000000-9000000];,1
 genre=Books & Reference;rating_bucket_range=[4000000-5000000];,2
 genre=Action;rating_bucket_range=[8000000-9000000];,1
+property,count
 genre=Education;score_bucket_range=[2-3];,1761
 genre=Casual;score_bucket_range=[1-2];,486
 genre=Auto & Vehicles;score_bucket_range=[4-5];,1148
@@ -3291,8 +3318,10 @@ genre=News & Magazines;score_bucket_range=[1-2];,101
 genre=Board;score_bucket_range=[1-2];,27
 genre=Casino;score_bucket_range=[1-2];,12
 genre=Card;score_bucket_range=[1-2];,17
+property,count
 adSupported=true;containsAds=true;,1496037
 adSupported=false;containsAds=false;,1949353
+property,count
 adSupported=false;updated_bucket_range=[2013-2014];,20832
 adSupported=false;updated_bucket_range=[2017-2018];,139780
 adSupported=true;updated_bucket_range=[2019-2020];,421748
@@ -3307,6 +3336,7 @@ adSupported=true;updated_bucket_range=[2015-2016];,33404
 adSupported=false;updated_bucket_range=[2021-2022];,1145618
 adSupported=false;updated_bucket_range=[2015-2016];,49118
 adSupported=true;updated_bucket_range=[2009-2010];,44
+property,count
 adSupported=false;year_bucket_range=[2013-2014];,66274
 adSupported=false;year_bucket_range=[2017-2018];,301414
 adSupported=true;year_bucket_range=[2019-2020];,478464
@@ -3321,6 +3351,7 @@ adSupported=true;year_bucket_range=[2015-2016];,105962
 adSupported=false;year_bucket_range=[2021-2022];,675756
 adSupported=false;year_bucket_range=[2015-2016];,144405
 adSupported=true;year_bucket_range=[2009-2010];,1954
+property,count
 adSupported=false;install_bucket_range=[0-1000000];,1936220
 adSupported=false;install_bucket_range=[500000000-501000000];,42
 adSupported=true;install_bucket_range=[0-1000000];,1453854
@@ -3339,6 +3370,7 @@ adSupported=true;install_bucket_range=[1000000000-1001000000];,22
 adSupported=true;install_bucket_range=[500000000-501000000];,39
 adSupported=false;install_bucket_range=[2147483647--2146483649];,14
 adSupported=true;install_bucket_range=[2147483647--2146483649];,5
+property,count
 adSupported=false;price_bucket_range=[80-85];,31
 adSupported=false;price_bucket_range=[215-220];,9
 adSupported=false;price_bucket_range=[395-400];,67
@@ -3482,6 +3514,7 @@ adSupported=false;price_bucket_range=[305-310];,1
 adSupported=true;price_bucket_range=[360-365];,1
 adSupported=false;price_bucket_range=[1100-1105];,1
 adSupported=false;price_bucket_range=[285-290];,2
+property,count
 adSupported=true;rating_bucket_range=[4000000-5000000];,39
 adSupported=false;rating_bucket_range=[3000000-4000000];,28
 adSupported=false;rating_bucket_range=[4000000-5000000];,19
@@ -3543,6 +3576,7 @@ adSupported=false;rating_bucket_range=[14000000-15000000];,1
 adSupported=true;rating_bucket_range=[22000000-23000000];,1
 adSupported=true;rating_bucket_range=[14000000-15000000];,1
 adSupported=true;rating_bucket_range=[130000000-131000000];,1
+property,count
 adSupported=true;score_bucket_range=[4-5];,168846
 adSupported=false;score_bucket_range=[2-3];,17947
 adSupported=true;score_bucket_range=[0-1];,1225052
@@ -3553,6 +3587,7 @@ adSupported=true;score_bucket_range=[3-4];,80078
 adSupported=true;score_bucket_range=[1-2];,3738
 adSupported=false;score_bucket_range=[3-4];,50663
 adSupported=false;score_bucket_range=[0-1];,1774674
+property,count
 containsAds=false;updated_bucket_range=[2013-2014];,20832
 containsAds=false;updated_bucket_range=[2017-2018];,139780
 containsAds=true;updated_bucket_range=[2019-2020];,421748
@@ -3567,6 +3602,7 @@ containsAds=true;updated_bucket_range=[2015-2016];,33404
 containsAds=false;updated_bucket_range=[2021-2022];,1145618
 containsAds=false;updated_bucket_range=[2015-2016];,49118
 containsAds=true;updated_bucket_range=[2009-2010];,44
+property,count
 containsAds=false;year_bucket_range=[2013-2014];,66274
 containsAds=false;year_bucket_range=[2017-2018];,301414
 containsAds=true;year_bucket_range=[2019-2020];,478464
@@ -3581,6 +3617,7 @@ containsAds=true;year_bucket_range=[2015-2016];,105962
 containsAds=false;year_bucket_range=[2021-2022];,675756
 containsAds=false;year_bucket_range=[2015-2016];,144405
 containsAds=true;year_bucket_range=[2009-2010];,1954
+property,count
 containsAds=false;install_bucket_range=[0-1000000];,1936220
 containsAds=false;install_bucket_range=[500000000-501000000];,42
 containsAds=true;install_bucket_range=[0-1000000];,1453854
@@ -3599,6 +3636,7 @@ containsAds=true;install_bucket_range=[1000000000-1001000000];,22
 containsAds=true;install_bucket_range=[500000000-501000000];,39
 containsAds=false;install_bucket_range=[2147483647--2146483649];,14
 containsAds=true;install_bucket_range=[2147483647--2146483649];,5
+property,count
 containsAds=false;price_bucket_range=[80-85];,31
 containsAds=false;price_bucket_range=[215-220];,9
 containsAds=false;price_bucket_range=[395-400];,67
@@ -3742,6 +3780,7 @@ containsAds=false;price_bucket_range=[305-310];,1
 containsAds=true;price_bucket_range=[360-365];,1
 containsAds=false;price_bucket_range=[1100-1105];,1
 containsAds=false;price_bucket_range=[285-290];,2
+property,count
 containsAds=true;rating_bucket_range=[4000000-5000000];,39
 containsAds=false;rating_bucket_range=[3000000-4000000];,28
 containsAds=false;rating_bucket_range=[4000000-5000000];,19
@@ -3803,6 +3842,7 @@ containsAds=false;rating_bucket_range=[14000000-15000000];,1
 containsAds=true;rating_bucket_range=[22000000-23000000];,1
 containsAds=true;rating_bucket_range=[14000000-15000000];,1
 containsAds=true;rating_bucket_range=[130000000-131000000];,1
+property,count
 containsAds=true;score_bucket_range=[4-5];,168846
 containsAds=false;score_bucket_range=[2-3];,17947
 containsAds=true;score_bucket_range=[0-1];,1225052
@@ -3813,6 +3853,7 @@ containsAds=true;score_bucket_range=[3-4];,80078
 containsAds=true;score_bucket_range=[1-2];,3738
 containsAds=false;score_bucket_range=[3-4];,50663
 containsAds=false;score_bucket_range=[0-1];,1774674
+property,count
 updated_bucket_range=[2015-2016];year_bucket_range=[2017-2018];,1
 updated_bucket_range=[2017-2018];year_bucket_range=[2013-2014];,13993
 updated_bucket_range=[2019-2020];year_bucket_range=[2011-2012];,7103
@@ -3848,6 +3889,7 @@ updated_bucket_range=[2021-2022];year_bucket_range=[2009-2010];,1992
 updated_bucket_range=[2021-2022];year_bucket_range=[2017-2018];,175885
 updated_bucket_range=[2015-2016];year_bucket_range=[2013-2014];,13233
 updated_bucket_range=[2013-2014];year_bucket_range=[2015-2016];,4
+property,count
 updated_bucket_range=[2019-2020];install_bucket_range=[10000000-11000000];,647
 updated_bucket_range=[2021-2022];install_bucket_range=[500000000-501000000];,69
 updated_bucket_range=[2019-2020];install_bucket_range=[5000000-6000000];,870
@@ -3892,6 +3934,7 @@ updated_bucket_range=[2009-2010];install_bucket_range=[1000000-2000000];,7
 updated_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];,3
 updated_bucket_range=[2017-2018];install_bucket_range=[1000000000-1001000000];,1
 updated_bucket_range=[2015-2016];install_bucket_range=[500000000-501000000];,1
+property,count
 updated_bucket_range=[2019-2020];price_bucket_range=[150-155];,9
 updated_bucket_range=[2017-2018];price_bucket_range=[0-5];,238517
 updated_bucket_range=[2019-2020];price_bucket_range=[215-220];,8
@@ -4176,6 +4219,7 @@ updated_bucket_range=[2017-2018];price_bucket_range=[295-300];,1
 updated_bucket_range=[2017-2018];price_bucket_range=[345-350];,1
 updated_bucket_range=[2015-2016];price_bucket_range=[65-70];,1
 updated_bucket_range=[2021-2022];price_bucket_range=[285-290];,1
+property,count
 updated_bucket_range=[2021-2022];rating_bucket_range=[19000000-20000000];,1
 updated_bucket_range=[2015-2016];rating_bucket_range=[0-1000000];,82520
 updated_bucket_range=[2021-2022];rating_bucket_range=[1000000-2000000];,525
@@ -4237,6 +4281,7 @@ updated_bucket_range=[2019-2020];rating_bucket_range=[16000000-17000000];,1
 updated_bucket_range=[2021-2022];rating_bucket_range=[14000000-15000000];,2
 updated_bucket_range=[2021-2022];rating_bucket_range=[130000000-131000000];,1
 updated_bucket_range=[2021-2022];rating_bucket_range=[16000000-17000000];,1
+property,count
 updated_bucket_range=[2011-2012];score_bucket_range=[3-4];,897
 updated_bucket_range=[2011-2012];score_bucket_range=[0-1];,3014
 updated_bucket_range=[2011-2012];score_bucket_range=[1-2];,29
@@ -4272,6 +4317,7 @@ updated_bucket_range=[2015-2016];score_bucket_range=[1-2];,222
 updated_bucket_range=[2011-2012];score_bucket_range=[4-5];,1087
 updated_bucket_range=[2009-2010];score_bucket_range=[3-4];,98
 updated_bucket_range=[2009-2010];score_bucket_range=[1-2];,10
+property,count
 year_bucket_range=[2019-2020];install_bucket_range=[10000000-11000000];,1604
 year_bucket_range=[2011-2012];install_bucket_range=[10000000-11000000];,757
 year_bucket_range=[2015-2016];install_bucket_range=[100000000-101000000];,149
@@ -4333,6 +4379,7 @@ year_bucket_range=[2011-2012];install_bucket_range=[2147483647--2146483649];,6
 year_bucket_range=[2021-2022];install_bucket_range=[500000000-501000000];,2
 year_bucket_range=[2021-2022];install_bucket_range=[1000000000-1001000000];,1
 year_bucket_range=[2015-2016];install_bucket_range=[2147483647--2146483649];,2
+property,count
 year_bucket_range=[2019-2020];price_bucket_range=[150-155];,11
 year_bucket_range=[2017-2018];price_bucket_range=[0-5];,513320
 year_bucket_range=[2019-2020];price_bucket_range=[215-220];,7
@@ -4660,6 +4707,7 @@ year_bucket_range=[2017-2018];price_bucket_range=[345-350];,1
 year_bucket_range=[2019-2020];price_bucket_range=[1100-1105];,1
 year_bucket_range=[2017-2018];price_bucket_range=[135-140];,1
 year_bucket_range=[2021-2022];price_bucket_range=[285-290];,1
+property,count
 year_bucket_range=[2015-2016];rating_bucket_range=[1000000-2000000];,102
 year_bucket_range=[2015-2016];rating_bucket_range=[0-1000000];,250165
 year_bucket_range=[2015-2016];rating_bucket_range=[4000000-5000000];,18
@@ -4775,6 +4823,7 @@ year_bucket_range=[2021-2022];rating_bucket_range=[4000000-5000000];,1
 year_bucket_range=[2013-2014];rating_bucket_range=[130000000-131000000];,1
 year_bucket_range=[2011-2012];rating_bucket_range=[16000000-17000000];,1
 year_bucket_range=[2019-2020];rating_bucket_range=[8000000-9000000];,1
+property,count
 year_bucket_range=[2011-2012];score_bucket_range=[3-4];,9875
 year_bucket_range=[2011-2012];score_bucket_range=[0-1];,14941
 year_bucket_range=[2011-2012];score_bucket_range=[1-2];,232
@@ -4810,6 +4859,7 @@ year_bucket_range=[2021-2022];score_bucket_range=[4-5];,52245
 year_bucket_range=[2015-2016];score_bucket_range=[1-2];,1174
 year_bucket_range=[2011-2012];score_bucket_range=[4-5];,14975
 year_bucket_range=[2009-2010];score_bucket_range=[1-2];,59
+property,count
 install_bucket_range=[50000000-51000000];price_bucket_range=[0-5];,1016
 install_bucket_range=[0-1000000];price_bucket_range=[395-400];,80
 install_bucket_range=[0-1000000];price_bucket_range=[235-240];,5
@@ -4908,6 +4958,7 @@ install_bucket_range=[0-1000000];price_bucket_range=[690-695];,1
 install_bucket_range=[0-1000000];price_bucket_range=[305-310];,1
 install_bucket_range=[0-1000000];price_bucket_range=[405-410];,1
 install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];,1
+property,count
 install_bucket_range=[1000000000-1001000000];rating_bucket_range=[1000000-2000000];,11
 install_bucket_range=[5000000-6000000];rating_bucket_range=[0-1000000];,7776
 install_bucket_range=[100000000-101000000];rating_bucket_range=[5000000-6000000];,22
@@ -5008,6 +5059,7 @@ install_bucket_range=[50000000-51000000];rating_bucket_range=[10000000-11000000]
 install_bucket_range=[2147483647--2146483649];rating_bucket_range=[130000000-131000000];,1
 install_bucket_range=[50000000-51000000];rating_bucket_range=[7000000-8000000];,1
 install_bucket_range=[2147483647--2146483649];rating_bucket_range=[16000000-17000000];,1
+property,count
 install_bucket_range=[10000000-11000000];score_bucket_range=[4-5];,5576
 install_bucket_range=[1000000000-1001000000];score_bucket_range=[4-5];,56
 install_bucket_range=[500000000-501000000];score_bucket_range=[3-4];,18
@@ -5045,6 +5097,7 @@ install_bucket_range=[100000000-101000000];score_bucket_range=[0-1];,2
 install_bucket_range=[2147483647--2146483649];score_bucket_range=[3-4];,3
 install_bucket_range=[50000000-51000000];score_bucket_range=[0-1];,2
 install_bucket_range=[50000000-51000000];score_bucket_range=[1-2];,1
+property,count
 price_bucket_range=[70-75];rating_bucket_range=[0-1000000];,41
 price_bucket_range=[25-30];rating_bucket_range=[0-1000000];,701
 price_bucket_range=[5-10];rating_bucket_range=[0-1000000];,11221
@@ -5172,6 +5225,7 @@ price_bucket_range=[0-5];rating_bucket_range=[130000000-131000000];,1
 price_bucket_range=[305-310];rating_bucket_range=[0-1000000];,1
 price_bucket_range=[405-410];rating_bucket_range=[0-1000000];,1
 price_bucket_range=[1100-1105];rating_bucket_range=[0-1000000];,1
+property,count
 price_bucket_range=[215-220];score_bucket_range=[0-1];,11
 price_bucket_range=[5-10];score_bucket_range=[4-5];,1418
 price_bucket_range=[0-5];score_bucket_range=[4-5];,267348
@@ -5339,6 +5393,7 @@ price_bucket_range=[305-310];score_bucket_range=[0-1];,1
 price_bucket_range=[405-410];score_bucket_range=[0-1];,1
 price_bucket_range=[390-395];score_bucket_range=[4-5];,1
 price_bucket_range=[1100-1105];score_bucket_range=[0-1];,1
+property,count
 rating_bucket_range=[2000000-3000000];score_bucket_range=[3-4];,22
 rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,9277
 rating_bucket_range=[0-1000000];score_bucket_range=[3-4];,130656
@@ -5398,6 +5453,7 @@ rating_bucket_range=[14000000-15000000];score_bucket_range=[4-5];,2
 rating_bucket_range=[16000000-17000000];score_bucket_range=[4-5];,2
 rating_bucket_range=[11000000-12000000];score_bucket_range=[3-4];,1
 rating_bucket_range=[130000000-131000000];score_bucket_range=[3-4];,1
+property,count
 free=true;genre=Card;adSupported=true;,7217
 free=true;genre=Sports;adSupported=false;,37488
 free=true;genre=Libraries & Demo;adSupported=true;,1941
@@ -5590,6 +5646,7 @@ free=false;genre=House & Home;adSupported=true;,11
 free=false;genre=Parenting;adSupported=true;,16
 free=false;genre=Events;adSupported=true;,8
 free=false;genre=Shopping;adSupported=true;,23
+property,count
 free=true;genre=Card;containsAds=true;,7217
 free=true;genre=Sports;containsAds=false;,37488
 free=true;genre=Libraries & Demo;containsAds=true;,1941
@@ -5782,6 +5839,7 @@ free=false;genre=House & Home;containsAds=true;,11
 free=false;genre=Parenting;containsAds=true;,16
 free=false;genre=Events;containsAds=true;,8
 free=false;genre=Shopping;containsAds=true;,23
+property,count
 free=false;genre=Arcade;updated_bucket_range=[2017-2018];,284
 free=true;genre=Medical;updated_bucket_range=[2015-2016];,1158
 free=false;genre=Weather;updated_bucket_range=[2021-2022];,175
@@ -6370,6 +6428,7 @@ free=false;genre=Social;updated_bucket_range=[2015-2016];,35
 free=false;genre=Productivity;updated_bucket_range=[2009-2010];,7
 free=false;genre=Sports;updated_bucket_range=[2009-2010];,1
 free=true;genre=Beauty;updated_bucket_range=[2013-2014];,1
+property,count
 free=false;genre=Arcade;year_bucket_range=[2017-2018];,281
 free=true;genre=Lifestyle;year_bucket_range=[2009-2010];,183
 free=true;genre=Medical;year_bucket_range=[2015-2016];,4476
@@ -7030,6 +7089,7 @@ free=false;genre=Shopping;year_bucket_range=[2015-2016];,37
 free=false;genre=Shopping;year_bucket_range=[2011-2012];,14
 free=false;genre=Social;year_bucket_range=[2009-2010];,6
 free=false;genre=Events;year_bucket_range=[2013-2014];,1
+property,count
 free=true;genre=Food & Drink;install_bucket_range=[5000000-6000000];,57
 free=false;genre=Education;install_bucket_range=[0-1000000];,14820
 free=false;genre=Tools;install_bucket_range=[0-1000000];,8784
@@ -7439,6 +7499,7 @@ free=true;genre=Social;install_bucket_range=[2147483647--2146483649];,1
 free=true;genre=Travel & Local;install_bucket_range=[2147483647--2146483649];,1
 free=true;genre=Auto & Vehicles;install_bucket_range=[100000000-101000000];,1
 free=false;genre=Personalization;install_bucket_range=[1000000-2000000];,1
+property,count
 free=false;genre=Art & Design;price_bucket_range=[80-85];,1
 free=true;genre=Health & Fitness;price_bucket_range=[0-5];,35224
 free=true;genre=Education;price_bucket_range=[0-5];,370993
@@ -8579,6 +8640,7 @@ free=false;genre=Tools;price_bucket_range=[295-300];,1
 free=false;genre=Finance;price_bucket_range=[105-110];,1
 free=false;genre=News & Magazines;price_bucket_range=[285-290];,1
 free=false;genre=Board;price_bucket_range=[25-30];,1
+property,count
 free=false;genre=Education;rating_bucket_range=[0-1000000];,14821
 free=false;genre=Tools;rating_bucket_range=[0-1000000];,8789
 free=true;genre=Action;rating_bucket_range=[4000000-5000000];,8
@@ -8937,6 +8999,7 @@ free=true;genre=Action;rating_bucket_range=[8000000-9000000];,1
 free=true;genre=Books & Reference;rating_bucket_range=[4000000-5000000];,2
 free=true;genre=Tools;rating_bucket_range=[8000000-9000000];,1
 free=true;genre=Word;rating_bucket_range=[3000000-4000000];,1
+property,count
 free=true;genre=Medical;score_bucket_range=[0-1];,44711
 free=true;genre=Arcade;score_bucket_range=[0-1];,64680
 free=false;genre=Education;score_bucket_range=[3-4];,294
@@ -9403,10 +9466,12 @@ free=false;genre=Photography;score_bucket_range=[1-2];,7
 free=false;genre=Social;score_bucket_range=[2-3];,5
 free=false;genre=Shopping;score_bucket_range=[1-2];,1
 free=false;genre=Events;score_bucket_range=[4-5];,1
+property,count
 free=false;adSupported=true;containsAds=true;,6276
 free=false;adSupported=false;containsAds=false;,100551
 free=true;adSupported=true;containsAds=true;,1489761
 free=true;adSupported=false;containsAds=false;,1848802
+property,count
 free=true;adSupported=true;updated_bucket_range=[2013-2014];,10086
 free=false;adSupported=false;updated_bucket_range=[2013-2014];,6340
 free=true;adSupported=false;updated_bucket_range=[2015-2016];,40061
@@ -9434,6 +9499,7 @@ free=true;adSupported=true;updated_bucket_range=[2017-2018];,100461
 free=false;adSupported=false;updated_bucket_range=[2015-2016];,9057
 free=false;adSupported=true;updated_bucket_range=[2011-2012];,58
 free=false;adSupported=false;updated_bucket_range=[2009-2010];,68
+property,count
 free=true;adSupported=true;year_bucket_range=[2013-2014];,49865
 free=false;adSupported=false;year_bucket_range=[2013-2014];,11925
 free=true;adSupported=false;year_bucket_range=[2015-2016];,129621
@@ -9462,6 +9528,7 @@ free=false;adSupported=false;year_bucket_range=[2019-2020];,26561
 free=true;adSupported=false;year_bucket_range=[2011-2012];,18346
 free=true;adSupported=true;year_bucket_range=[2017-2018];,214443
 free=false;adSupported=false;year_bucket_range=[2015-2016];,14784
+property,count
 free=false;adSupported=true;install_bucket_range=[1000000-2000000];,28
 free=true;adSupported=true;install_bucket_range=[100000000-101000000];,531
 free=true;adSupported=true;install_bucket_range=[50000000-51000000];,795
@@ -9488,6 +9555,7 @@ free=true;adSupported=true;install_bucket_range=[2147483647--2146483649];,5
 free=false;adSupported=true;install_bucket_range=[10000000-11000000];,3
 free=false;adSupported=true;install_bucket_range=[5000000-6000000];,4
 free=false;adSupported=false;install_bucket_range=[10000000-11000000];,1
+property,count
 free=false;adSupported=true;price_bucket_range=[330-335];,4
 free=false;adSupported=false;price_bucket_range=[120-125];,22
 free=false;adSupported=false;price_bucket_range=[350-355];,23
@@ -9633,6 +9701,7 @@ free=false;adSupported=true;price_bucket_range=[295-300];,1
 free=false;adSupported=false;price_bucket_range=[405-410];,1
 free=false;adSupported=false;price_bucket_range=[285-290];,2
 free=false;adSupported=false;price_bucket_range=[1100-1105];,1
+property,count
 free=true;adSupported=true;rating_bucket_range=[4000000-5000000];,39
 free=true;adSupported=true;rating_bucket_range=[5000000-6000000];,23
 free=true;adSupported=false;rating_bucket_range=[11000000-12000000];,5
@@ -9697,6 +9766,7 @@ free=true;adSupported=true;rating_bucket_range=[12000000-13000000];,1
 free=true;adSupported=false;rating_bucket_range=[8000000-9000000];,3
 free=true;adSupported=true;rating_bucket_range=[14000000-15000000];,1
 free=true;adSupported=true;rating_bucket_range=[130000000-131000000];,1
+property,count
 free=false;adSupported=true;score_bucket_range=[0-1];,4926
 free=false;adSupported=true;score_bucket_range=[4-5];,879
 free=false;adSupported=true;score_bucket_range=[1-2];,18
@@ -9717,6 +9787,7 @@ free=true;adSupported=false;score_bucket_range=[1-2];,5343
 free=false;adSupported=true;score_bucket_range=[3-4];,386
 free=true;adSupported=true;score_bucket_range=[2-3];,18256
 free=true;adSupported=false;score_bucket_range=[3-4];,46618
+property,count
 free=true;containsAds=true;updated_bucket_range=[2013-2014];,10086
 free=false;containsAds=false;updated_bucket_range=[2013-2014];,6340
 free=true;containsAds=false;updated_bucket_range=[2015-2016];,40061
@@ -9744,6 +9815,7 @@ free=true;containsAds=true;updated_bucket_range=[2017-2018];,100461
 free=false;containsAds=false;updated_bucket_range=[2015-2016];,9057
 free=false;containsAds=true;updated_bucket_range=[2011-2012];,58
 free=false;containsAds=false;updated_bucket_range=[2009-2010];,68
+property,count
 free=true;containsAds=true;year_bucket_range=[2013-2014];,49865
 free=false;containsAds=false;year_bucket_range=[2013-2014];,11925
 free=true;containsAds=false;year_bucket_range=[2015-2016];,129621
@@ -9772,6 +9844,7 @@ free=false;containsAds=false;year_bucket_range=[2019-2020];,26561
 free=true;containsAds=false;year_bucket_range=[2011-2012];,18346
 free=true;containsAds=true;year_bucket_range=[2017-2018];,214443
 free=false;containsAds=false;year_bucket_range=[2015-2016];,14784
+property,count
 free=false;containsAds=true;install_bucket_range=[1000000-2000000];,28
 free=true;containsAds=true;install_bucket_range=[100000000-101000000];,531
 free=true;containsAds=true;install_bucket_range=[50000000-51000000];,795
@@ -9798,6 +9871,7 @@ free=true;containsAds=true;install_bucket_range=[2147483647--2146483649];,5
 free=false;containsAds=true;install_bucket_range=[10000000-11000000];,3
 free=false;containsAds=true;install_bucket_range=[5000000-6000000];,4
 free=false;containsAds=false;install_bucket_range=[10000000-11000000];,1
+property,count
 free=false;containsAds=true;price_bucket_range=[330-335];,4
 free=false;containsAds=false;price_bucket_range=[120-125];,22
 free=false;containsAds=false;price_bucket_range=[350-355];,23
@@ -9943,6 +10017,7 @@ free=false;containsAds=true;price_bucket_range=[295-300];,1
 free=false;containsAds=false;price_bucket_range=[405-410];,1
 free=false;containsAds=false;price_bucket_range=[285-290];,2
 free=false;containsAds=false;price_bucket_range=[1100-1105];,1
+property,count
 free=true;containsAds=true;rating_bucket_range=[4000000-5000000];,39
 free=true;containsAds=true;rating_bucket_range=[5000000-6000000];,23
 free=true;containsAds=false;rating_bucket_range=[11000000-12000000];,5
@@ -10007,6 +10082,7 @@ free=true;containsAds=true;rating_bucket_range=[12000000-13000000];,1
 free=true;containsAds=false;rating_bucket_range=[8000000-9000000];,3
 free=true;containsAds=true;rating_bucket_range=[14000000-15000000];,1
 free=true;containsAds=true;rating_bucket_range=[130000000-131000000];,1
+property,count
 free=false;containsAds=true;score_bucket_range=[0-1];,4926
 free=false;containsAds=true;score_bucket_range=[4-5];,879
 free=false;containsAds=true;score_bucket_range=[1-2];,18
@@ -10027,6 +10103,7 @@ free=true;containsAds=false;score_bucket_range=[1-2];,5343
 free=false;containsAds=true;score_bucket_range=[3-4];,386
 free=true;containsAds=true;score_bucket_range=[2-3];,18256
 free=true;containsAds=false;score_bucket_range=[3-4];,46618
+property,count
 free=true;updated_bucket_range=[2009-2010];year_bucket_range=[2009-2010];,280
 free=false;updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];,4328
 free=true;updated_bucket_range=[2011-2012];year_bucket_range=[2011-2012];,3525
@@ -10092,6 +10169,7 @@ free=true;updated_bucket_range=[2019-2020];year_bucket_range=[2011-2012];,5857
 free=true;updated_bucket_range=[2017-2018];year_bucket_range=[2009-2010];,435
 free=false;updated_bucket_range=[2017-2018];year_bucket_range=[2009-2010];,94
 free=false;updated_bucket_range=[2009-2010];year_bucket_range=[2009-2010];,68
+property,count
 free=true;updated_bucket_range=[2017-2018];install_bucket_range=[100000000-101000000];,10
 free=true;updated_bucket_range=[2019-2020];install_bucket_range=[1000000-2000000];,6048
 free=false;updated_bucket_range=[2021-2022];install_bucket_range=[0-1000000];,39597
@@ -10153,6 +10231,7 @@ free=false;updated_bucket_range=[2013-2014];install_bucket_range=[1000000-200000
 free=false;updated_bucket_range=[2009-2010];install_bucket_range=[0-1000000];,68
 free=false;updated_bucket_range=[2015-2016];install_bucket_range=[1000000-2000000];,2
 free=false;updated_bucket_range=[2017-2018];install_bucket_range=[5000000-6000000];,1
+property,count
 free=false;updated_bucket_range=[2021-2022];price_bucket_range=[0-5];,31712
 free=false;updated_bucket_range=[2021-2022];price_bucket_range=[20-25];,349
 free=false;updated_bucket_range=[2021-2022];price_bucket_range=[265-270];,5
@@ -10444,6 +10523,7 @@ free=false;updated_bucket_range=[2013-2014];price_bucket_range=[65-70];,1
 free=false;updated_bucket_range=[2015-2016];price_bucket_range=[220-225];,1
 free=false;updated_bucket_range=[2017-2018];price_bucket_range=[170-175];,1
 free=false;updated_bucket_range=[2017-2018];price_bucket_range=[295-300];,1
+property,count
 free=true;updated_bucket_range=[2019-2020];rating_bucket_range=[1000000-2000000];,18
 free=false;updated_bucket_range=[2021-2022];rating_bucket_range=[0-1000000];,39678
 free=true;updated_bucket_range=[2021-2022];rating_bucket_range=[1000000-2000000];,525
@@ -10513,6 +10593,7 @@ free=true;updated_bucket_range=[2021-2022];rating_bucket_range=[52000000-5300000
 free=true;updated_bucket_range=[2021-2022];rating_bucket_range=[14000000-15000000];,2
 free=true;updated_bucket_range=[2021-2022];rating_bucket_range=[130000000-131000000];,1
 free=true;updated_bucket_range=[2021-2022];rating_bucket_range=[16000000-17000000];,1
+property,count
 free=true;updated_bucket_range=[2021-2022];score_bucket_range=[2-3];,21357
 free=true;updated_bucket_range=[2017-2018];score_bucket_range=[1-2];,767
 free=true;updated_bucket_range=[2019-2020];score_bucket_range=[3-4];,28822
@@ -10583,6 +10664,7 @@ free=false;updated_bucket_range=[2009-2010];score_bucket_range=[0-1];,47
 free=false;updated_bucket_range=[2011-2012];score_bucket_range=[2-3];,21
 free=false;updated_bucket_range=[2011-2012];score_bucket_range=[1-2];,4
 free=false;updated_bucket_range=[2009-2010];score_bucket_range=[1-2];,2
+property,count
 free=true;year_bucket_range=[2017-2018];install_bucket_range=[100000000-101000000];,138
 free=true;year_bucket_range=[2019-2020];install_bucket_range=[1000000-2000000];,9064
 free=false;year_bucket_range=[2021-2022];install_bucket_range=[0-1000000];,22609
@@ -10665,6 +10747,7 @@ free=true;year_bucket_range=[2021-2022];install_bucket_range=[500000000-50100000
 free=false;year_bucket_range=[2011-2012];install_bucket_range=[10000000-11000000];,1
 free=true;year_bucket_range=[2015-2016];install_bucket_range=[2147483647--2146483649];,2
 free=false;year_bucket_range=[2017-2018];install_bucket_range=[5000000-6000000];,1
+property,count
 free=false;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,18765
 free=false;year_bucket_range=[2021-2022];price_bucket_range=[20-25];,171
 free=false;year_bucket_range=[2011-2012];price_bucket_range=[25-30];,37
@@ -10999,6 +11082,7 @@ free=false;year_bucket_range=[2013-2014];price_bucket_range=[125-130];,1
 free=false;year_bucket_range=[2017-2018];price_bucket_range=[135-140];,1
 free=false;year_bucket_range=[2015-2016];price_bucket_range=[220-225];,1
 free=false;year_bucket_range=[2017-2018];price_bucket_range=[170-175];,1
+property,count
 free=true;year_bucket_range=[2019-2020];rating_bucket_range=[1000000-2000000];,62
 free=false;year_bucket_range=[2021-2022];rating_bucket_range=[0-1000000];,22609
 free=true;year_bucket_range=[2013-2014];rating_bucket_range=[3000000-4000000];,26
@@ -11122,6 +11206,7 @@ free=true;year_bucket_range=[2021-2022];rating_bucket_range=[4000000-5000000];,1
 free=true;year_bucket_range=[2011-2012];rating_bucket_range=[16000000-17000000];,1
 free=true;year_bucket_range=[2013-2014];rating_bucket_range=[130000000-131000000];,1
 free=true;year_bucket_range=[2019-2020];rating_bucket_range=[8000000-9000000];,1
+property,count
 free=true;year_bucket_range=[2021-2022];score_bucket_range=[2-3];,6886
 free=false;year_bucket_range=[2011-2012];score_bucket_range=[4-5];,2239
 free=true;year_bucket_range=[2017-2018];score_bucket_range=[1-2];,1904
@@ -11192,6 +11277,7 @@ free=true;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,50
 free=false;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,9
 free=false;year_bucket_range=[2011-2012];score_bucket_range=[1-2];,27
 free=false;year_bucket_range=[2009-2010];score_bucket_range=[2-3];,34
+property,count
 free=true;install_bucket_range=[5000000-6000000];price_bucket_range=[0-5];,7771
 free=false;install_bucket_range=[0-1000000];price_bucket_range=[350-355];,27
 free=false;install_bucket_range=[0-1000000];price_bucket_range=[120-125];,26
@@ -11294,6 +11380,7 @@ free=false;install_bucket_range=[0-1000000];price_bucket_range=[300-305];,3
 free=false;install_bucket_range=[0-1000000];price_bucket_range=[305-310];,1
 free=false;install_bucket_range=[0-1000000];price_bucket_range=[405-410];,1
 free=false;install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];,1
+property,count
 free=true;install_bucket_range=[10000000-11000000];rating_bucket_range=[1000000-2000000];,155
 free=true;install_bucket_range=[500000000-501000000];rating_bucket_range=[3000000-4000000];,4
 free=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[4000000-5000000];,6
@@ -11398,6 +11485,7 @@ free=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[5000000-
 free=true;install_bucket_range=[2147483647--2146483649];rating_bucket_range=[130000000-131000000];,1
 free=true;install_bucket_range=[2147483647--2146483649];rating_bucket_range=[16000000-17000000];,1
 free=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[7000000-8000000];,1
+property,count
 free=true;install_bucket_range=[0-1000000];score_bucket_range=[2-3];,33321
 free=true;install_bucket_range=[5000000-6000000];score_bucket_range=[2-3];,221
 free=true;install_bucket_range=[0-1000000];score_bucket_range=[1-2];,8825
@@ -11446,6 +11534,7 @@ free=false;install_bucket_range=[5000000-6000000];score_bucket_range=[3-4];,2
 free=true;install_bucket_range=[2147483647--2146483649];score_bucket_range=[3-4];,3
 free=true;install_bucket_range=[50000000-51000000];score_bucket_range=[1-2];,1
 free=true;install_bucket_range=[50000000-51000000];score_bucket_range=[0-1];,2
+property,count
 free=false;price_bucket_range=[30-35];rating_bucket_range=[0-1000000];,359
 free=false;price_bucket_range=[125-130];rating_bucket_range=[0-1000000];,34
 free=false;price_bucket_range=[395-400];rating_bucket_range=[0-1000000];,80
@@ -11574,6 +11663,7 @@ free=false;price_bucket_range=[305-310];rating_bucket_range=[0-1000000];,1
 free=false;price_bucket_range=[405-410];rating_bucket_range=[0-1000000];,1
 free=true;price_bucket_range=[0-5];rating_bucket_range=[130000000-131000000];,1
 free=false;price_bucket_range=[1100-1105];rating_bucket_range=[0-1000000];,1
+property,count
 free=false;price_bucket_range=[350-355];score_bucket_range=[0-1];,27
 free=false;price_bucket_range=[125-130];score_bucket_range=[0-1];,34
 free=false;price_bucket_range=[115-120];score_bucket_range=[0-1];,24
@@ -11746,6 +11836,7 @@ free=false;price_bucket_range=[95-100];score_bucket_range=[1-2];,1
 free=false;price_bucket_range=[405-410];score_bucket_range=[0-1];,1
 free=false;price_bucket_range=[305-310];score_bucket_range=[0-1];,1
 free=false;price_bucket_range=[1100-1105];score_bucket_range=[0-1];,1
+property,count
 free=true;rating_bucket_range=[0-1000000];score_bucket_range=[2-3];,35444
 free=true;rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,9063
 free=true;rating_bucket_range=[0-1000000];score_bucket_range=[3-4];,126225
@@ -11811,6 +11902,7 @@ free=true;rating_bucket_range=[16000000-17000000];score_bucket_range=[4-5];,2
 free=true;rating_bucket_range=[52000000-53000000];score_bucket_range=[4-5];,1
 free=true;rating_bucket_range=[11000000-12000000];score_bucket_range=[3-4];,1
 free=true;rating_bucket_range=[130000000-131000000];score_bucket_range=[3-4];,1
+property,count
 genre=Parenting;adSupported=true;containsAds=true;,2466
 genre=Card;adSupported=false;containsAds=false;,4162
 genre=Strategy;adSupported=false;containsAds=false;,4985
@@ -11907,6 +11999,7 @@ genre=Entertainment;adSupported=true;containsAds=true;,140888
 genre=Role Playing;adSupported=false;containsAds=false;,6379
 genre=Finance;adSupported=false;containsAds=false;,81664
 genre=Productivity;adSupported=true;containsAds=true;,29355
+property,count
 genre=Photography;adSupported=true;updated_bucket_range=[2017-2018];,2530
 genre=Books & Reference;adSupported=true;updated_bucket_range=[2011-2012];,56
 genre=Educational;adSupported=true;updated_bucket_range=[2017-2018];,1371
@@ -12502,6 +12595,7 @@ genre=Beauty;adSupported=false;updated_bucket_range=[2013-2014];,1
 genre=Video Players & Editors;adSupported=false;updated_bucket_range=[2009-2010];,1
 genre=Adventure;adSupported=false;updated_bucket_range=[2011-2012];,1
 genre=Travel & Local;adSupported=true;updated_bucket_range=[2009-2010];,1
+property,count
 genre=Books & Reference;adSupported=true;year_bucket_range=[2011-2012];,1091
 genre=Photography;adSupported=true;year_bucket_range=[2017-2018];,6270
 genre=Medical;adSupported=true;year_bucket_range=[2013-2014];,477
@@ -13169,6 +13263,7 @@ genre=Events;adSupported=false;year_bucket_range=[2011-2012];,20
 genre=Food & Drink;adSupported=true;year_bucket_range=[2011-2012];,50
 genre=Food & Drink;adSupported=true;year_bucket_range=[2009-2010];,6
 genre=Food & Drink;adSupported=false;year_bucket_range=[2009-2010];,19
+property,count
 genre=Simulation;adSupported=false;install_bucket_range=[0-1000000];,6684
 genre=Books & Reference;adSupported=true;install_bucket_range=[0-1000000];,100444
 genre=Productivity;adSupported=false;install_bucket_range=[0-1000000];,117516
@@ -13768,6 +13863,7 @@ genre=Video Players & Editors;adSupported=true;install_bucket_range=[500000000-5
 genre=Travel & Local;adSupported=true;install_bucket_range=[2147483647--2146483649];,1
 genre=Entertainment;adSupported=true;install_bucket_range=[1000000000-1001000000];,1
 genre=Auto & Vehicles;adSupported=false;install_bucket_range=[100000000-101000000];,1
+property,count
 genre=Board;adSupported=false;price_bucket_range=[45-50];,1
 genre=Art & Design;adSupported=false;price_bucket_range=[350-355];,1
 genre=Trivia;adSupported=false;price_bucket_range=[5-10];,19
@@ -15131,6 +15227,7 @@ genre=Puzzle;adSupported=false;price_bucket_range=[370-375];,1
 genre=Music & Audio;adSupported=false;price_bucket_range=[270-275];,1
 genre=Books & Reference;adSupported=true;price_bucket_range=[95-100];,1
 genre=Libraries & Demo;adSupported=false;price_bucket_range=[65-70];,1
+property,count
 genre=Simulation;adSupported=false;rating_bucket_range=[0-1000000];,6820
 genre=Books & Reference;adSupported=true;rating_bucket_range=[0-1000000];,101074
 genre=Productivity;adSupported=false;rating_bucket_range=[0-1000000];,118101
@@ -15566,6 +15663,7 @@ genre=Casual;adSupported=false;rating_bucket_range=[4000000-5000000];,2
 genre=Books & Reference;adSupported=true;rating_bucket_range=[4000000-5000000];,1
 genre=Word;adSupported=true;rating_bucket_range=[3000000-4000000];,1
 genre=Action;adSupported=false;rating_bucket_range=[5000000-6000000];,1
+property,count
 genre=Simulation;adSupported=false;score_bucket_range=[0-1];,5168
 genre=Arcade;adSupported=false;score_bucket_range=[1-2];,175
 genre=Arcade;adSupported=false;score_bucket_range=[4-5];,1179
@@ -16046,6 +16144,7 @@ genre=Trivia;adSupported=false;score_bucket_range=[2-3];,22
 genre=Events;adSupported=false;score_bucket_range=[2-3];,46
 genre=Comics;adSupported=false;score_bucket_range=[1-2];,2
 genre=Finance;adSupported=true;score_bucket_range=[1-2];,42
+property,count
 genre=Photography;containsAds=true;updated_bucket_range=[2017-2018];,2530
 genre=Books & Reference;containsAds=true;updated_bucket_range=[2011-2012];,56
 genre=Educational;containsAds=true;updated_bucket_range=[2017-2018];,1371
@@ -16641,6 +16740,7 @@ genre=Beauty;containsAds=false;updated_bucket_range=[2013-2014];,1
 genre=Video Players & Editors;containsAds=false;updated_bucket_range=[2009-2010];,1
 genre=Adventure;containsAds=false;updated_bucket_range=[2011-2012];,1
 genre=Travel & Local;containsAds=true;updated_bucket_range=[2009-2010];,1
+property,count
 genre=Books & Reference;containsAds=true;year_bucket_range=[2011-2012];,1091
 genre=Photography;containsAds=true;year_bucket_range=[2017-2018];,6270
 genre=Medical;containsAds=true;year_bucket_range=[2013-2014];,477
@@ -17308,6 +17408,7 @@ genre=Events;containsAds=false;year_bucket_range=[2011-2012];,20
 genre=Food & Drink;containsAds=true;year_bucket_range=[2011-2012];,50
 genre=Food & Drink;containsAds=true;year_bucket_range=[2009-2010];,6
 genre=Food & Drink;containsAds=false;year_bucket_range=[2009-2010];,19
+property,count
 genre=Simulation;containsAds=false;install_bucket_range=[0-1000000];,6684
 genre=Books & Reference;containsAds=true;install_bucket_range=[0-1000000];,100444
 genre=Productivity;containsAds=false;install_bucket_range=[0-1000000];,117516
@@ -17907,6 +18008,7 @@ genre=Video Players & Editors;containsAds=true;install_bucket_range=[500000000-5
 genre=Travel & Local;containsAds=true;install_bucket_range=[2147483647--2146483649];,1
 genre=Entertainment;containsAds=true;install_bucket_range=[1000000000-1001000000];,1
 genre=Auto & Vehicles;containsAds=false;install_bucket_range=[100000000-101000000];,1
+property,count
 genre=Board;containsAds=false;price_bucket_range=[45-50];,1
 genre=Art & Design;containsAds=false;price_bucket_range=[350-355];,1
 genre=Trivia;containsAds=false;price_bucket_range=[5-10];,19
@@ -19270,6 +19372,7 @@ genre=Puzzle;containsAds=false;price_bucket_range=[370-375];,1
 genre=Music & Audio;containsAds=false;price_bucket_range=[270-275];,1
 genre=Books & Reference;containsAds=true;price_bucket_range=[95-100];,1
 genre=Libraries & Demo;containsAds=false;price_bucket_range=[65-70];,1
+property,count
 genre=Simulation;containsAds=false;rating_bucket_range=[0-1000000];,6820
 genre=Books & Reference;containsAds=true;rating_bucket_range=[0-1000000];,101074
 genre=Productivity;containsAds=false;rating_bucket_range=[0-1000000];,118101
@@ -19705,6 +19808,7 @@ genre=Casual;containsAds=false;rating_bucket_range=[4000000-5000000];,2
 genre=Books & Reference;containsAds=true;rating_bucket_range=[4000000-5000000];,1
 genre=Word;containsAds=true;rating_bucket_range=[3000000-4000000];,1
 genre=Action;containsAds=false;rating_bucket_range=[5000000-6000000];,1
+property,count
 genre=Simulation;containsAds=false;score_bucket_range=[0-1];,5168
 genre=Arcade;containsAds=false;score_bucket_range=[1-2];,175
 genre=Arcade;containsAds=false;score_bucket_range=[4-5];,1179
@@ -20185,6 +20289,7 @@ genre=Trivia;containsAds=false;score_bucket_range=[2-3];,22
 genre=Events;containsAds=false;score_bucket_range=[2-3];,46
 genre=Comics;containsAds=false;score_bucket_range=[1-2];,2
 genre=Finance;containsAds=true;score_bucket_range=[1-2];,42
+property,count
 genre=Social;updated_bucket_range=[2017-2018];year_bucket_range=[2017-2018];,2974
 genre=Food & Drink;updated_bucket_range=[2021-2022];year_bucket_range=[2019-2020];,21471
 genre=Shopping;updated_bucket_range=[2021-2022];year_bucket_range=[2019-2020];,24163
@@ -21454,6 +21559,7 @@ genre=Adventure;updated_bucket_range=[2015-2016];year_bucket_range=[2009-2010];,
 genre=Art & Design;updated_bucket_range=[2021-2022];year_bucket_range=[2009-2010];,1
 genre=Casino;updated_bucket_range=[2017-2018];year_bucket_range=[2009-2010];,1
 genre=Beauty;updated_bucket_range=[2013-2014];year_bucket_range=[2013-2014];,1
+property,count
 genre=Medical;updated_bucket_range=[2019-2020];install_bucket_range=[0-1000000];,15985
 genre=Finance;updated_bucket_range=[2015-2016];install_bucket_range=[0-1000000];,1310
 genre=Simulation;updated_bucket_range=[2015-2016];install_bucket_range=[1000000-2000000];,129
@@ -22524,6 +22630,7 @@ genre=Casual;updated_bucket_range=[2011-2012];install_bucket_range=[5000000-6000
 genre=Sports;updated_bucket_range=[2009-2010];install_bucket_range=[1000000-2000000];,1
 genre=Beauty;updated_bucket_range=[2013-2014];install_bucket_range=[0-1000000];,1
 genre=Lifestyle;updated_bucket_range=[2011-2012];install_bucket_range=[1000000-2000000];,1
+property,count
 genre=Business;updated_bucket_range=[2021-2022];price_bucket_range=[0-5];,145994
 genre=Action;updated_bucket_range=[2015-2016];price_bucket_range=[0-5];,1826
 genre=Sports;updated_bucket_range=[2021-2022];price_bucket_range=[95-100];,27
@@ -24741,6 +24848,7 @@ genre=News & Magazines;updated_bucket_range=[2019-2020];price_bucket_range=[285-
 genre=Auto & Vehicles;updated_bucket_range=[2017-2018];price_bucket_range=[75-80];,1
 genre=Tools;updated_bucket_range=[2013-2014];price_bucket_range=[125-130];,1
 genre=Casino;updated_bucket_range=[2015-2016];price_bucket_range=[10-15];,5
+property,count
 genre=Medical;updated_bucket_range=[2019-2020];rating_bucket_range=[0-1000000];,15996
 genre=Finance;updated_bucket_range=[2015-2016];rating_bucket_range=[0-1000000];,1311
 genre=Art & Design;updated_bucket_range=[2021-2022];rating_bucket_range=[0-1000000];,14416
@@ -25339,6 +25447,7 @@ genre=Beauty;updated_bucket_range=[2013-2014];rating_bucket_range=[0-1000000];,1
 genre=Word;updated_bucket_range=[2021-2022];rating_bucket_range=[3000000-4000000];,1
 genre=Books & Reference;updated_bucket_range=[2021-2022];rating_bucket_range=[4000000-5000000];,2
 genre=Social;updated_bucket_range=[2019-2020];rating_bucket_range=[2000000-3000000];,1
+property,count
 genre=Books & Reference;updated_bucket_range=[2013-2014];score_bucket_range=[4-5];,634
 genre=Arcade;updated_bucket_range=[2015-2016];score_bucket_range=[0-1];,3133
 genre=Beauty;updated_bucket_range=[2015-2016];score_bucket_range=[4-5];,4
@@ -26712,6 +26821,7 @@ genre=Casino;updated_bucket_range=[2011-2012];score_bucket_range=[3-4];,1
 genre=Finance;updated_bucket_range=[2013-2014];score_bucket_range=[1-2];,1
 genre=Puzzle;updated_bucket_range=[2009-2010];score_bucket_range=[1-2];,1
 genre=Beauty;updated_bucket_range=[2013-2014];score_bucket_range=[0-1];,1
+property,count
 genre=Medical;year_bucket_range=[2019-2020];install_bucket_range=[0-1000000];,19559
 genre=Finance;year_bucket_range=[2015-2016];install_bucket_range=[0-1000000];,8213
 genre=Board;year_bucket_range=[2013-2014];install_bucket_range=[10000000-11000000];,14
@@ -28464,6 +28574,7 @@ genre=Books & Reference;year_bucket_range=[2009-2010];install_bucket_range=[5000
 genre=Food & Drink;year_bucket_range=[2009-2010];install_bucket_range=[5000000-6000000];,1
 genre=Entertainment;year_bucket_range=[2017-2018];install_bucket_range=[1000000000-1001000000];,1
 genre=News & Magazines;year_bucket_range=[2009-2010];install_bucket_range=[100000000-101000000];,1
+property,count
 genre=Business;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,77302
 genre=Action;year_bucket_range=[2015-2016];price_bucket_range=[0-5];,3189
 genre=Sports;year_bucket_range=[2021-2022];price_bucket_range=[95-100];,25
@@ -31045,6 +31156,7 @@ genre=News & Magazines;year_bucket_range=[2019-2020];price_bucket_range=[285-290
 genre=Simulation;year_bucket_range=[2017-2018];price_bucket_range=[25-30];,1
 genre=Auto & Vehicles;year_bucket_range=[2017-2018];price_bucket_range=[75-80];,1
 genre=Tools;year_bucket_range=[2013-2014];price_bucket_range=[125-130];,1
+property,count
 genre=Medical;year_bucket_range=[2019-2020];rating_bucket_range=[0-1000000];,19618
 genre=Finance;year_bucket_range=[2015-2016];rating_bucket_range=[0-1000000];,8623
 genre=Entertainment;year_bucket_range=[2019-2020];rating_bucket_range=[0-1000000];,66043
@@ -31922,6 +32034,7 @@ genre=Finance;year_bucket_range=[2017-2018];rating_bucket_range=[3000000-4000000
 genre=Books & Reference;year_bucket_range=[2013-2014];rating_bucket_range=[4000000-5000000];,1
 genre=Finance;year_bucket_range=[2019-2020];rating_bucket_range=[4000000-5000000];,1
 genre=News & Magazines;year_bucket_range=[2009-2010];rating_bucket_range=[1000000-2000000];,1
+property,count
 genre=Books & Reference;year_bucket_range=[2013-2014];score_bucket_range=[4-5];,2625
 genre=Arcade;year_bucket_range=[2015-2016];score_bucket_range=[0-1];,4398
 genre=Health & Fitness;year_bucket_range=[2017-2018];score_bucket_range=[2-3];,59
@@ -33507,6 +33620,7 @@ genre=Libraries & Demo;year_bucket_range=[2009-2010];score_bucket_range=[2-3];,1
 genre=Parenting;year_bucket_range=[2009-2010];score_bucket_range=[3-4];,1
 genre=Shopping;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,1
 genre=Word;year_bucket_range=[2009-2010];score_bucket_range=[0-1];,1
+property,count
 genre=Medical;install_bucket_range=[0-1000000];price_bucket_range=[5-10];,309
 genre=Finance;install_bucket_range=[0-1000000];price_bucket_range=[10-15];,44
 genre=Lifestyle;install_bucket_range=[0-1000000];price_bucket_range=[10-15];,74
@@ -34891,6 +35005,7 @@ genre=Art & Design;install_bucket_range=[0-1000000];price_bucket_range=[55-60];,
 genre=Tools;install_bucket_range=[0-1000000];price_bucket_range=[170-175];,1
 genre=Productivity;install_bucket_range=[0-1000000];price_bucket_range=[220-225];,1
 genre=Libraries & Demo;install_bucket_range=[0-1000000];price_bucket_range=[65-70];,1
+property,count
 genre=Weather;install_bucket_range=[0-1000000];rating_bucket_range=[0-1000000];,8942
 genre=Strategy;install_bucket_range=[1000000-2000000];rating_bucket_range=[0-1000000];,806
 genre=Art & Design;install_bucket_range=[5000000-6000000];rating_bucket_range=[0-1000000];,43
@@ -35595,6 +35710,7 @@ genre=News & Magazines;install_bucket_range=[100000000-101000000];rating_bucket_
 genre=Tools;install_bucket_range=[1000000000-1001000000];rating_bucket_range=[8000000-9000000];,1
 genre=Entertainment;install_bucket_range=[1000000000-1001000000];rating_bucket_range=[0-1000000];,1
 genre=Action;install_bucket_range=[100000000-101000000];rating_bucket_range=[8000000-9000000];,1
+property,count
 genre=Art & Design;install_bucket_range=[0-1000000];score_bucket_range=[0-1];,22685
 genre=Comics;install_bucket_range=[0-1000000];score_bucket_range=[2-3];,66
 genre=Events;install_bucket_range=[0-1000000];score_bucket_range=[1-2];,36
@@ -36605,6 +36721,7 @@ genre=Auto & Vehicles;install_bucket_range=[100000000-101000000];score_bucket_ra
 genre=Food & Drink;install_bucket_range=[5000000-6000000];score_bucket_range=[0-1];,1
 genre=Auto & Vehicles;install_bucket_range=[10000000-11000000];score_bucket_range=[3-4];,1
 genre=Education;install_bucket_range=[10000000-11000000];score_bucket_range=[0-1];,2
+property,count
 genre=Health & Fitness;price_bucket_range=[35-40];rating_bucket_range=[0-1000000];,15
 genre=Action;price_bucket_range=[0-5];rating_bucket_range=[4000000-5000000];,8
 genre=Tools;price_bucket_range=[20-25];rating_bucket_range=[0-1000000];,68
@@ -37959,6 +38076,7 @@ genre=Travel & Local;price_bucket_range=[215-220];rating_bucket_range=[0-1000000
 genre=Auto & Vehicles;price_bucket_range=[75-80];rating_bucket_range=[0-1000000];,2
 genre=Tools;price_bucket_range=[295-300];rating_bucket_range=[0-1000000];,1
 genre=Auto & Vehicles;price_bucket_range=[40-45];rating_bucket_range=[0-1000000];,1
+property,count
 genre=Education;price_bucket_range=[60-65];score_bucket_range=[0-1];,10
 genre=Casual;price_bucket_range=[5-10];score_bucket_range=[3-4];,2
 genre=Education;price_bucket_range=[350-355];score_bucket_range=[0-1];,1
@@ -39682,6 +39800,7 @@ genre=Health & Fitness;price_bucket_range=[345-350];score_bucket_range=[0-1];,1
 genre=Productivity;price_bucket_range=[220-225];score_bucket_range=[0-1];,1
 genre=Travel & Local;price_bucket_range=[25-30];score_bucket_range=[0-1];,1
 genre=Business;price_bucket_range=[85-90];score_bucket_range=[0-1];,1
+property,count
 genre=Art & Design;rating_bucket_range=[0-1000000];score_bucket_range=[0-1];,22698
 genre=Comics;rating_bucket_range=[0-1000000];score_bucket_range=[2-3];,75
 genre=Events;rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,37
@@ -40232,6 +40351,7 @@ genre=Action;rating_bucket_range=[8000000-9000000];score_bucket_range=[4-5];,1
 genre=Tools;rating_bucket_range=[8000000-9000000];score_bucket_range=[4-5];,1
 genre=Books & Reference;rating_bucket_range=[4000000-5000000];score_bucket_range=[4-5];,2
 genre=Finance;rating_bucket_range=[4000000-5000000];score_bucket_range=[3-4];,1
+property,count
 adSupported=true;containsAds=true;updated_bucket_range=[2013-2014];,10471
 adSupported=false;containsAds=false;updated_bucket_range=[2013-2014];,20832
 adSupported=false;containsAds=false;updated_bucket_range=[2009-2010];,304
@@ -40246,6 +40366,7 @@ adSupported=true;containsAds=true;updated_bucket_range=[2021-2022];,928101
 adSupported=false;containsAds=false;updated_bucket_range=[2019-2020];,589681
 adSupported=true;containsAds=true;updated_bucket_range=[2017-2018];,101095
 adSupported=false;containsAds=false;updated_bucket_range=[2015-2016];,49118
+property,count
 adSupported=true;containsAds=true;year_bucket_range=[2013-2014];,50971
 adSupported=false;containsAds=false;year_bucket_range=[2013-2014];,66274
 adSupported=false;containsAds=false;year_bucket_range=[2009-2010];,2865
@@ -40260,6 +40381,7 @@ adSupported=true;containsAds=true;year_bucket_range=[2021-2022];,627200
 adSupported=false;containsAds=false;year_bucket_range=[2019-2020];,733185
 adSupported=true;containsAds=true;year_bucket_range=[2017-2018];,215329
 adSupported=false;containsAds=false;year_bucket_range=[2015-2016];,144405
+property,count
 adSupported=false;containsAds=false;install_bucket_range=[100000000-101000000];,171
 adSupported=true;containsAds=true;install_bucket_range=[100000000-101000000];,531
 adSupported=true;containsAds=true;install_bucket_range=[50000000-51000000];,795
@@ -40278,6 +40400,7 @@ adSupported=true;containsAds=true;install_bucket_range=[1000000000-1001000000];,
 adSupported=false;containsAds=false;install_bucket_range=[2147483647--2146483649];,14
 adSupported=true;containsAds=true;install_bucket_range=[500000000-501000000];,39
 adSupported=true;containsAds=true;install_bucket_range=[2147483647--2146483649];,5
+property,count
 adSupported=true;containsAds=true;price_bucket_range=[35-40];,26
 adSupported=false;containsAds=false;price_bucket_range=[120-125];,22
 adSupported=true;containsAds=true;price_bucket_range=[25-30];,46
@@ -40421,6 +40544,7 @@ adSupported=true;containsAds=true;price_bucket_range=[205-210];,1
 adSupported=false;containsAds=false;price_bucket_range=[405-410];,1
 adSupported=false;containsAds=false;price_bucket_range=[285-290];,2
 adSupported=false;containsAds=false;price_bucket_range=[1100-1105];,1
+property,count
 adSupported=true;containsAds=true;rating_bucket_range=[4000000-5000000];,39
 adSupported=true;containsAds=true;rating_bucket_range=[5000000-6000000];,23
 adSupported=false;containsAds=false;rating_bucket_range=[1000000-2000000];,145
@@ -40482,6 +40606,7 @@ adSupported=true;containsAds=true;rating_bucket_range=[12000000-13000000];,1
 adSupported=false;containsAds=false;rating_bucket_range=[14000000-15000000];,1
 adSupported=true;containsAds=true;rating_bucket_range=[14000000-15000000];,1
 adSupported=true;containsAds=true;rating_bucket_range=[130000000-131000000];,1
+property,count
 adSupported=false;containsAds=false;score_bucket_range=[0-1];,1774674
 adSupported=false;containsAds=false;score_bucket_range=[4-5];,100530
 adSupported=false;containsAds=false;score_bucket_range=[3-4];,50663
@@ -40492,6 +40617,7 @@ adSupported=true;containsAds=true;score_bucket_range=[4-5];,168846
 adSupported=true;containsAds=true;score_bucket_range=[1-2];,3738
 adSupported=true;containsAds=true;score_bucket_range=[3-4];,80078
 adSupported=true;containsAds=true;score_bucket_range=[2-3];,18323
+property,count
 adSupported=true;updated_bucket_range=[2009-2010];year_bucket_range=[2009-2010];,44
 adSupported=false;updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];,86860
 adSupported=true;updated_bucket_range=[2011-2012];year_bucket_range=[2011-2012];,1117
@@ -40558,6 +40684,7 @@ adSupported=false;updated_bucket_range=[2021-2022];year_bucket_range=[2017-2018]
 adSupported=true;updated_bucket_range=[2019-2020];year_bucket_range=[2015-2016];,26144
 adSupported=true;updated_bucket_range=[2019-2020];year_bucket_range=[2011-2012];,3027
 adSupported=true;updated_bucket_range=[2017-2018];year_bucket_range=[2009-2010];,274
+property,count
 adSupported=true;updated_bucket_range=[2019-2020];install_bucket_range=[1000000-2000000];,5193
 adSupported=false;updated_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];,143
 adSupported=false;updated_bucket_range=[2021-2022];install_bucket_range=[0-1000000];,1134545
@@ -40638,6 +40765,7 @@ adSupported=false;updated_bucket_range=[2015-2016];install_bucket_range=[5000000
 adSupported=true;updated_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];,1
 adSupported=false;updated_bucket_range=[2017-2018];install_bucket_range=[1000000000-1001000000];,1
 adSupported=false;updated_bucket_range=[2015-2016];install_bucket_range=[500000000-501000000];,1
+property,count
 adSupported=false;updated_bucket_range=[2021-2022];price_bucket_range=[0-5];,1138237
 adSupported=false;updated_bucket_range=[2021-2022];price_bucket_range=[20-25];,334
 adSupported=false;updated_bucket_range=[2021-2022];price_bucket_range=[265-270];,5
@@ -41029,6 +41157,7 @@ adSupported=false;updated_bucket_range=[2013-2014];price_bucket_range=[65-70];,1
 adSupported=false;updated_bucket_range=[2015-2016];price_bucket_range=[220-225];,1
 adSupported=false;updated_bucket_range=[2017-2018];price_bucket_range=[170-175];,1
 adSupported=false;updated_bucket_range=[2017-2018];price_bucket_range=[295-300];,1
+property,count
 adSupported=false;updated_bucket_range=[2021-2022];rating_bucket_range=[0-1000000];,1145324
 adSupported=true;updated_bucket_range=[2021-2022];rating_bucket_range=[1000000-2000000];,386
 adSupported=true;updated_bucket_range=[2019-2020];rating_bucket_range=[0-1000000];,421725
@@ -41118,6 +41247,7 @@ adSupported=true;updated_bucket_range=[2021-2022];rating_bucket_range=[52000000-
 adSupported=true;updated_bucket_range=[2021-2022];rating_bucket_range=[14000000-15000000];,1
 adSupported=true;updated_bucket_range=[2021-2022];rating_bucket_range=[130000000-131000000];,1
 adSupported=true;updated_bucket_range=[2021-2022];rating_bucket_range=[16000000-17000000];,1
+property,count
 adSupported=true;updated_bucket_range=[2021-2022];score_bucket_range=[2-3];,10570
 adSupported=false;updated_bucket_range=[2011-2012];score_bucket_range=[4-5];,801
 adSupported=true;updated_bucket_range=[2017-2018];score_bucket_range=[1-2];,305
@@ -41188,6 +41318,7 @@ adSupported=true;updated_bucket_range=[2009-2010];score_bucket_range=[3-4];,19
 adSupported=true;updated_bucket_range=[2009-2010];score_bucket_range=[1-2];,2
 adSupported=true;updated_bucket_range=[2009-2010];score_bucket_range=[0-1];,5
 adSupported=true;updated_bucket_range=[2009-2010];score_bucket_range=[2-3];,2
+property,count
 adSupported=true;year_bucket_range=[2017-2018];install_bucket_range=[100000000-101000000];,106
 adSupported=true;year_bucket_range=[2019-2020];install_bucket_range=[1000000-2000000];,7263
 adSupported=false;year_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];,1572
@@ -41307,6 +41438,7 @@ adSupported=true;year_bucket_range=[2009-2010];install_bucket_range=[500000000-5
 adSupported=false;year_bucket_range=[2021-2022];install_bucket_range=[500000000-501000000];,1
 adSupported=true;year_bucket_range=[2011-2012];install_bucket_range=[2147483647--2146483649];,1
 adSupported=true;year_bucket_range=[2013-2014];install_bucket_range=[2147483647--2146483649];,1
+property,count
 adSupported=false;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,672311
 adSupported=false;year_bucket_range=[2021-2022];price_bucket_range=[20-25];,161
 adSupported=false;year_bucket_range=[2011-2012];price_bucket_range=[25-30];,35
@@ -41760,6 +41892,7 @@ adSupported=true;year_bucket_range=[2017-2018];price_bucket_range=[65-70];,1
 adSupported=false;year_bucket_range=[2017-2018];price_bucket_range=[385-390];,1
 adSupported=false;year_bucket_range=[2015-2016];price_bucket_range=[220-225];,1
 adSupported=false;year_bucket_range=[2017-2018];price_bucket_range=[170-175];,1
+property,count
 adSupported=false;year_bucket_range=[2013-2014];rating_bucket_range=[3000000-4000000];,9
 adSupported=false;year_bucket_range=[2013-2014];rating_bucket_range=[1000000-2000000];,37
 adSupported=true;year_bucket_range=[2019-2020];rating_bucket_range=[1000000-2000000];,48
@@ -41929,6 +42062,7 @@ adSupported=true;year_bucket_range=[2011-2012];rating_bucket_range=[16000000-170
 adSupported=true;year_bucket_range=[2013-2014];rating_bucket_range=[130000000-131000000];,1
 adSupported=false;year_bucket_range=[2021-2022];rating_bucket_range=[3000000-4000000];,1
 adSupported=true;year_bucket_range=[2019-2020];rating_bucket_range=[8000000-9000000];,1
+property,count
 adSupported=true;year_bucket_range=[2021-2022];score_bucket_range=[2-3];,4466
 adSupported=false;year_bucket_range=[2011-2012];score_bucket_range=[4-5];,8078
 adSupported=true;year_bucket_range=[2017-2018];score_bucket_range=[1-2];,683
@@ -41999,6 +42133,7 @@ adSupported=true;year_bucket_range=[2011-2012];score_bucket_range=[3-4];,4849
 adSupported=false;year_bucket_range=[2015-2016];score_bucket_range=[0-1];,114352
 adSupported=false;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,37
 adSupported=true;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,22
+property,count
 adSupported=true;install_bucket_range=[5000000-6000000];price_bucket_range=[0-5];,6090
 adSupported=false;install_bucket_range=[0-1000000];price_bucket_range=[350-355];,23
 adSupported=true;install_bucket_range=[0-1000000];price_bucket_range=[10-15];,128
@@ -42164,6 +42299,7 @@ adSupported=true;install_bucket_range=[0-1000000];price_bucket_range=[360-365];,
 adSupported=false;install_bucket_range=[0-1000000];price_bucket_range=[405-410];,1
 adSupported=false;install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];,1
 adSupported=false;install_bucket_range=[0-1000000];price_bucket_range=[285-290];,2
+property,count
 adSupported=true;install_bucket_range=[10000000-11000000];rating_bucket_range=[1000000-2000000];,96
 adSupported=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[4000000-5000000];,4
 adSupported=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[2000000-3000000];,31
@@ -42309,6 +42445,7 @@ adSupported=true;install_bucket_range=[2147483647--2146483649];rating_bucket_ran
 adSupported=true;install_bucket_range=[2147483647--2146483649];rating_bucket_range=[16000000-17000000];,1
 adSupported=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[7000000-8000000];,1
 adSupported=false;install_bucket_range=[500000000-501000000];rating_bucket_range=[4000000-5000000];,1
+property,count
 adSupported=false;install_bucket_range=[10000000-11000000];score_bucket_range=[3-4];,471
 adSupported=true;install_bucket_range=[0-1000000];score_bucket_range=[2-3];,17005
 adSupported=true;install_bucket_range=[5000000-6000000];score_bucket_range=[2-3];,132
@@ -42380,6 +42517,7 @@ adSupported=false;install_bucket_range=[50000000-51000000];score_bucket_range=[0
 adSupported=true;install_bucket_range=[2147483647--2146483649];score_bucket_range=[3-4];,1
 adSupported=false;install_bucket_range=[50000000-51000000];score_bucket_range=[1-2];,1
 adSupported=true;install_bucket_range=[50000000-51000000];score_bucket_range=[0-1];,1
+property,count
 adSupported=false;price_bucket_range=[30-35];rating_bucket_range=[0-1000000];,340
 adSupported=false;price_bucket_range=[125-130];rating_bucket_range=[0-1000000];,32
 adSupported=false;price_bucket_range=[395-400];rating_bucket_range=[0-1000000];,67
@@ -42583,6 +42721,7 @@ adSupported=true;price_bucket_range=[205-210];rating_bucket_range=[0-1000000];,1
 adSupported=true;price_bucket_range=[0-5];rating_bucket_range=[130000000-131000000];,1
 adSupported=false;price_bucket_range=[285-290];rating_bucket_range=[0-1000000];,2
 adSupported=false;price_bucket_range=[1100-1105];rating_bucket_range=[0-1000000];,1
+property,count
 adSupported=true;price_bucket_range=[5-10];score_bucket_range=[4-5];,129
 adSupported=false;price_bucket_range=[350-355];score_bucket_range=[0-1];,23
 adSupported=true;price_bucket_range=[260-265];score_bucket_range=[0-1];,2
@@ -42832,6 +42971,7 @@ adSupported=false;price_bucket_range=[305-310];score_bucket_range=[0-1];,1
 adSupported=true;price_bucket_range=[20-25];score_bucket_range=[1-2];,1
 adSupported=false;price_bucket_range=[1100-1105];score_bucket_range=[0-1];,1
 adSupported=false;price_bucket_range=[285-290];score_bucket_range=[0-1];,2
+property,count
 adSupported=true;rating_bucket_range=[0-1000000];score_bucket_range=[2-3];,18321
 adSupported=false;rating_bucket_range=[15000000-16000000];score_bucket_range=[4-5];,3
 adSupported=true;rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,3738
@@ -42918,6 +43058,7 @@ adSupported=true;rating_bucket_range=[14000000-15000000];score_bucket_range=[4-5
 adSupported=true;rating_bucket_range=[11000000-12000000];score_bucket_range=[3-4];,1
 adSupported=true;rating_bucket_range=[130000000-131000000];score_bucket_range=[3-4];,1
 adSupported=false;rating_bucket_range=[4000000-5000000];score_bucket_range=[3-4];,1
+property,count
 containsAds=true;updated_bucket_range=[2009-2010];year_bucket_range=[2009-2010];,44
 containsAds=false;updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];,86860
 containsAds=true;updated_bucket_range=[2011-2012];year_bucket_range=[2011-2012];,1117
@@ -42984,6 +43125,7 @@ containsAds=false;updated_bucket_range=[2021-2022];year_bucket_range=[2017-2018]
 containsAds=true;updated_bucket_range=[2019-2020];year_bucket_range=[2015-2016];,26144
 containsAds=true;updated_bucket_range=[2019-2020];year_bucket_range=[2011-2012];,3027
 containsAds=true;updated_bucket_range=[2017-2018];year_bucket_range=[2009-2010];,274
+property,count
 containsAds=true;updated_bucket_range=[2019-2020];install_bucket_range=[1000000-2000000];,5193
 containsAds=false;updated_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];,143
 containsAds=false;updated_bucket_range=[2021-2022];install_bucket_range=[0-1000000];,1134545
@@ -43064,6 +43206,7 @@ containsAds=false;updated_bucket_range=[2015-2016];install_bucket_range=[5000000
 containsAds=true;updated_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];,1
 containsAds=false;updated_bucket_range=[2017-2018];install_bucket_range=[1000000000-1001000000];,1
 containsAds=false;updated_bucket_range=[2015-2016];install_bucket_range=[500000000-501000000];,1
+property,count
 containsAds=false;updated_bucket_range=[2021-2022];price_bucket_range=[0-5];,1138237
 containsAds=false;updated_bucket_range=[2021-2022];price_bucket_range=[20-25];,334
 containsAds=false;updated_bucket_range=[2021-2022];price_bucket_range=[265-270];,5
@@ -43455,6 +43598,7 @@ containsAds=false;updated_bucket_range=[2013-2014];price_bucket_range=[65-70];,1
 containsAds=false;updated_bucket_range=[2015-2016];price_bucket_range=[220-225];,1
 containsAds=false;updated_bucket_range=[2017-2018];price_bucket_range=[170-175];,1
 containsAds=false;updated_bucket_range=[2017-2018];price_bucket_range=[295-300];,1
+property,count
 containsAds=false;updated_bucket_range=[2021-2022];rating_bucket_range=[0-1000000];,1145324
 containsAds=true;updated_bucket_range=[2021-2022];rating_bucket_range=[1000000-2000000];,386
 containsAds=true;updated_bucket_range=[2019-2020];rating_bucket_range=[0-1000000];,421725
@@ -43544,6 +43688,7 @@ containsAds=true;updated_bucket_range=[2021-2022];rating_bucket_range=[52000000-
 containsAds=true;updated_bucket_range=[2021-2022];rating_bucket_range=[14000000-15000000];,1
 containsAds=true;updated_bucket_range=[2021-2022];rating_bucket_range=[130000000-131000000];,1
 containsAds=true;updated_bucket_range=[2021-2022];rating_bucket_range=[16000000-17000000];,1
+property,count
 containsAds=true;updated_bucket_range=[2021-2022];score_bucket_range=[2-3];,10570
 containsAds=false;updated_bucket_range=[2011-2012];score_bucket_range=[4-5];,801
 containsAds=true;updated_bucket_range=[2017-2018];score_bucket_range=[1-2];,305
@@ -43614,6 +43759,7 @@ containsAds=true;updated_bucket_range=[2009-2010];score_bucket_range=[3-4];,19
 containsAds=true;updated_bucket_range=[2009-2010];score_bucket_range=[1-2];,2
 containsAds=true;updated_bucket_range=[2009-2010];score_bucket_range=[0-1];,5
 containsAds=true;updated_bucket_range=[2009-2010];score_bucket_range=[2-3];,2
+property,count
 containsAds=true;year_bucket_range=[2017-2018];install_bucket_range=[100000000-101000000];,106
 containsAds=true;year_bucket_range=[2019-2020];install_bucket_range=[1000000-2000000];,7263
 containsAds=false;year_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];,1572
@@ -43733,6 +43879,7 @@ containsAds=true;year_bucket_range=[2009-2010];install_bucket_range=[500000000-5
 containsAds=false;year_bucket_range=[2021-2022];install_bucket_range=[500000000-501000000];,1
 containsAds=true;year_bucket_range=[2011-2012];install_bucket_range=[2147483647--2146483649];,1
 containsAds=true;year_bucket_range=[2013-2014];install_bucket_range=[2147483647--2146483649];,1
+property,count
 containsAds=false;year_bucket_range=[2021-2022];price_bucket_range=[0-5];,672311
 containsAds=false;year_bucket_range=[2021-2022];price_bucket_range=[20-25];,161
 containsAds=false;year_bucket_range=[2011-2012];price_bucket_range=[25-30];,35
@@ -44186,6 +44333,7 @@ containsAds=true;year_bucket_range=[2017-2018];price_bucket_range=[65-70];,1
 containsAds=false;year_bucket_range=[2017-2018];price_bucket_range=[385-390];,1
 containsAds=false;year_bucket_range=[2015-2016];price_bucket_range=[220-225];,1
 containsAds=false;year_bucket_range=[2017-2018];price_bucket_range=[170-175];,1
+property,count
 containsAds=false;year_bucket_range=[2013-2014];rating_bucket_range=[3000000-4000000];,9
 containsAds=false;year_bucket_range=[2013-2014];rating_bucket_range=[1000000-2000000];,37
 containsAds=true;year_bucket_range=[2019-2020];rating_bucket_range=[1000000-2000000];,48
@@ -44355,6 +44503,7 @@ containsAds=true;year_bucket_range=[2011-2012];rating_bucket_range=[16000000-170
 containsAds=true;year_bucket_range=[2013-2014];rating_bucket_range=[130000000-131000000];,1
 containsAds=false;year_bucket_range=[2021-2022];rating_bucket_range=[3000000-4000000];,1
 containsAds=true;year_bucket_range=[2019-2020];rating_bucket_range=[8000000-9000000];,1
+property,count
 containsAds=true;year_bucket_range=[2021-2022];score_bucket_range=[2-3];,4466
 containsAds=false;year_bucket_range=[2011-2012];score_bucket_range=[4-5];,8078
 containsAds=true;year_bucket_range=[2017-2018];score_bucket_range=[1-2];,683
@@ -44425,6 +44574,7 @@ containsAds=true;year_bucket_range=[2011-2012];score_bucket_range=[3-4];,4849
 containsAds=false;year_bucket_range=[2015-2016];score_bucket_range=[0-1];,114352
 containsAds=false;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,37
 containsAds=true;year_bucket_range=[2009-2010];score_bucket_range=[1-2];,22
+property,count
 containsAds=true;install_bucket_range=[5000000-6000000];price_bucket_range=[0-5];,6090
 containsAds=false;install_bucket_range=[0-1000000];price_bucket_range=[350-355];,23
 containsAds=true;install_bucket_range=[0-1000000];price_bucket_range=[10-15];,128
@@ -44590,6 +44740,7 @@ containsAds=true;install_bucket_range=[0-1000000];price_bucket_range=[360-365];,
 containsAds=false;install_bucket_range=[0-1000000];price_bucket_range=[405-410];,1
 containsAds=false;install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];,1
 containsAds=false;install_bucket_range=[0-1000000];price_bucket_range=[285-290];,2
+property,count
 containsAds=true;install_bucket_range=[10000000-11000000];rating_bucket_range=[1000000-2000000];,96
 containsAds=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[4000000-5000000];,4
 containsAds=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[2000000-3000000];,31
@@ -44735,6 +44886,7 @@ containsAds=true;install_bucket_range=[2147483647--2146483649];rating_bucket_ran
 containsAds=true;install_bucket_range=[2147483647--2146483649];rating_bucket_range=[16000000-17000000];,1
 containsAds=true;install_bucket_range=[50000000-51000000];rating_bucket_range=[7000000-8000000];,1
 containsAds=false;install_bucket_range=[500000000-501000000];rating_bucket_range=[4000000-5000000];,1
+property,count
 containsAds=false;install_bucket_range=[10000000-11000000];score_bucket_range=[3-4];,471
 containsAds=true;install_bucket_range=[0-1000000];score_bucket_range=[2-3];,17005
 containsAds=true;install_bucket_range=[5000000-6000000];score_bucket_range=[2-3];,132
@@ -44806,6 +44958,7 @@ containsAds=false;install_bucket_range=[50000000-51000000];score_bucket_range=[0
 containsAds=true;install_bucket_range=[2147483647--2146483649];score_bucket_range=[3-4];,1
 containsAds=false;install_bucket_range=[50000000-51000000];score_bucket_range=[1-2];,1
 containsAds=true;install_bucket_range=[50000000-51000000];score_bucket_range=[0-1];,1
+property,count
 containsAds=false;price_bucket_range=[30-35];rating_bucket_range=[0-1000000];,340
 containsAds=false;price_bucket_range=[125-130];rating_bucket_range=[0-1000000];,32
 containsAds=false;price_bucket_range=[395-400];rating_bucket_range=[0-1000000];,67
@@ -45009,6 +45162,7 @@ containsAds=true;price_bucket_range=[205-210];rating_bucket_range=[0-1000000];,1
 containsAds=true;price_bucket_range=[0-5];rating_bucket_range=[130000000-131000000];,1
 containsAds=false;price_bucket_range=[285-290];rating_bucket_range=[0-1000000];,2
 containsAds=false;price_bucket_range=[1100-1105];rating_bucket_range=[0-1000000];,1
+property,count
 containsAds=true;price_bucket_range=[5-10];score_bucket_range=[4-5];,129
 containsAds=false;price_bucket_range=[350-355];score_bucket_range=[0-1];,23
 containsAds=true;price_bucket_range=[260-265];score_bucket_range=[0-1];,2
@@ -45258,6 +45412,7 @@ containsAds=false;price_bucket_range=[305-310];score_bucket_range=[0-1];,1
 containsAds=true;price_bucket_range=[20-25];score_bucket_range=[1-2];,1
 containsAds=false;price_bucket_range=[1100-1105];score_bucket_range=[0-1];,1
 containsAds=false;price_bucket_range=[285-290];score_bucket_range=[0-1];,2
+property,count
 containsAds=true;rating_bucket_range=[0-1000000];score_bucket_range=[2-3];,18321
 containsAds=false;rating_bucket_range=[15000000-16000000];score_bucket_range=[4-5];,3
 containsAds=true;rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,3738
@@ -45344,6 +45499,7 @@ containsAds=true;rating_bucket_range=[14000000-15000000];score_bucket_range=[4-5
 containsAds=true;rating_bucket_range=[11000000-12000000];score_bucket_range=[3-4];,1
 containsAds=true;rating_bucket_range=[130000000-131000000];score_bucket_range=[3-4];,1
 containsAds=false;rating_bucket_range=[4000000-5000000];score_bucket_range=[3-4];,1
+property,count
 updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];install_bucket_range=[0-1000000];,155960
 updated_bucket_range=[2021-2022];year_bucket_range=[2009-2010];install_bucket_range=[10000000-11000000];,188
 updated_bucket_range=[2021-2022];year_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];,3194
@@ -45531,6 +45687,7 @@ updated_bucket_range=[2021-2022];year_bucket_range=[2021-2022];install_bucket_ra
 updated_bucket_range=[2021-2022];year_bucket_range=[2015-2016];install_bucket_range=[2147483647--2146483649];,2
 updated_bucket_range=[2015-2016];year_bucket_range=[2015-2016];install_bucket_range=[100000000-101000000];,1
 updated_bucket_range=[2015-2016];year_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];,1
+property,count
 updated_bucket_range=[2021-2022];year_bucket_range=[2019-2020];price_bucket_range=[35-40];,24
 updated_bucket_range=[2017-2018];year_bucket_range=[2015-2016];price_bucket_range=[0-5];,38858
 updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];price_bucket_range=[25-30];,29
@@ -46173,6 +46330,7 @@ updated_bucket_range=[2011-2012];year_bucket_range=[2011-2012];price_bucket_rang
 updated_bucket_range=[2017-2018];year_bucket_range=[2017-2018];price_bucket_range=[295-300];,1
 updated_bucket_range=[2021-2022];year_bucket_range=[2019-2020];price_bucket_range=[1100-1105];,1
 updated_bucket_range=[2021-2022];year_bucket_range=[2017-2018];price_bucket_range=[385-390];,1
+property,count
 updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];rating_bucket_range=[0-1000000];,158163
 updated_bucket_range=[2021-2022];year_bucket_range=[2013-2014];rating_bucket_range=[1000000-2000000];,119
 updated_bucket_range=[2019-2020];year_bucket_range=[2021-2022];rating_bucket_range=[0-1000000];,37
@@ -46335,6 +46493,7 @@ updated_bucket_range=[2021-2022];year_bucket_range=[2011-2012];rating_bucket_ran
 updated_bucket_range=[2021-2022];year_bucket_range=[2013-2014];rating_bucket_range=[130000000-131000000];,1
 updated_bucket_range=[2019-2020];year_bucket_range=[2017-2018];rating_bucket_range=[2000000-3000000];,1
 updated_bucket_range=[2021-2022];year_bucket_range=[2019-2020];rating_bucket_range=[8000000-9000000];,1
+property,count
 updated_bucket_range=[2021-2022];year_bucket_range=[2017-2018];score_bucket_range=[2-3];,3861
 updated_bucket_range=[2019-2020];year_bucket_range=[2019-2020];score_bucket_range=[1-2];,1322
 updated_bucket_range=[2017-2018];year_bucket_range=[2015-2016];score_bucket_range=[2-3];,903
@@ -46484,6 +46643,7 @@ updated_bucket_range=[2013-2014];year_bucket_range=[2009-2010];score_bucket_rang
 updated_bucket_range=[2019-2020];year_bucket_range=[2009-2010];score_bucket_range=[1-2];,9
 updated_bucket_range=[2015-2016];year_bucket_range=[2009-2010];score_bucket_range=[2-3];,13
 updated_bucket_range=[2017-2018];year_bucket_range=[2009-2010];score_bucket_range=[1-2];,3
+property,count
 updated_bucket_range=[2019-2020];install_bucket_range=[0-1000000];price_bucket_range=[55-60];,25
 updated_bucket_range=[2021-2022];install_bucket_range=[0-1000000];price_bucket_range=[85-90];,32
 updated_bucket_range=[2009-2010];install_bucket_range=[0-1000000];price_bucket_range=[0-5];,338
@@ -46812,6 +46972,7 @@ updated_bucket_range=[2015-2016];install_bucket_range=[0-1000000];price_bucket_r
 updated_bucket_range=[2013-2014];install_bucket_range=[0-1000000];price_bucket_range=[125-130];,1
 updated_bucket_range=[2021-2022];install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];,1
 updated_bucket_range=[2013-2014];install_bucket_range=[0-1000000];price_bucket_range=[65-70];,1
+property,count
 updated_bucket_range=[2021-2022];install_bucket_range=[100000000-101000000];rating_bucket_range=[5000000-6000000];,21
 updated_bucket_range=[2021-2022];install_bucket_range=[100000000-101000000];rating_bucket_range=[2000000-3000000];,97
 updated_bucket_range=[2015-2016];install_bucket_range=[0-1000000];rating_bucket_range=[0-1000000];,81368
@@ -46963,6 +47124,7 @@ updated_bucket_range=[2021-2022];install_bucket_range=[50000000-51000000];rating
 updated_bucket_range=[2021-2022];install_bucket_range=[50000000-51000000];rating_bucket_range=[7000000-8000000];,1
 updated_bucket_range=[2021-2022];install_bucket_range=[2147483647--2146483649];rating_bucket_range=[16000000-17000000];,1
 updated_bucket_range=[2021-2022];install_bucket_range=[2147483647--2146483649];rating_bucket_range=[130000000-131000000];,1
+property,count
 updated_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];score_bucket_range=[4-5];,141
 updated_bucket_range=[2011-2012];install_bucket_range=[0-1000000];score_bucket_range=[1-2];,29
 updated_bucket_range=[2021-2022];install_bucket_range=[1000000-2000000];score_bucket_range=[3-4];,8260
@@ -47112,6 +47274,7 @@ updated_bucket_range=[2021-2022];install_bucket_range=[50000000-51000000];score_
 updated_bucket_range=[2021-2022];install_bucket_range=[50000000-51000000];score_bucket_range=[0-1];,2
 updated_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];score_bucket_range=[3-4];,1
 updated_bucket_range=[2015-2016];install_bucket_range=[5000000-6000000];score_bucket_range=[0-1];,2
+property,count
 updated_bucket_range=[2017-2018];price_bucket_range=[15-20];rating_bucket_range=[0-1000000];,153
 updated_bucket_range=[2021-2022];price_bucket_range=[120-125];rating_bucket_range=[0-1000000];,16
 updated_bucket_range=[2019-2020];price_bucket_range=[5-10];rating_bucket_range=[0-1000000];,3813
@@ -47451,6 +47614,7 @@ updated_bucket_range=[2015-2016];price_bucket_range=[120-125];rating_bucket_rang
 updated_bucket_range=[2015-2016];price_bucket_range=[65-70];rating_bucket_range=[0-1000000];,1
 updated_bucket_range=[2017-2018];price_bucket_range=[345-350];rating_bucket_range=[0-1000000];,1
 updated_bucket_range=[2013-2014];price_bucket_range=[125-130];rating_bucket_range=[0-1000000];,1
+property,count
 updated_bucket_range=[2015-2016];price_bucket_range=[0-5];score_bucket_range=[2-3];,1356
 updated_bucket_range=[2017-2018];price_bucket_range=[5-10];score_bucket_range=[4-5];,157
 updated_bucket_range=[2021-2022];price_bucket_range=[135-140];score_bucket_range=[4-5];,1
@@ -47929,6 +48093,7 @@ updated_bucket_range=[2017-2018];price_bucket_range=[345-350];score_bucket_range
 updated_bucket_range=[2013-2014];price_bucket_range=[65-70];score_bucket_range=[0-1];,1
 updated_bucket_range=[2017-2018];price_bucket_range=[295-300];score_bucket_range=[0-1];,1
 updated_bucket_range=[2011-2012];price_bucket_range=[75-80];score_bucket_range=[0-1];,1
+property,count
 updated_bucket_range=[2011-2012];rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,29
 updated_bucket_range=[2021-2022];rating_bucket_range=[11000000-12000000];score_bucket_range=[4-5];,12
 updated_bucket_range=[2021-2022];rating_bucket_range=[1000000-2000000];score_bucket_range=[3-4];,41
@@ -48033,6 +48198,7 @@ updated_bucket_range=[2021-2022];rating_bucket_range=[6000000-7000000];score_buc
 updated_bucket_range=[2021-2022];rating_bucket_range=[11000000-12000000];score_bucket_range=[3-4];,1
 updated_bucket_range=[2021-2022];rating_bucket_range=[16000000-17000000];score_bucket_range=[4-5];,1
 updated_bucket_range=[2021-2022];rating_bucket_range=[130000000-131000000];score_bucket_range=[3-4];,1
+property,count
 year_bucket_range=[2021-2022];install_bucket_range=[0-1000000];price_bucket_range=[85-90];,24
 year_bucket_range=[2009-2010];install_bucket_range=[0-1000000];price_bucket_range=[0-5];,3629
 year_bucket_range=[2013-2014];install_bucket_range=[0-1000000];price_bucket_range=[45-50];,15
@@ -48423,6 +48589,7 @@ year_bucket_range=[2017-2018];install_bucket_range=[0-1000000];price_bucket_rang
 year_bucket_range=[2017-2018];install_bucket_range=[0-1000000];price_bucket_range=[135-140];,1
 year_bucket_range=[2017-2018];install_bucket_range=[0-1000000];price_bucket_range=[245-250];,1
 year_bucket_range=[2013-2014];install_bucket_range=[0-1000000];price_bucket_range=[125-130];,1
+property,count
 year_bucket_range=[2013-2014];install_bucket_range=[10000000-11000000];rating_bucket_range=[1000000-2000000];,45
 year_bucket_range=[2013-2014];install_bucket_range=[50000000-51000000];rating_bucket_range=[0-1000000];,93
 year_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];rating_bucket_range=[0-1000000];,146
@@ -48689,6 +48856,7 @@ year_bucket_range=[2019-2020];install_bucket_range=[100000000-101000000];rating_
 year_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];rating_bucket_range=[5000000-6000000];,1
 year_bucket_range=[2011-2012];install_bucket_range=[2147483647--2146483649];rating_bucket_range=[3000000-4000000];,1
 year_bucket_range=[2013-2014];install_bucket_range=[50000000-51000000];rating_bucket_range=[4000000-5000000];,1
+property,count
 year_bucket_range=[2013-2014];install_bucket_range=[1000000-2000000];score_bucket_range=[4-5];,3008
 year_bucket_range=[2011-2012];install_bucket_range=[0-1000000];score_bucket_range=[1-2];,212
 year_bucket_range=[2009-2010];install_bucket_range=[1000000-2000000];score_bucket_range=[4-5];,260
@@ -48899,6 +49067,7 @@ year_bucket_range=[2015-2016];install_bucket_range=[100000000-101000000];score_b
 year_bucket_range=[2015-2016];install_bucket_range=[50000000-51000000];score_bucket_range=[2-3];,2
 year_bucket_range=[2011-2012];install_bucket_range=[5000000-6000000];score_bucket_range=[0-1];,2
 year_bucket_range=[2013-2014];install_bucket_range=[50000000-51000000];score_bucket_range=[0-1];,1
+property,count
 year_bucket_range=[2017-2018];price_bucket_range=[15-20];rating_bucket_range=[0-1000000];,214
 year_bucket_range=[2011-2012];price_bucket_range=[25-30];rating_bucket_range=[0-1000000];,37
 year_bucket_range=[2021-2022];price_bucket_range=[120-125];rating_bucket_range=[0-1000000];,9
@@ -49335,6 +49504,7 @@ year_bucket_range=[2017-2018];price_bucket_range=[215-220];rating_bucket_range=[
 year_bucket_range=[2017-2018];price_bucket_range=[345-350];rating_bucket_range=[0-1000000];,1
 year_bucket_range=[2021-2022];price_bucket_range=[200-205];rating_bucket_range=[0-1000000];,1
 year_bucket_range=[2013-2014];price_bucket_range=[125-130];rating_bucket_range=[0-1000000];,1
+property,count
 year_bucket_range=[2015-2016];price_bucket_range=[0-5];score_bucket_range=[2-3];,5589
 year_bucket_range=[2017-2018];price_bucket_range=[5-10];score_bucket_range=[4-5];,258
 year_bucket_range=[2011-2012];price_bucket_range=[395-400];score_bucket_range=[0-1];,1
@@ -49902,6 +50072,7 @@ year_bucket_range=[2017-2018];price_bucket_range=[245-250];score_bucket_range=[0
 year_bucket_range=[2017-2018];price_bucket_range=[170-175];score_bucket_range=[0-1];,1
 year_bucket_range=[2017-2018];price_bucket_range=[345-350];score_bucket_range=[0-1];,1
 year_bucket_range=[2019-2020];price_bucket_range=[1100-1105];score_bucket_range=[0-1];,1
+property,count
 year_bucket_range=[2013-2014];rating_bucket_range=[1000000-2000000];score_bucket_range=[4-5];,120
 year_bucket_range=[2015-2016];rating_bucket_range=[2000000-3000000];score_bucket_range=[4-5];,35
 year_bucket_range=[2011-2012];rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,232
@@ -50073,6 +50244,7 @@ year_bucket_range=[2021-2022];rating_bucket_range=[3000000-4000000];score_bucket
 year_bucket_range=[2011-2012];rating_bucket_range=[8000000-9000000];score_bucket_range=[4-5];,1
 year_bucket_range=[2019-2020];rating_bucket_range=[8000000-9000000];score_bucket_range=[4-5];,1
 year_bucket_range=[2019-2020];rating_bucket_range=[4000000-5000000];score_bucket_range=[3-4];,1
+property,count
 install_bucket_range=[1000000-2000000];price_bucket_range=[5-10];rating_bucket_range=[0-1000000];,15
 install_bucket_range=[0-1000000];price_bucket_range=[65-70];rating_bucket_range=[0-1000000];,77
 install_bucket_range=[0-1000000];price_bucket_range=[130-135];rating_bucket_range=[0-1000000];,16
@@ -50261,6 +50433,7 @@ install_bucket_range=[0-1000000];price_bucket_range=[305-310];rating_bucket_rang
 install_bucket_range=[2147483647--2146483649];price_bucket_range=[0-5];rating_bucket_range=[130000000-131000000];,1
 install_bucket_range=[0-1000000];price_bucket_range=[405-410];rating_bucket_range=[0-1000000];,1
 install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];rating_bucket_range=[0-1000000];,1
+property,count
 install_bucket_range=[0-1000000];price_bucket_range=[350-355];score_bucket_range=[0-1];,27
 install_bucket_range=[0-1000000];price_bucket_range=[340-345];score_bucket_range=[0-1];,12
 install_bucket_range=[5000000-6000000];price_bucket_range=[0-5];score_bucket_range=[3-4];,2290
@@ -50467,6 +50640,7 @@ install_bucket_range=[0-1000000];price_bucket_range=[405-410];score_bucket_range
 install_bucket_range=[0-1000000];price_bucket_range=[305-310];score_bucket_range=[0-1];,1
 install_bucket_range=[50000000-51000000];price_bucket_range=[0-5];score_bucket_range=[1-2];,1
 install_bucket_range=[0-1000000];price_bucket_range=[1100-1105];score_bucket_range=[0-1];,1
+property,count
 install_bucket_range=[100000000-101000000];rating_bucket_range=[5000000-6000000];score_bucket_range=[4-5];,22
 install_bucket_range=[50000000-51000000];rating_bucket_range=[2000000-3000000];score_bucket_range=[3-4];,6
 install_bucket_range=[1000000-2000000];rating_bucket_range=[0-1000000];score_bucket_range=[1-2];,202
@@ -50614,6 +50788,7 @@ install_bucket_range=[10000000-11000000];rating_bucket_range=[1000000-2000000];s
 install_bucket_range=[2147483647--2146483649];rating_bucket_range=[130000000-131000000];score_bucket_range=[3-4];,1
 install_bucket_range=[50000000-51000000];rating_bucket_range=[7000000-8000000];score_bucket_range=[4-5];,1
 install_bucket_range=[2147483647--2146483649];rating_bucket_range=[3000000-4000000];score_bucket_range=[4-5];,1
+property,count
 price_bucket_range=[85-90];rating_bucket_range=[0-1000000];score_bucket_range=[0-1];,40
 price_bucket_range=[170-175];rating_bucket_range=[0-1000000];score_bucket_range=[2-3];,1
 price_bucket_range=[120-125];rating_bucket_range=[0-1000000];score_bucket_range=[0-1];,26
