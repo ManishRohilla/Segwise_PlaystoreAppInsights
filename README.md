@@ -11,7 +11,6 @@ Data_Engineering Assignment for Segwise
   
 ## Dataset
 - File should be named as "playstore.csv".
-- size 3 as property, it is configurable.
 - Use import os to check the current working directory use command: os.getcwd().
 - Place dataset file on the location shown in the output.
 
